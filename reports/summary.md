@@ -116,7 +116,7 @@ _Numbers below are rewritten by every run. Last run: 11 October 2026._
 | Consumer Services | 125 | 1274.1 |
 | Media & Entertainment | 64 | 457.0 |
 | Deeptech | 49 | 206.3 |
-| Agritech | 45 | 470.8 |
+| Travel Tech | 45 | 590.6 |
 
 ## Rounds by city (top 12)
 
@@ -126,8 +126,8 @@ _Numbers below are rewritten by every run. Last run: 11 October 2026._
 | Bengaluru | 461 | 6699.2 |
 | Delhi NCR | 283 | 2980.4 |
 | Mumbai | 191 | 4648.2 |
-| Pune | 52 | 348.0 |
 | Chennai | 52 | 403.9 |
+| Pune | 52 | 348.0 |
 | Hyderabad | 51 | 560.7 |
 | Outside India | 48 | 1872.7 |
 | Ahmedabad | 18 | 156.2 |
