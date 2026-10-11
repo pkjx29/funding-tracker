@@ -1,0 +1,2281 @@
+round_id,record_id,source,company_in_report,match_basis,match_score
+R250102-cargofl,INC-20250104-02,inc42,CargoFL,identical name,100.0
+R250104-oyo,INC-20250111-02,inc42,OYO,identical name,100.0
+R250106-consintai,ET-117009532,et,Consint AI,identical name,100.0
+R250106-spintly,INC-20250111-17,inc42,Spintly,identical name,100.0
+R250107-emoenergy,ET-117002145,et,Emo Energy,identical name,100.0
+R250107-emoenergy,INC-20250111-06,inc42,EMO Energy,identical name,100.0
+R250107-moonrider,ET-117028244,et,Moonrider,identical name,100.0
+R250107-moonrider,INC-20250111-13,inc42,Moonrider,identical name,100.0
+R250107-obenelectric,INC-20250111-07,inc42,Oben Electric,identical name,100.0
+R250107-vehanttechnolo,ENT-8601401,entrackr,Vehant Technologies,identical name,100.0
+R250107-zoplar,INC-20250111-12,inc42,Zoplar,identical name,100.0
+R250108-brainsightai,ET-117059845,et,BrainSightAI,spacing or punctuation variant,100.0
+R250108-brainsightai,INC-20250111-09,inc42,BrainSinghtAI,spelling variant (fuzzy match),96.0
+R250108-hbits,INC-20250111-10,inc42,hBits,identical name,100.0
+R250108-rasluxuryskinc,ET-117033168,et,RAS Luxury Skincare,identical name,100.0
+R250108-rasluxuryskinc,INC-20250111-08,inc42,RAS Luxury,longer and shorter form of the name,95.0
+R250109-beyondsnack,ET-117059037,et,Beyond Snack,identical name,100.0
+R250109-beyondsnack,INC-20250111-05,inc42,Beyond Snack,identical name,100.0
+R250109-beyondsnack,VCC-535f3dc4e0,vccircle,beyondsnack,spacing or punctuation variant,100.0
+R250109-grayquest,ET-117088951,et,GrayQuest,identical name,100.0
+R250109-grayquest,INC-20250111-04,inc42,GrayQuest,identical name,100.0
+R250109-grayquest,VCC-121e17de38,vccircle,howfamilyoffice backers of grayquest are sitting on an upside as it,name found inside the headline,100.0
+R250109-infinityfincor,ET-117063789,et,Infinity Fincorp,generic word added or dropped,100.0
+R250109-infinityfincor,INC-20250111-03,inc42,Infinity Fincorp,generic word added or dropped,100.0
+R250109-innovaccer,ENT-8606711,entrackr,Innovaccer,identical name,100.0
+R250109-innovaccer,ET-117092526,et,Innovaccer,identical name,100.0
+R250109-innovaccer,VCC-540eb98a2d,vccircle,innovacer,spelling variant (fuzzy match),94.7
+R250110-quash,INC-20250111-16,inc42,Quash,identical name,100.0
+R250110-reputai,ENT-8619352,entrackr,RePut.ai,identical name,100.0
+R250113-bobabhai,ET-117178912,et,Boba Bhai,identical name,100.0
+R250113-bobabhai,INC-20250118-13,inc42,Boba Bhai,identical name,100.0
+R250114-bgauss,ET-117211441,et,BGauss,identical name,100.0
+R250114-bgauss,INC-20250118-06,inc42,BGauss,identical name,100.0
+R250114-greenstitch,ENT-8623238,entrackr,GreenStitch,identical name,100.0
+R250114-tractorfactory,ET-117257400,et,Tractor Factory,identical name,100.0
+R250114-tractorfactory,INC-20250118-23,inc42,Tractor Factory,identical name,100.0
+R250115-eccentricengin,ET-117242387,et,Eccentric,identical name,100.0
+R250115-eccentricengin,INC-20250118-10,inc42,Eccentric,longer and shorter form of the name,95.0
+R250115-ecozen,INC-20250118-04,inc42,Ecozen,identical name,100.0
+R250115-erlysign,ENT-8625920,entrackr,ErlySign,identical name,100.0
+R250115-foxtale,ET-117259339,et,Foxtale,identical name,100.0
+R250115-foxtale,INC-20250118-03,inc42,Foxtale,identical name,100.0
+R250115-orbitaid,ET-117264412,et,OrbitAID,identical name,100.0
+R250115-orbitaid,INC-20250118-21,inc42,OrbitAID,identical name,100.0
+R250115-parkmate,INC-20250118-22,inc42,ParkMate,identical name,100.0
+R250115-sarlaaviation,ET-117244903,et,Sarla Aviation,identical name,100.0
+R250115-sarlaaviation,INC-20250118-08,inc42,Sarla Aviation,identical name,100.0
+R250115-sukoonunlimite,INC-20250118-24,inc42,Sukoon Unlimited,identical name,100.0
+R250115-tyreplex,INC-20250118-15,inc42,TyrePlex,identical name,100.0
+R250116-astrosureai,INC-20250118-09,inc42,AstroSure,generic word added or dropped,100.0
+R250116-constelli,ENT-8629310,entrackr,Constelli,identical name,100.0
+R250116-constelli,INC-20250118-14,inc42,Constelli,identical name,100.0
+R250116-fambo,INC-20250118-17,inc42,Fambo,identical name,100.0
+R250116-wevois,INC-20250118-12,inc42,WeVOIS,identical name,100.0
+R250116-zerocircle,ET-117275981,et,Zerocircle,identical name,100.0
+R250117-catalyxspace,INC-20250125-17,inc42,Catalyx Space,identical name,100.0
+R250117-netradyne,ET-117325369,et,Netradyne,identical name,100.0
+R250117-netradyne,INC-20250118-01,inc42,Netradyne,identical name,100.0
+R250120-bprhub,ET-117416268,et,BPR Hub,identical name,100.0
+R250120-kisankonnect,INC-20250125-11,inc42,KisanKonnect,identical name,100.0
+R250120-krvvy,ET-117389610,et,Krvvy,identical name,100.0
+R250120-nazara,ET-117394327,et,Nazara,identical name,100.0
+R250120-prantaesolutio,INC-20250125-22,inc42,Prantae Solutions,identical name,100.0
+R250120-procureyard,INC-20250125-16,inc42,ProcureYard,identical name,100.0
+R250121-chelviescoffee,INC-20250125-21,inc42,Chelvies Coffee,identical name,100.0
+R250121-joyspoon,INC-20250125-26,inc42,JoySpoon,identical name,100.0
+R250121-postudio,ET-117421235,et,Postudio,identical name,100.0
+R250121-snabbit,ET-117405624,et,Snabbit,identical name,100.0
+R250121-snabbit,INC-20250125-09,inc42,Snabbit,identical name,100.0
+R250121-workie,ENT-8644098,entrackr,Workie,identical name,100.0
+R250122-cancrie,INC-20250125-19,inc42,Cancrie,identical name,100.0
+R250122-deconstruct,INC-20250125-06,inc42,DeConstruct,identical name,100.0
+R250122-exsure,INC-20250125-23,inc42,Exsure,identical name,100.0
+R250122-namdevfinvest,VCC-aef36851fe,vccircle,namdev finvest pushes back fundraising plan,name found inside the headline,100.0
+R250122-namdevfinvest,VCC-c7efd73842,vccircle,namdevfinvest,spacing or punctuation variant,100.0
+R250122-raazapp,ET-117442496,et,Raaz App,identical name,100.0
+R250122-raazapp,INC-20250125-20,inc42,Raaz,generic word added or dropped,100.0
+R250122-zeelabpharmacy,ET-117455009,et,Zeelab Pharmacy,identical name,100.0
+R250122-zeelabpharmacy,INC-20250125-15,inc42,Zeelab Pharmacy,identical name,100.0
+R250123-arya,INC-20250125-03,inc42,Arya.ag,longer and shorter form of the name,95.0
+R250123-atimotors,ET-117464373,et,Ati Motors,identical name,100.0
+R250123-atimotors,INC-20250125-04,inc42,Ati Motors,identical name,100.0
+R250123-dreamaerospace,INC-20250125-24,inc42,Dream Aerospace,identical name,100.0
+R250123-inframarket,INC-20250125-01,inc42,Infra.Market,identical name,100.0
+R250123-landeed,INC-20250125-10,inc42,Landeed,identical name,100.0
+R250123-svastek,INC-20250125-25,inc42,SVASTEK,identical name,100.0
+R250123-vunetsystems,ET-117464267,et,VuNet Systems,identical name,100.0
+R250123-vunetsystems,INC-20250125-07,inc42,VuNet,generic word added or dropped,100.0
+R250123-vunetsystems,VCC-0683d1d4e0,vccircle,vunetsystems,spacing or punctuation variant,100.0
+R250124-medusabeverage,INC-20250125-08,inc42,Medusa,longer and shorter form of the name,95.0
+R250124-pipeshift,ET-117493444,et,Pipeshift,identical name,100.0
+R250124-pipeshift,INC-20250125-14,inc42,Pipeshift,identical name,100.0
+R250127-astrometechnol,INC-20250201-06,inc42,Astrome,generic word added or dropped,100.0
+R250127-emiza,INC-20250201-05,inc42,Emiza,identical name,100.0
+R250127-voltup,INC-20250201-07,inc42,VoltUp,identical name,100.0
+R250128-ambak,ET-117610893,et,Ambak,identical name,100.0
+R250128-ambak,INC-20250201-08,inc42,Ambak,identical name,100.0
+R250128-atomicwork,ENT-8662955,entrackr,Atomicwork,identical name,100.0
+R250128-atomicwork,INC-20250201-02,inc42,Atomicwork,identical name,100.0
+R250128-atomicwork,VCC-128b4e8bb5,vccircle,atomicwork,identical name,100.0
+R250128-bizloan,INC-20250201-10,inc42,Bizloan,identical name,100.0
+R250128-innov8,ET-117621931,et,Innov8,identical name,100.0
+R250128-innov8,INC-20250201-04,inc42,Innov8,identical name,100.0
+R250128-medmitraai,INC-20250201-22,inc42,MedMitra AI,identical name,100.0
+R250128-metashot,ET-117624912,et,MetaShot,identical name,100.0
+R250128-metashot,INC-20250201-15,inc42,Metashot,identical name,100.0
+R250128-origin,INC-20250201-17,inc42,Origin Fresh,longer and shorter form of the name,95.0
+R250128-thinkmetal,INC-20250201-20,inc42,ThinkMetal,identical name,100.0
+R250128-whizzo,INC-20250201-11,inc42,Whizzo,identical name,100.0
+R250129-growxcdfinance,INC-20250201-09,inc42,GrowXCD Finance,identical name,100.0
+R250129-leap,ET-117675174,et,Leap,identical name,100.0
+R250129-leap,INC-20250201-01,inc42,Leap,identical name,100.0
+R250129-shoppin,ET-117689805,et,Shoppin,identical name,100.0
+R250129-shoppin,INC-20250201-19,inc42,shoppin’,identical name,100.0
+R250130-bonvaero,INC-20250201-16,inc42,BonV,longer and shorter form of the name,95.0
+R250130-chk,ET-117696832,et,CHK,identical name,100.0
+R250130-chk,INC-20250201-14,inc42,CHK,identical name,100.0
+R250130-saladdays,ET-117697394,et,Salad Days,identical name,100.0
+R250130-saladdays,INC-20250201-13,inc42,Salad Days,identical name,100.0
+R250130-superops,INC-20250201-03,inc42,SuperOps,identical name,100.0
+R250130-utsav,ENT-8677250,entrackr,Utsav,identical name,100.0
+R250130-utsav,INC-20250201-21,inc42,Utsav App,generic word added or dropped,100.0
+R250131-captainfresh,ET-117788965,et,Captain Fresh,identical name,100.0
+R250131-captainfresh,INC-20250208-02,inc42,Captain Fresh,identical name,100.0
+R250204-hairoriginals,ENT-8691637,entrackr,HairOriginals,identical name,100.0
+R250204-hairoriginals,ET-117921270,et,Hair Originals,spacing or punctuation variant,100.0
+R250205-astrasecurity,ENT-8695652,entrackr,Astra Security,identical name,100.0
+R250205-astrasecurity,ET-117980607,et,Astra Security,identical name,100.0
+R250205-cashfreepaymen,ET-117923690,et,Cashfree,longer and shorter form of the name,95.0
+R250205-cashfreepaymen,INC-20250208-01,inc42,Cashfree Payments,identical name,100.0
+R250205-cashfreepaymen,VCC-0dbe3bb8d4,vccircle,cashfree payments,identical name,100.0
+R250205-dreamflyinnova,ET-117938546,et,Dreamfly Innovations,identical name,100.0
+R250205-dreamflyinnova,INC-20250208-09,inc42,Dreamfly Innovations,identical name,100.0
+R250205-fitspire,ET-117949738,et,Fitspire,identical name,100.0
+R250205-mealawe,INC-20250208-10,inc42,Mealawe,identical name,100.0
+R250205-origamisai,INC-20250208-14,inc42,Origamis AI,identical name,100.0
+R250205-quicklend,INC-20250208-11,inc42,Quicklend,identical name,100.0
+R250206-babynama,INC-20250208-12,inc42,Babynama,identical name,100.0
+R250206-nua,ET-117969699,et,Nua,identical name,100.0
+R250206-nua,INC-20250208-06,inc42,Nua,identical name,100.0
+R250206-playsuper,INC-20250208-13,inc42,PlaySuper,identical name,100.0
+R250206-truefoundry,INC-20250208-03,inc42,TrueFondry,spelling variant (fuzzy match),95.2
+R250207-legup,INC-20250208-15,inc42,LegUp,identical name,100.0
+R250208-eduvanz,INC-20250215-10,inc42,Eduvanz,identical name,100.0
+R250208-eduvanz,VCC-c001dc2783,vccircle,eduvanz,identical name,100.0
+R250210-borderplus,ET-118095545,et,BorderPlus,identical name,100.0
+R250210-borderplus,INC-20250215-06,inc42,BorderPlus,identical name,100.0
+R250210-rupeeflo,ET-118119714,et,Rupeeflo,identical name,100.0
+R250210-rupeeflo,INC-20250215-18,inc42,Rupeeflo,identical name,100.0
+R250211-boldcare,ET-118125302,et,Bold Care,identical name,100.0
+R250211-boldcare,INC-20250215-08,inc42,Bold Care,identical name,100.0
+R250211-tonetag,ET-118121993,et,ToneTag,identical name,100.0
+R250211-tonetag,INC-20250215-01,inc42,ToneTag,identical name,100.0
+R250211-zeta,ET-118125444,et,Zeta,identical name,100.0
+R250211-zeta,INC-20250215-03,inc42,Zeta,identical name,100.0
+R250212-arthalpha,INC-20250215-14,inc42,ArthAlpha,identical name,100.0
+R250212-capgridsolutio,ET-118154163,et,CapGrid Solutions,identical name,100.0
+R250212-capgridsolutio,INC-20250215-07,inc42,CapGrid Solutions,identical name,100.0
+R250212-gorally,INC-20250215-20,inc42,GoRally,identical name,100.0
+R250212-lucidity,ET-118184131,et,Lucidity,identical name,100.0
+R250212-lucidity,INC-20250215-05,inc42,Lucidity,identical name,100.0
+R250212-mysa,ET-118168869,et,Mysa,identical name,100.0
+R250212-mysa,INC-20250215-11,inc42,Mysa,identical name,100.0
+R250212-vidysea,INC-20250215-17,inc42,Vidysea,identical name,100.0
+R250213-anscerrobotics,INC-20250215-13,inc42,Anscer Robotics,identical name,100.0
+R250213-spotdraft,ET-118202628,et,SpotDraft,identical name,100.0
+R250213-spotdraft,INC-20250215-02,inc42,SpotDraft,identical name,100.0
+R250214-almondsai,INC-20250215-15,inc42,Almond.ai,spelling variant (fuzzy match),94.1
+R250215-ikonz,ENT-8729618,entrackr,Ikonz Studios,generic word added or dropped,100.0
+R250215-ikonz,ET-118306918,et,Ikonz Studios,identical name,100.0
+R250217-rarerabbit,INC-20250222-06,inc42,Rare Rabbit,identical name,100.0
+R250217-udaan,ET-118324559,et,Udaan,identical name,100.0
+R250217-udaan,INC-20250222-01,inc42,Udaan,identical name,100.0
+R250217-udaan,VCC-9ea9ca8403,vccircle,lightspeedbacked udaan,name found inside the headline,100.0
+R250218-dynolttechnolo,ET-118348003,et,Dynolt Technologies,identical name,100.0
+R250218-dynolttechnolo,INC-20250222-12,inc42,Dynolt Technologies,identical name,100.0
+R250218-singulrai,ET-118360448,et,Singulr AI,identical name,100.0
+R250218-singulrai,INC-20250222-04,inc42,Singulr,generic word added or dropped,100.0
+R250218-spyne,ET-118333424,et,Spyne,identical name,100.0
+R250218-spyne,INC-20250222-02,inc42,Spyne,identical name,100.0
+R250218-swishclub,ET-118358274,et,Swish Club,identical name,100.0
+R250218-swishclub,INC-20250222-09,inc42,Swish Club,identical name,100.0
+R250219-creditfair,VCC-ddc2a15948,vccircle,vcbacked credit fair,name found inside the headline,100.0
+R250219-probus,INC-20250222-08,inc42,Probus,identical name,100.0
+R250220-dogseechew,INC-20250222-05,inc42,Dogsee Chew,identical name,100.0
+R250220-dogseechew,VCC-e5fae7e5b8,vccircle,dogsee chews,spelling variant (fuzzy match),95.2
+R250220-notoicecream,INC-20250222-13,inc42,NOTO,longer and shorter form of the name,95.0
+R250220-onetabai,INC-20250222-10,inc42,OneTab,generic word added or dropped,100.0
+R250220-thewholetruth,ENT-8742363,entrackr,The Whole Truth,identical name,100.0
+R250220-thewholetruth,INC-20250222-03,inc42,The Whole Truth,identical name,100.0
+R250224-geniemode,ET-118536086,et,Geniemode,identical name,100.0
+R250224-geniemode,INC-20250301-01,inc42,Geniemode,identical name,100.0
+R250224-geniemode,VCC-4f9a5bf5cb,vccircle,sourcingplatform geniemode,name found inside the headline,100.0
+R250224-makeinbox,ENT-8755436,entrackr,Make in Box,identical name,100.0
+R250224-oxyzo,INC-20250301-02,inc42,Oxyzo,identical name,100.0
+R250225-dodopayments,ET-118551842,et,Dodo Payments,identical name,100.0
+R250225-dodopayments,INC-20250301-11,inc42,Dodo Payments,identical name,100.0
+R250226-drreddy,ET-118578517,et,Dr Reddy,identical name,100.0
+R250226-hiwipay,ET-118582133,et,HiwiPay,identical name,100.0
+R250226-hiwipay,INC-20250301-07,inc42,HiWiPay,identical name,100.0
+R250226-moccancercare,ET-118563528,et,MOC Cancer Care,identical name,100.0
+R250226-moccancercare,VCC-e30d105f5a,vccircle,moc cancer care,identical name,100.0
+R250226-quickclean,INC-20250301-04,inc42,Quick Clean,identical name,100.0
+R250226-tripletapgames,INC-20250301-10,inc42,Triple Tap Games,identical name,100.0
+R250226-vidyut,ET-118573544,et,Vidyut,identical name,100.0
+R250226-vidyut,INC-20250301-06,inc42,Vidyut,identical name,100.0
+R250227-astrogatelabs,ET-118601900,et,Astrogate Labs,identical name,100.0
+R250227-astrogatelabs,INC-20250301-09,inc42,Astrogate Labs,identical name,100.0
+R250227-earthful,INC-20250301-12,inc42,Earthful,identical name,100.0
+R250227-fantv,INC-20250301-05,inc42,FanTV,identical name,100.0
+R250227-pickkup,INC-20250301-13,inc42,Pickkup,identical name,100.0
+R250228-sisirradar,INC-20250301-08,inc42,Sisir Radar,identical name,100.0
+R250303-arvahealth,ET-118685314,et,Arva Health,identical name,100.0
+R250303-arvahealth,INC-20250308-19,inc42,Arva Health,identical name,100.0
+R250303-credresolve,INC-20250308-17,inc42,CredResolve,identical name,100.0
+R250304-beautywise,INC-20250308-23,inc42,Beautywise,identical name,100.0
+R250304-dotme,INC-20250308-24,inc42,DotMe,identical name,100.0
+R250304-fluxgen,INC-20250308-13,inc42,FluxGen,identical name,100.0
+R250304-insurancedekho,ET-118702886,et,InsuranceDekho,identical name,100.0
+R250304-insurancedekho,INC-20250308-03,inc42,InsuranceDekho,identical name,100.0
+R250304-insurancedekho,VCC-efe26cac26,vccircle,insurancedekho,identical name,100.0
+R250304-nuuk,ENT-8795487,entrackr,Nuuk,identical name,100.0
+R250304-rezolv,INC-20250308-12,inc42,Rezolv,identical name,100.0
+R250304-takeme2space,INC-20250308-21,inc42,TakeMe2Space,identical name,100.0
+R250305-beacon,ENT-8821670,entrackr,Beacon.li,longer and shorter form of the name,95.0
+R250305-beacon,INC-20250308-06,inc42,Beacon.li,longer and shorter form of the name,95.0
+R250305-darwinbox,ET-118731119,et,Darwinbox,identical name,100.0
+R250305-darwinbox,INC-20250308-01,inc42,Darwinbox,identical name,100.0
+R250305-leapfinance,ET-118728465,et,Leap Finance,identical name,100.0
+R250305-leapfinance,INC-20250308-02,inc42,Leap Finance,identical name,100.0
+R250306-mapmycrop,ET-118757001,et,MapMycrop,identical name,100.0
+R250306-maxiq,INC-20250308-05,inc42,MaxIQ,identical name,100.0
+R250306-photai,INC-20250308-15,inc42,Phot.AI,identical name,100.0
+R250306-swish,ET-118801615,et,Swish,identical name,100.0
+R250306-swish,INC-20250308-04,inc42,Swish,identical name,100.0
+R250306-yenmo,ENT-8839320,entrackr,Yenmo,identical name,100.0
+R250306-yenmo,VCC-afb7422ecf,vccircle,yenmo,identical name,100.0
+R250307-indewild,INC-20250308-09,inc42,indē wild,identical name,100.0
+R250311-ambitio,INC-20250315-11,inc42,Ambitio,identical name,100.0
+R250311-felicitygames,INC-20250315-10,inc42,Felicity Games,identical name,100.0
+R250311-gostops,ET-118853207,et,GoStops,identical name,100.0
+R250311-gostops,INC-20250315-09,inc42,goSTOPS,identical name,100.0
+R250311-infiniteuptime,ET-118872964,et,Infinite Uptime,identical name,100.0
+R250311-infiniteuptime,INC-20250315-04,inc42,Infinite Uptime,identical name,100.0
+R250311-zolve,ET-118972086,et,Zolve,identical name,100.0
+R250311-zolve,INC-20250315-01,inc42,Zolve,identical name,100.0
+R250312-allohealth,ET-118926358,et,Allo,generic word added or dropped,100.0
+R250312-allohealth,INC-20250315-12,inc42,Allo Health,identical name,100.0
+R250312-amperehour,ET-118898974,et,AmpereHour Energy,generic word added or dropped,100.0
+R250312-amperehour,INC-20250315-07,inc42,AmpereHour Energy,generic word added or dropped,100.0
+R250312-scimplify,ET-118937128,et,Scimplify,identical name,100.0
+R250312-scimplify,INC-20250315-03,inc42,Scimplify,identical name,100.0
+R250312-scimplify,VCC-2330dcd72c,vccircle,scimplify,identical name,100.0
+R250312-weskill,INC-20250315-08,inc42,Weskill,identical name,100.0
+R250313-neuraldefend,INC-20250315-13,inc42,Neural Defend,identical name,100.0
+R250313-purplestylelab,INC-20250315-02,inc42,Purple Style Labs,identical name,100.0
+R250313-purplestylelab,VCC-fd737a114f,vccircle,purple style labs,identical name,100.0
+R250313-rangsonsaerosp,ET-118976295,et,Rangsons Aerospace,identical name,100.0
+R250313-rangsonsaerosp,VCC-7873dd1763,vccircle,rangsonsaerospace,spacing or punctuation variant,100.0
+R250317-nivarahomefina,VCC-5fb6d41055,vccircle,nivara home finance,identical name,100.0
+R250318-gozero,ET-119157061,et,GoZero,spacing or punctuation variant,100.0
+R250318-gozero,INC-20250322-07,inc42,Go Zero,identical name,100.0
+R250318-hypergroai,INC-20250322-12,inc42,Hypergro.ai,identical name,100.0
+R250318-ihubrobotics,INC-20250322-14,inc42,iHub Robotics,identical name,100.0
+R250318-pilgrim,ET-119129630,et,Pilgrim,identical name,100.0
+R250318-pilgrim,INC-20250322-02,inc42,Pilgrim,identical name,100.0
+R250318-protecttai,INC-20250322-06,inc42,Protectt.ai,identical name,100.0
+R250318-slikkclub,ET-119129923,et,Slikk Club,identical name,100.0
+R250318-slikkclub,INC-20250322-08,inc42,Slikk Club,identical name,100.0
+R250319-harvestedrobot,INC-20250322-13,inc42,Harvested Robotics,identical name,100.0
+R250319-nourishyou,ET-119172317,et,Nourish You,identical name,100.0
+R250319-nourishyou,INC-20250322-09,inc42,Nourish You,identical name,100.0
+R250320-everhopeoncolo,ET-119223817,et,Everhope Oncology,identical name,100.0
+R250320-iyaso,INC-20250419-17,inc42,Iyaso,identical name,100.0
+R250320-lighthouseprop,INC-20250322-10,inc42,Lighthouse PropTech,identical name,100.0
+R250320-mypahadidukan,INC-20250322-17,inc42,My Pahadi Dukan,identical name,100.0
+R250320-qilagames,ENT-8875620,entrackr,Qila Games,identical name,100.0
+R250321-stage,INC-20250322-04,inc42,STAGE,identical name,100.0
+R250324-apnamart,ET-119419305,et,Apna Mart,identical name,100.0
+R250324-apnamart,VCC-4376c74fef,vccircle,apna mart,identical name,100.0
+R250325-fireflydiamond,ET-119466793,et,Firefly,longer and shorter form of the name,95.0
+R250325-fireflydiamond,INC-20250329-07,inc42,Firefly Diamonds,identical name,100.0
+R250325-growindigo,ET-119483685,et,Grow Indigo,identical name,100.0
+R250325-growindigo,INC-20250329-05,inc42,Grow Indigo,identical name,100.0
+R250325-irameai,INC-20250329-13,inc42,Irame.ai,identical name,100.0
+R250326-antithesis,INC-20250329-14,inc42,Antithesis,identical name,100.0
+R250326-greenfortune,ET-119494638,et,GreenFortune,identical name,100.0
+R250326-nabhdrishtiaer,INC-20250329-08,inc42,Nabhdrishti Aerospace,identical name,100.0
+R250326-vahdamindia,INC-20250329-10,inc42,Vahdam,generic word added or dropped,100.0
+R250327-abound,ET-119916131,et,Abound,identical name,100.0
+R250327-abound,INC-20250329-03,inc42,Abound,identical name,100.0
+R250327-onestack,INC-20250329-12,inc42,OneStack,identical name,100.0
+R250328-smallcase,ET-119629434,et,Smallcase,identical name,100.0
+R250328-smallcase,INC-20250329-01,inc42,smallcase,identical name,100.0
+R250331-spinny,ET-119804553,et,Spinny,identical name,100.0
+R250401-entvinai,INC-20250405-19,inc42,Entvin AI,identical name,100.0
+R250401-evenflow,INC-20250405-10,inc42,Evenflow,identical name,100.0
+R250401-lehlah,ET-119817455,et,Lehlah,identical name,100.0
+R250401-lehlah,INC-20250405-14,inc42,LehLah,identical name,100.0
+R250401-thebearhouse,ENT-8917504,entrackr,The Bear House,identical name,100.0
+R250401-tvastergenkalp,ET-119850897,et,Tvaster Genkalp,identical name,100.0
+R250401-tvastergenkalp,INC-20250405-15,inc42,Tvaster Genkalp,identical name,100.0
+R250401-wendor,INC-20250405-13,inc42,Wendor,identical name,100.0
+R250402-betternutritio,INC-20250412-16,inc42,Better Nutrition,identical name,100.0
+R250402-infinityfincor,VCC-933f50432a,vccircle,infinity fincorp,identical name,100.0
+R250402-stancehealth,ET-119879490,et,Stance Health,identical name,100.0
+R250402-stancehealth,INC-20250405-17,inc42,Stance Health,identical name,100.0
+R250403-drivershaab,INC-20250405-21,inc42,DriverShaab,identical name,100.0
+R250403-furtherai,ET-119911795,et,FurtherAI,identical name,100.0
+R250403-perkanttech,INC-20250405-18,inc42,Perkant Tech,identical name,100.0
+R250403-pratilipi,INC-20250405-03,inc42,Pratilipi,identical name,100.0
+R250403-pratilipi,VCC-b4bf85d1ab,vccircle,pratilipi,identical name,100.0
+R250403-rapidclaims,INC-20250405-06,inc42,RapidClaims,identical name,100.0
+R250403-scapia,ET-119933018,et,Scapia,identical name,100.0
+R250403-scapia,INC-20250405-01,inc42,Scapia,identical name,100.0
+R250403-sweetkaramcoff,ET-119938457,et,Sweet Karam Coffee,identical name,100.0
+R250403-sweetkaramcoff,INC-20250405-05,inc42,Sweet Karam Coffee,identical name,100.0
+R250403-tonboimaging,INC-20250405-02,inc42,Tonbo Imaging,identical name,100.0
+R250403-tonboimaging,VCC-8df5807353,vccircle,tonbo imaging s pre ipo round,name found inside the headline,100.0
+R250404-aerem,ET-119949325,et,Aerem,identical name,100.0
+R250404-aerem,INC-20250405-04,inc42,Aerem,identical name,100.0
+R250404-aerem,VCC-a5c75ebb68,vccircle,aerem,identical name,100.0
+R250404-alienkind,INC-20250405-16,inc42,Alienkind,identical name,100.0
+R250404-jaikisan,INC-20250405-11,inc42,Jai Kisan,identical name,100.0
+R250407-calligotechnol,ET-120067474,et,Calligo Technologies,identical name,100.0
+R250407-calligotechnol,INC-20250412-17,inc42,Calligo Technologies,identical name,100.0
+R250407-easebuzz,ENT-8997440,entrackr,Easebuzz,identical name,100.0
+R250407-easebuzz,ET-120043449,et,Easebuzz,identical name,100.0
+R250407-easebuzz,INC-20250412-02,inc42,Easebuzz,identical name,100.0
+R250407-innovist,ET-120053280,et,Innovist,identical name,100.0
+R250407-innovist,INC-20250412-05,inc42,Innovist,identical name,100.0
+R250407-juspay,ET-120055855,et,Juspay,identical name,100.0
+R250407-juspay,INC-20250412-01,inc42,Juspay,identical name,100.0
+R250407-juspay,VCC-dca705c692,vccircle,juspay,identical name,100.0
+R250407-vimano,ET-120055716,et,Vimano,identical name,100.0
+R250407-vimano,INC-20250412-10,inc42,Vimano,identical name,100.0
+R250408-agrostar,ET-120090947,et,AgroStar,identical name,100.0
+R250408-agrostar,INC-20250412-08,inc42,AgroStar,identical name,100.0
+R250408-cautio,INC-20250412-14,inc42,Cautio,identical name,100.0
+R250408-eatbetter,ENT-8942690,entrackr,Eat Better Co,generic word added or dropped,100.0
+R250408-outzidr,INC-20250412-09,inc42,OUTZIDR,identical name,100.0
+R250409-amicco,INC-20250412-19,inc42,Amicco,identical name,100.0
+R250409-bhagva,INC-20250412-18,inc42,Bhagva,identical name,100.0
+R250409-lettry,INC-20250412-11,inc42,Let’s Try,identical name,100.0
+R250409-noise,INC-20250412-03,inc42,Noise,identical name,100.0
+R250410-askmyguru,INC-20250412-15,inc42,AskMyGuru,identical name,100.0
+R250410-bower,ET-120158225,et,Bower School of Entrepreneurship,longer and shorter form of the name,95.0
+R250410-bower,INC-20250412-13,inc42,Bower School of Entrepreneurship,longer and shorter form of the name,95.0
+R250410-eloelo,INC-20250412-06,inc42,EloElo,identical name,100.0
+R250410-eloelo,VCC-10f1218819,vccircle,eloelo,identical name,100.0
+R250410-mosaicwellness,ET-120163333,et,Mosaic Wellness,identical name,100.0
+R250410-mosaicwellness,INC-20250412-04,inc42,Mosaic Wellness,identical name,100.0
+R250410-xindus,ET-120146648,et,Xindus,identical name,100.0
+R250410-xindus,INC-20250412-07,inc42,Xindus,identical name,100.0
+R250411-greenline,VCC-f13f9d8cdb,vccircle,greenline mobility,generic word added or dropped,100.0
+R250414-beastlife,INC-20250419-18,inc42,BeastLife,identical name,100.0
+R250414-curacare,INC-20250419-16,inc42,Cura Care,identical name,100.0
+R250414-noto,INC-20250419-15,inc42,NOTO,identical name,100.0
+R250414-optimizedelect,ET-120277368,et,Optimized Electrotech,identical name,100.0
+R250414-optimizedelect,INC-20250419-04,inc42,Optimized Electrotech,identical name,100.0
+R250414-sportsskill,INC-20250419-21,inc42,SportsSkill,identical name,100.0
+R250414-uppercase,INC-20250419-20,inc42,uppercase,identical name,100.0
+R250415-centa,ET-120304132,et,Centa,identical name,100.0
+R250415-centa,INC-20250419-10,inc42,CENTA,identical name,100.0
+R250416-garudaaerospac,ET-120334562,et,Garuda Aerospace,identical name,100.0
+R250416-garudaaerospac,INC-20250419-01,inc42,Garuda Aerospace,identical name,100.0
+R250416-garudaaerospac,VCC-f9afc008c3,vccircle,garudaaerospace,spacing or punctuation variant,100.0
+R250416-ipec,INC-20250419-08,inc42,IPEC,identical name,100.0
+R250416-jewelbox,ET-120319335,et,Jewelbox,identical name,100.0
+R250416-jewelbox,INC-20250419-07,inc42,Jewelbox,identical name,100.0
+R250416-magma,ET-120371041,et,Magma,identical name,100.0
+R250416-magma,INC-20250419-05,inc42,Magma,identical name,100.0
+R250416-nothingbeforec,ET-120332378,et,Nothing Before Coffee,identical name,100.0
+R250416-nothingbeforec,INC-20250419-09,inc42,Nothing Before Coffee,identical name,100.0
+R250416-ofbusiness,ET-120380377,et,OfBusiness,identical name,100.0
+R250416-ofbusiness,INC-20250419-02,inc42,OfBusiness,identical name,100.0
+R250416-peppermint,INC-20250419-06,inc42,Peppermint Robotics,generic word added or dropped,100.0
+R250417-goodmonk,ET-120375189,et,Good Monk,identical name,100.0
+R250417-goodmonk,INC-20250419-11,inc42,Good Monk,identical name,100.0
+R250417-jetsynthesys,VCC-fafa54ad7b,vccircle,jetsynthesys,identical name,100.0
+R250417-thatsassything,INC-20250419-14,inc42,That Sassy Thing,identical name,100.0
+R250417-uniseoul,ENT-9009267,entrackr,Uni Seoul,identical name,100.0
+R250418-risalabs,ET-120403471,et,Risa Labs,identical name,100.0
+R250421-finodayacapita,ET-120460843,et,Finodaya Capital,identical name,100.0
+R250421-finodayacapita,INC-20250426-10,inc42,Finodaya,generic word added or dropped,100.0
+R250421-ivory,ET-120473198,et,Ivory,identical name,100.0
+R250421-ivory,INC-20250426-14,inc42,Ivory,identical name,100.0
+R250422-devassure,INC-20250426-17,inc42,DevAssure,identical name,100.0
+R250422-mydesignation,INC-20250426-13,inc42,MyDesignation,identical name,100.0
+R250422-uniqusconsulte,INC-20250426-02,inc42,Uniqus,longer and shorter form of the name,95.0
+R250422-vayudh,ET-120524103,et,Vayudh,identical name,100.0
+R250422-vayudh,INC-20250426-04,inc42,Vayudh,identical name,100.0
+R250423-bankbazaar,ET-120529437,et,BankBazaar,identical name,100.0
+R250423-bankbazaar,INC-20250426-05,inc42,BankBazaar,identical name,100.0
+R250423-emversity,INC-20250426-06,inc42,Emversity,identical name,100.0
+R250423-savein,INC-20250426-07,inc42,SaveIn,identical name,100.0
+R250424-greengrahi,ET-120571247,et,GreenGrahi,identical name,100.0
+R250424-greengrahi,INC-20250426-09,inc42,GreenGrahi,identical name,100.0
+R250425-phab,INC-20250426-12,inc42,phab,identical name,100.0
+R250428-hexahealth,INC-20250503-01,inc42,HexaHealth,identical name,100.0
+R250428-malaki,INC-20250503-11,inc42,Malaki,identical name,100.0
+R250428-mugafi,INC-20250503-08,inc42,Mugafi,identical name,100.0
+R250429-kult,ET-120726397,et,Kult,identical name,100.0
+R250429-metafin,INC-20250503-02,inc42,Metafin,identical name,100.0
+R250429-primebook,INC-20250503-09,inc42,Primebook,identical name,100.0
+R250430-anveshan,INC-20250503-04,inc42,Anveshan,identical name,100.0
+R250430-qnulabs,ET-120739731,et,QNu Labs,identical name,100.0
+R250430-qnulabs,INC-20250503-03,inc42,QNu Labs,identical name,100.0
+R250430-satleolabs,INC-20250503-07,inc42,SatLeo Labs,identical name,100.0
+R250430-stimuler,ET-120739525,et,Stimuler,identical name,100.0
+R250430-stimuler,INC-20250503-06,inc42,Stimuler,identical name,100.0
+R250430-vividobots,INC-20250503-14,inc42,Vividobots,identical name,100.0
+R250501-fuze,ET-120788780,et,Fuze,identical name,100.0
+R250502-kaleidofin,ET-120827658,et,Kaleidofin,identical name,100.0
+R250502-kaleidofin,INC-20250503-05,inc42,Kaleidofin,identical name,100.0
+R250505-91trucks,ET-120986766,et,91Trucks,identical name,100.0
+R250505-91trucks,INC-20250510-10,inc42,91trucks,identical name,100.0
+R250505-altdrx,ET-120891721,et,Alt DRX,identical name,100.0
+R250505-altdrx,VCC-4870d85517,vccircle,altdrx,spacing or punctuation variant,100.0
+R250505-lifechartgutti,INC-20250510-23,inc42,Lifechart,longer and shorter form of the name,95.0
+R250505-storemygoods,INC-20250510-21,inc42,Store My Goods,identical name,100.0
+R250505-volt14,ET-120893714,et,Volt14,identical name,100.0
+R250505-volt14,INC-20250510-15,inc42,Volt14,identical name,100.0
+R250506-blissclub,ET-120936755,et,BlissClub,identical name,100.0
+R250506-blissclub,INC-20250510-11,inc42,Blissclub,identical name,100.0
+R250506-celciuslogisti,ET-120907713,et,Celcius Logistics,identical name,100.0
+R250506-celciuslogisti,INC-20250510-05,inc42,Celcius Logistics,identical name,100.0
+R250506-celciuslogisti,VCC-3bbc5188c4,vccircle,celcius logistics,identical name,100.0
+R250506-korinmi,INC-20250510-25,inc42,KorinMi,identical name,100.0
+R250506-nawgati,ET-120937490,et,Nawgati,identical name,100.0
+R250506-nawgati,INC-20250510-12,inc42,Nawgati,identical name,100.0
+R250506-thegoodbug,ET-120930935,et,The Good Bug,identical name,100.0
+R250506-thegoodbug,INC-20250510-07,inc42,The Good Bug,identical name,100.0
+R250506-troovy,INC-20250510-13,inc42,Troovy,identical name,100.0
+R250507-flipspaces,ET-120957567,et,Flipspaces,identical name,100.0
+R250507-flipspaces,INC-20250510-04,inc42,Flipspaces,identical name,100.0
+R250507-flipspaces,VCC-e0d34052c5,vccircle,flipspaces,identical name,100.0
+R250507-inspecity,ET-120941683,et,InspeCity,identical name,100.0
+R250507-inspecity,INC-20250510-09,inc42,InspeCity,identical name,100.0
+R250507-posha,ET-120933191,et,Posha,identical name,100.0
+R250507-posha,INC-20250510-08,inc42,Posha,identical name,100.0
+R250507-routematic,INC-20250510-03,inc42,Routematic,identical name,100.0
+R250507-routematic,VCC-41bda8fdf8,vccircle,blumebacked routematic,name found inside the headline,100.0
+R250507-shiplog,INC-20250510-19,inc42,Shiplog,identical name,100.0
+R250508-felinespirits,INC-20250510-20,inc42,Feline Spirits,identical name,100.0
+R250508-gotrust,INC-20250510-22,inc42,GoTrust,identical name,100.0
+R250508-hightimefoods,ET-120972456,et,High Time Foods,identical name,100.0
+R250508-hightimefoods,INC-20250510-17,inc42,High Time Foods,identical name,100.0
+R250508-pbhealthcare,ET-120972112,et,PB Healthcare,identical name,100.0
+R250508-pbhealthcare,INC-20250510-01,inc42,PB Health,longer and shorter form of the name,95.0
+R250508-porter,ET-120997906,et,Porter,identical name,100.0
+R250508-porter,INC-20250510-02,inc42,Porter,identical name,100.0
+R250508-porter,VCC-e31d42991b,vccircle,logisticsunicorn porter,name found inside the headline,100.0
+R250508-vaya,ET-120972862,et,Vaya,identical name,100.0
+R250508-vaya,INC-20250510-16,inc42,Vaya,identical name,100.0
+R250508-zebu,INC-20250510-18,inc42,Zebu,identical name,100.0
+R250512-avammunetherap,INC-20250517-06,inc42,Avammune Therapeutics,identical name,100.0
+R250512-farmley,ET-121085521,et,Farmley,identical name,100.0
+R250512-farmley,INC-20250517-01,inc42,Farmley,identical name,100.0
+R250513-adoptai,ET-121141068,et,Adopt AI,identical name,100.0
+R250513-adoptai,INC-20250517-09,inc42,Adopt AI,identical name,100.0
+R250513-beclinical,INC-20250517-22,inc42,Be Clinical,identical name,100.0
+R250513-biryaniblues,ET-121130670,et,Biryani Blues,identical name,100.0
+R250513-biryaniblues,INC-20250517-10,inc42,Biryani Blues,identical name,100.0
+R250513-flam,ET-121140410,et,Flam,identical name,100.0
+R250513-flam,INC-20250517-04,inc42,Flam,identical name,100.0
+R250513-hyperbots,ET-121119359,et,Hyperbots,identical name,100.0
+R250513-hyperbots,INC-20250517-08,inc42,Hyperbots,identical name,100.0
+R250513-luzo,ENT-9067496,entrackr,LUZO,identical name,100.0
+R250513-tieaconnectors,INC-20250517-12,inc42,TIEA Connectors,identical name,100.0
+R250514-bluestone,INC-20250517-11,inc42,BlueStone,identical name,100.0
+R250514-complement1,ET-121164632,et,Complement 1,spacing or punctuation variant,100.0
+R250514-contravaultai,INC-20250517-18,inc42,ContraVault AI,identical name,100.0
+R250514-medvital,ENT-9072305,entrackr,MedVital,identical name,100.0
+R250514-reelsaga,INC-20250517-13,inc42,ReelSaga,identical name,100.0
+R250514-thirdbracket,INC-20250517-19,inc42,Third Bracket,identical name,100.0
+R250515-1indiafamilyma,VCC-17af19051c,vccircle,valueretailer 1 india family mart,name found inside the headline,100.0
+R250515-hocco,ET-121190723,et,Hocco,identical name,100.0
+R250515-hocco,INC-20250517-05,inc42,Hocco,identical name,100.0
+R250515-naptapgo,INC-20250517-21,inc42,Naptapgo,identical name,100.0
+R250516-nobelhygiene,VCC-da5bfec145,vccircle,nobel hygiene,identical name,100.0
+R250519-eulermotors,ET-121265538,et,Euler Motors,identical name,100.0
+R250519-eulermotors,INC-20250524-01,inc42,Euler Motors,identical name,100.0
+R250519-eulermotors,VCC-00edc131b7,vccircle,eulermotors,spacing or punctuation variant,100.0
+R250520-cloudsek,ET-121274077,et,Cloudsek,identical name,100.0
+R250520-cloudsek,INC-20250524-04,inc42,CloudSEK,identical name,100.0
+R250520-cloudsek,VCC-bd2a36436c,vccircle,cybersecuritystartup cloudsek,name found inside the headline,100.0
+R250520-curebay,ET-121273974,et,CureBay,identical name,100.0
+R250520-curebay,INC-20250524-03,inc42,CureBay,identical name,100.0
+R250520-miraggio,ET-121274382,et,Miraggio,identical name,100.0
+R250520-miraggio,INC-20250524-08,inc42,Miraggio,identical name,100.0
+R250520-misfits,INC-20250524-14,inc42,Misfits,identical name,100.0
+R250520-tan90,INC-20250524-10,inc42,Tan90 Thermal Solutions,longer and shorter form of the name,95.0
+R250521-mythik,ET-121307957,et,Mythik,identical name,100.0
+R250521-mythik,INC-20250524-05,inc42,Mythik,identical name,100.0
+R250522-altcarbon,INC-20250524-06,inc42,Alt Carbon,identical name,100.0
+R250522-datasutram,ET-121321939,et,Data Sutram,identical name,100.0
+R250522-datasutram,INC-20250524-07,inc42,Data Sutram,identical name,100.0
+R250522-oxyzo,VCC-f031422029,vccircle,oxyzo plans series b funding round,name found inside the headline,100.0
+R250522-prometheanener,INC-20250524-12,inc42,Promethean Energy,identical name,100.0
+R250522-shuru,INC-20250524-09,inc42,Shuru,identical name,100.0
+R250522-zoca,ET-121318583,et,Zoca,identical name,100.0
+R250527-contineu,ET-121440961,et,Contineu,identical name,100.0
+R250527-contineu,INC-20250531-09,inc42,Contineu.ai,generic word added or dropped,100.0
+R250527-eume,INC-20250531-08,inc42,EUME,identical name,100.0
+R250527-fleetx,ET-121430510,et,Fleetx,identical name,100.0
+R250527-fleetx,INC-20250531-03,inc42,Fleetx,identical name,100.0
+R250527-fleetx,VCC-717ac0ed3e,vccircle,fleetx,identical name,100.0
+R250527-frinksai,ET-121437335,et,Frinks AI,identical name,100.0
+R250527-frinksai,INC-20250531-06,inc42,Frinks AI,identical name,100.0
+R250527-slikk,ET-121419227,et,Slikk,identical name,100.0
+R250527-slikk,INC-20250531-04,inc42,Slikk,identical name,100.0
+R250528-growit,ET-121462276,et,GROWiT,identical name,100.0
+R250528-growit,INC-20250531-07,inc42,GROWiT,identical name,100.0
+R250528-orbittspace,ET-121445122,et,Orbitt Space,identical name,100.0
+R250528-orbittspace,INC-20250531-12,inc42,Orbitt Space,identical name,100.0
+R250529-cleevo,INC-20250531-11,inc42,Cleevo,identical name,100.0
+R250529-khiladipro,ET-121573628,et,KhiladiPro,identical name,100.0
+R250529-khiladipro,INC-20250531-10,inc42,KhiladiPro,identical name,100.0
+R250529-snabbit,ET-121470654,et,Snabbit,identical name,100.0
+R250529-snabbit,INC-20250531-02,inc42,Snabbit,identical name,100.0
+R250529-snabbit,VCC-b097f15326,vccircle,snabbit s series b round,name found inside the headline,100.0
+R250529-snitch,ENT-9327509,entrackr,Snitch,identical name,100.0
+R250529-snitch,ET-121576576,et,Snitch,identical name,100.0
+R250529-snitch,INC-20250607-01,inc42,Snitch,identical name,100.0
+R250529-snitch,VCC-321732caf5,vccircle,snitch,identical name,100.0
+R250529-unbound,ET-121517989,et,Unbound,identical name,100.0
+R250530-batterysmart,ENT-9405291,entrackr,Battery Smart,identical name,100.0
+R250602-spense,INC-20250607-11,inc42,Spense,identical name,100.0
+R250602-udaan,ET-121564790,et,Udaan,identical name,100.0
+R250602-udaan,INC-20250607-02,inc42,Udaan,identical name,100.0
+R250602-udaan,VCC-1a6bcff240,vccircle,udaan,identical name,100.0
+R250603-gullylabs,INC-20250607-12,inc42,Gully Labs,identical name,100.0
+R250603-gyandhan,ENT-9333649,entrackr,GyanDhan,identical name,100.0
+R250603-gyandhan,INC-20250607-05,inc42,GyanDhan,identical name,100.0
+R250603-plush,INC-20250607-06,inc42,Plush,identical name,100.0
+R250603-plush,VCC-46418dd929,vccircle,plush,identical name,100.0
+R250603-stablemoney,ET-121575665,et,Stable Money,identical name,100.0
+R250603-stablemoney,INC-20250607-03,inc42,Stable Money,identical name,100.0
+R250603-truediamond,ENT-9334235,entrackr,True Diamond,identical name,100.0
+R250603-truediamond,VCC-d1c31d4752,vccircle,jewellerystartup true diamond,name found inside the headline,100.0
+R250605-kharifoods,INC-20250607-14,inc42,Khari Foods,identical name,100.0
+R250605-loantap,ET-121629403,et,Loantap,identical name,100.0
+R250605-loantap,INC-20250607-04,inc42,LoanTap,identical name,100.0
+R250605-loantap,VCC-ff9c88de6d,vccircle,loantap,identical name,100.0
+R250605-stridegreen,ET-121638995,et,StrideGreen,spacing or punctuation variant,100.0
+R250605-syfe,ET-121653155,et,Syfe,identical name,100.0
+R250605-syfe,VCC-37d77dfaa0,vccircle,syfe,identical name,100.0
+R250605-thetarzanway,INC-20250607-15,inc42,The Tarzan Way,identical name,100.0
+R250606-biopeak,INC-20250607-07,inc42,Biopeak,identical name,100.0
+R250606-decentro,ET-121672965,et,Decentro,identical name,100.0
+R250606-decentro,INC-20250607-08,inc42,Decentro,identical name,100.0
+R250606-decentro,VCC-8dd87b9b5e,vccircle,decentro,identical name,100.0
+R250606-kosmcai,INC-20250607-16,inc42,Kosmc AI,identical name,100.0
+R250609-cred,INC-20250614-03,inc42,CRED,identical name,100.0
+R250609-roomstoryai,INC-20250614-17,inc42,Roomstory.ai,identical name,100.0
+R250609-sanlayan,INC-20250614-05,inc42,Sanlayan,identical name,100.0
+R250609-sanlayan,VCC-4d69b77b3e,vccircle,ashishkacholia jungle ventures lead funding in sanlayan roomstory,name found inside the headline,100.0
+R250609-vecmocon,ET-121724466,et,Vecmocon Tech,generic word added or dropped,100.0
+R250609-vecmocon,INC-20250614-06,inc42,Vecmocon,identical name,100.0
+R250610-flexiloans,ENT-9352911,entrackr,FlexiLoans,identical name,100.0
+R250610-flexiloans,ET-121760544,et,Flexiloans,identical name,100.0
+R250610-flicktv,ET-121732502,et,Flick TV,identical name,100.0
+R250610-flicktv,INC-20250614-10,inc42,Flick TV,identical name,100.0
+R250610-kisahapparels,ENT-9355545,entrackr,Kisah,longer and shorter form of the name,95.0
+R250610-kisahapparels,ET-121794467,et,Kisah Apparels,identical name,100.0
+R250610-kisahapparels,VCC-5984263831,vccircle,kisah,identical name,100.0
+R250610-wowmomo,INC-20250614-07,inc42,Wow! Momo,identical name,100.0
+R250611-leumas,INC-20250614-11,inc42,Leumas,identical name,100.0
+R250611-machaxi,ET-121807972,et,Machaxi,identical name,100.0
+R250611-machaxi,INC-20250614-13,inc42,Machaxi,identical name,100.0
+R250611-powerupmoney,ET-121760344,et,PowerUp Money,identical name,100.0
+R250611-powerupmoney,INC-20250614-08,inc42,PowerUp Money,identical name,100.0
+R250612-iombioworks,INC-20250614-16,inc42,Iom Bioworks,identical name,100.0
+R250612-plutope,INC-20250614-15,inc42,PlutoPe,identical name,100.0
+R250612-repello,ET-121782444,et,Repello AI,identical name,100.0
+R250612-repello,INC-20250614-14,inc42,Repello AI,generic word added or dropped,100.0
+R250612-spinny,ENT-9367136,entrackr,Spinny,identical name,100.0
+R250613-groww,VCC-ddf7de51fd,vccircle,ipobound groww,name found inside the headline,100.0
+R250613-pehlejaisa,INC-20250614-18,inc42,Pehla Jaisa,spelling variant (fuzzy match),90.0
+R250616-aspora,ET-121864362,et,Aspora,identical name,100.0
+R250616-nuvie,INC-20250621-09,inc42,Nuvie,identical name,100.0
+R250617-darwixai,ET-121912424,et,Darwix AI,identical name,100.0
+R250617-darwixai,INC-20250621-07,inc42,Darwix AI,identical name,100.0
+R250617-saswatfinance,ET-121903137,et,Saswat Finance,identical name,100.0
+R250617-saswatfinance,INC-20250621-05,inc42,Saswat Finance,identical name,100.0
+R250618-illumine,INC-20250621-06,inc42,illumine,identical name,100.0
+R250618-obenelectric,ET-121924756,et,Oben Electric,identical name,100.0
+R250618-obenelectric,INC-20250621-03,inc42,Oben Electric,identical name,100.0
+R250618-techfino,INC-20250621-04,inc42,Techfino,identical name,100.0
+R250618-wiom,ENT-9439479,entrackr,Wiom,identical name,100.0
+R250619-mahaveerfinanc,ET-121938522,et,Mahaveer Finance,identical name,100.0
+R250620-renewbuy,ET-121959939,et,Renewbuy,identical name,100.0
+R250623-kazam,ET-122028248,et,Kazam,identical name,100.0
+R250623-kazam,INC-20250628-08,inc42,Kazam,identical name,100.0
+R250623-rabitat,INC-20250628-11,inc42,Rabitat,identical name,100.0
+R250623-truliv,INC-20250628-21,inc42,Truliv,identical name,100.0
+R250624-everacabs,INC-20250628-13,inc42,Evera Cabs,identical name,100.0
+R250624-fabheads,ET-122028162,et,Fabheads,identical name,100.0
+R250624-fabheads,INC-20250628-07,inc42,Fabheads,identical name,100.0
+R250624-fantail,INC-20250628-15,inc42,Fantail,identical name,100.0
+R250624-gokwik,ET-122043020,et,GoKwik,identical name,100.0
+R250624-gokwik,INC-20250628-05,inc42,GoKwik,identical name,100.0
+R250624-innovodigm,INC-20250628-20,inc42,Innovodigm,identical name,100.0
+R250624-skippi,INC-20250628-18,inc42,Skippi,identical name,100.0
+R250625-armory,ET-122054851,et,Armory,identical name,100.0
+R250625-armory,INC-20250628-16,inc42,Armory,identical name,100.0
+R250625-auraml,INC-20250628-19,inc42,AuraML,identical name,100.0
+R250625-giva,INC-20250628-02,inc42,GIVA,identical name,100.0
+R250625-sahi,ET-122054466,et,Sahi,identical name,100.0
+R250625-sahi,INC-20250628-06,inc42,Sahi,identical name,100.0
+R250625-sthyrenergy,ET-122063856,et,Sthyr Energy,identical name,100.0
+R250625-sthyrenergy,INC-20250705-15,inc42,Sthyr Energy,identical name,100.0
+R250626-flipspaces,INC-20250628-09,inc42,Flipspaces,identical name,100.0
+R250626-raphemphibr,ET-122090949,et,Raphe mPhibr,identical name,100.0
+R250626-raphemphibr,INC-20250628-01,inc42,Raphe mPhibr,identical name,100.0
+R250626-raphemphibr,VCC-70a948e0d6,vccircle,raphe mphibir,spelling variant (fuzzy match),95.7
+R250626-shopos,INC-20250628-04,inc42,ShopOS,identical name,100.0
+R250626-stayvista,INC-20250628-10,inc42,StayVista,identical name,100.0
+R250627-zilo,ET-122111055,et,Zilo,identical name,100.0
+R250627-zilo,INC-20250628-12,inc42,ZILO,identical name,100.0
+R250630-aukera,ET-122145848,et,Aukera,identical name,100.0
+R250630-aukera,INC-20250705-06,inc42,Aukera,identical name,100.0
+R250630-eggoz,ET-122145598,et,Eggoz,identical name,100.0
+R250630-eggoz,INC-20250705-04,inc42,Eggoz,identical name,100.0
+R250630-inframarket,ET-122153303,et,Infra Market,identical name,100.0
+R250630-inframarket,INC-20250705-02,inc42,Infra.Market,identical name,100.0
+R250630-inframarket,VCC-6bf2ae93e6,vccircle,ipobound infra market,name found inside the headline,100.0
+R250630-jumbotail,ET-122156577,et,Jumbotail,identical name,100.0
+R250630-jumbotail,INC-20250705-01,inc42,Jumbotail,identical name,100.0
+R250701-appsforbharat,ET-122165107,et,AppsForBharat,identical name,100.0
+R250701-appsforbharat,INC-20250705-05,inc42,AppsForBharat,identical name,100.0
+R250701-astrophelaeros,INC-20250705-16,inc42,Astrophel Aerospace,identical name,100.0
+R250701-bambrew,INC-20250705-07,inc42,Bambrew,identical name,100.0
+R250701-eeki,ET-122181028,et,Eeki,identical name,100.0
+R250701-eeki,INC-20250705-08,inc42,Eeki,identical name,100.0
+R250701-garaaz,INC-20250705-19,inc42,Garaaz,identical name,100.0
+R250701-lamarkbiotech,INC-20250705-17,inc42,Lamark Biotech,identical name,100.0
+R250701-loopworm,INC-20250705-13,inc42,Loopworm,identical name,100.0
+R250701-zangoai,ET-122177426,et,Zango AI,identical name,100.0
+R250701-zangoai,INC-20250705-09,inc42,Zango AI,identical name,100.0
+R250702-cimware,ET-122190613,et,CIMware,identical name,100.0
+R250702-cimware,INC-20250705-14,inc42,CIMware,identical name,100.0
+R250703-fescafe,INC-20250705-20,inc42,FES Cafe,identical name,100.0
+R250703-fitfeast,INC-20250705-18,inc42,FitFeast,identical name,100.0
+R250703-gobblecube,INC-20250705-12,inc42,GobbleCube,identical name,100.0
+R250703-lumafertility,ET-122221217,et,Luma Fertility,identical name,100.0
+R250703-lumafertility,INC-20250705-11,inc42,Luma Fertility,identical name,100.0
+R250703-maieuticsemico,ET-122210969,et,Maieutic Semiconductor,identical name,100.0
+R250703-maieuticsemico,ET-122233442,et,Maieutic Semiconductor,identical name,100.0
+R250703-maieuticsemico,INC-20250705-10,inc42,Maieutic Semiconductor,identical name,100.0
+R250704-ajnalens,INC-20250705-21,inc42,AjnaLens,spacing or punctuation variant,100.0
+R250704-ajnalens,VCC-f3ffaa410f,vccircle,lenskartbets on ajna lens serendipity space,name found inside the headline,100.0
+R250707-cookd,ENT-9485216,entrackr,Cookd,identical name,100.0
+R250707-divinehindu,INC-20250712-14,inc42,Divine Hindu,identical name,100.0
+R250707-inprimefinserv,INC-20250712-04,inc42,InPrime Finserv,identical name,100.0
+R250707-khetika,ET-122281212,et,Khetika,identical name,100.0
+R250707-khetika,INC-20250712-03,inc42,Khetika,identical name,100.0
+R250707-khetika,VCC-f318e68399,vccircle,khetika,identical name,100.0
+R250707-wiselife,INC-20250712-12,inc42,WiseLife,identical name,100.0
+R250708-creditwisecapi,VCC-47f2e8a8ce,vccircle,creditwise,spelling variant (fuzzy match),100.0
+R250708-linkrunner,INC-20250712-13,inc42,Linkrunner,identical name,100.0
+R250708-qoruz,INC-20250712-17,inc42,Qoruz,identical name,100.0
+R250709-belong,ET-122324099,et,Belong,identical name,100.0
+R250709-belong,INC-20250712-06,inc42,Belong,identical name,100.0
+R250709-chaibisket,ET-122337562,et,Chai Bisket,identical name,100.0
+R250709-chaibisket,INC-20250712-05,inc42,Chai Bisket,identical name,100.0
+R250709-enercomp,INC-20250719-18,inc42,Enercomp,identical name,100.0
+R250709-greenaero,ET-122324030,et,Green Aero,identical name,100.0
+R250709-greenaero,INC-20250712-10,inc42,Green Aero,identical name,100.0
+R250709-varthana,INC-20250712-02,inc42,Varthana,identical name,100.0
+R250709-varthana,VCC-e4ae6844f4,vccircle,chryscapitalbacked varthana finance,name found inside the headline,100.0
+R250710-arteriatechnol,VCC-b6547bd457,vccircle,arteria technologies series b round,longer and shorter form of the name,95.0
+R250710-cleanfanatics,INC-20250712-07,inc42,Clean Fanatics,identical name,100.0
+R250712-vaaree,ET-122521569,et,Vaaree,identical name,100.0
+R250714-gibran,ET-122437864,et,Gibran,identical name,100.0
+R250715-dial4242,INC-20250719-12,inc42,Dial4242,identical name,100.0
+R250715-navanaai,ET-122516906,et,Navana AI,identical name,100.0
+R250715-navanaai,INC-20250719-14,inc42,Navana.ai,identical name,100.0
+R250715-theweddingcomp,INC-20250719-13,inc42,The Wedding Company,identical name,100.0
+R250715-trupeer,ET-122513298,et,Trupeer AI,identical name,100.0
+R250715-trupeer,INC-20250719-05,inc42,Trupeer.AI,generic word added or dropped,100.0
+R250716-deepalgorithm,ET-122586240,et,Deep Algorithm,identical name,100.0
+R250716-deepalgorithm,INC-20250719-11,inc42,Deep Algorithm,identical name,100.0
+R250716-knot,INC-20250719-04,inc42,KNOT,identical name,100.0
+R250716-phicommerce,INC-20250719-03,inc42,Phi Commerce,identical name,100.0
+R250716-truemeds,ENT-9647343,entrackr,Truemeds,identical name,100.0
+R250716-truemeds,ET-123221428,et,Truemeds,identical name,100.0
+R250716-truemeds,INC-20250719-02,inc42,Truemeds,identical name,100.0
+R250716-truemeds,INC-20250816-01,inc42,Truemeds,identical name,100.0
+R250716-zuluclub,INC-20250719-16,inc42,Zulu Club,identical name,100.0
+R250716-zuppa,INC-20250719-10,inc42,Zuppa,identical name,100.0
+R250717-dcgtech,INC-20250719-09,inc42,DCG Tech,identical name,100.0
+R250717-parkobot,INC-20250719-17,inc42,Parkobot,identical name,100.0
+R250718-omspace,INC-20250719-06,inc42,Omspace Rocket & Exploration,longer and shorter form of the name,95.0
+R250721-anny,INC-20250726-13,inc42,ANNY,identical name,100.0
+R250721-edufund,ET-122817115,et,EduFund,identical name,100.0
+R250721-edufund,INC-20250726-05,inc42,EduFund,identical name,100.0
+R250721-hudle,INC-20250726-11,inc42,Hudle,identical name,100.0
+R250721-plenometechnol,ET-122907208,et,Plenome Technologies,identical name,100.0
+R250721-plenometechnol,INC-20250726-16,inc42,Plenome Technologies,identical name,100.0
+R250722-apclub,INC-20250726-18,inc42,ApClub,identical name,100.0
+R250722-composio,ET-122838611,et,Composio,identical name,100.0
+R250722-escape,ET-122820091,et,Escape,identical name,100.0
+R250722-escape,INC-20250726-10,inc42,Escape Plan,longer and shorter form of the name,95.0
+R250722-magma,ENT-9527285,entrackr,Magma,identical name,100.0
+R250723-coluxe,INC-20250726-19,inc42,Coluxe,identical name,100.0
+R250723-grexaai,INC-20250726-12,inc42,Grexa AI,identical name,100.0
+R250723-gupshup,ET-122852452,et,Gupshup,identical name,100.0
+R250723-gupshup,INC-20250726-01,inc42,Gupshup,identical name,100.0
+R250723-inboundaerospa,ET-122851845,et,Inbound Aerospace,identical name,100.0
+R250723-inboundaerospa,INC-20250726-15,inc42,Inbound Aerospace,identical name,100.0
+R250723-ituring,INC-20250726-08,inc42,iTuring.AI,generic word added or dropped,100.0
+R250723-kluiszai,ET-122856045,et,Kluisz. ai,identical name,100.0
+R250723-kluiszai,INC-20250726-04,inc42,Kluisz.ai,identical name,100.0
+R250724-bharatsure,INC-20250726-17,inc42,Bharatsure,identical name,100.0
+R250724-enlite,ET-122864217,et,Enlite,identical name,100.0
+R250724-enlite,INC-20250726-07,inc42,Enlite Research,longer and shorter form of the name,95.0
+R250724-eveez,INC-20250726-06,inc42,EVeez,identical name,100.0
+R250724-netrasemi,ET-122880826,et,Netrasemi,identical name,100.0
+R250724-netrasemi,INC-20250726-02,inc42,Netrasemi,identical name,100.0
+R250724-superk,ENT-9675563,entrackr,SuperK,identical name,100.0
+R250724-superk,ET-122872814,et,SuperK,identical name,100.0
+R250724-superk,INC-20250726-03,inc42,SuperK,identical name,100.0
+R250724-superk,VCC-7b34056cfa,vccircle,superk,identical name,100.0
+R250725-ammunicsystems,INC-20250726-14,inc42,Ammunic Systems,identical name,100.0
+R250728-drizz,ET-122953853,et,Drizz,identical name,100.0
+R250728-drizz,INC-20250802-06,inc42,Drizz,identical name,100.0
+R250728-genexisbiotech,INC-20250802-13,inc42,Genexis Biotech,identical name,100.0
+R250728-navi,ET-122949689,et,Navi Technologies,generic word added or dropped,100.0
+R250729-passprttrips,INC-20250802-11,inc42,Passprt Trips,identical name,100.0
+R250729-sharpsellai,ET-122990618,et,Sharpsell,generic word added or dropped,100.0
+R250729-sharpsellai,INC-20250802-05,inc42,Sharpsell.ai,identical name,100.0
+R250729-zepto,ENT-9654008,entrackr,Zepto,identical name,100.0
+R250729-zepto,ET-123261940,et,Zepto,identical name,100.0
+R250729-zepto,INC-20250802-09,inc42,Zepto,identical name,100.0
+R250729-zepto,INC-20250809-14,inc42,Zepto,identical name,100.0
+R250729-zepto,INC-20250816-02,inc42,Zepto,identical name,100.0
+R250730-designx,INC-20250809-18,inc42,DesignX,identical name,100.0
+R250730-heizen,INC-20250802-10,inc42,Heizen,identical name,100.0
+R250730-iline,ENT-9609304,entrackr,ILine,identical name,100.0
+R250730-littlebox,INC-20250802-07,inc42,Littlebox,identical name,100.0
+R250730-vahanai,INC-20250802-14,inc42,Vahan.ai,identical name,100.0
+R250731-arivihan,ET-123004020,et,Arivihan,identical name,100.0
+R250731-arivihan,INC-20250802-04,inc42,Arivihan,identical name,100.0
+R250731-metaforms,ET-123025369,et,Metaforms,identical name,100.0
+R250731-metaforms,INC-20250802-02,inc42,Metaforms,identical name,100.0
+R250731-safesecurity,ET-123019206,et,Safe Security,identical name,100.0
+R250731-safesecurity,INC-20250802-01,inc42,Safe Security,identical name,100.0
+R250731-snooplay,INC-20250802-08,inc42,Snooplay,identical name,100.0
+R250731-stan,ET-123020060,et,Stan,identical name,100.0
+R250731-stan,INC-20250802-03,inc42,STAN,identical name,100.0
+R250804-mitigata,ET-123088197,et,Mitigata,identical name,100.0
+R250804-mitigata,INC-20250809-09,inc42,Mitigata,identical name,100.0
+R250805-eonspacelabs,INC-20250809-19,inc42,EON Space Labs,identical name,100.0
+R250805-fibelendingarm,INC-20250809-03,inc42,Fibe,longer and shorter form of the name,95.0
+R250805-fraganote,INC-20250809-21,inc42,Fraganote,identical name,100.0
+R250805-gameramp,ET-123110706,et,GameRamp,identical name,100.0
+R250805-jehaerospace,ET-123099912,et,Jeh Aerospace,identical name,100.0
+R250805-jehaerospace,INC-20250809-05,inc42,Jeh Aerospace,identical name,100.0
+R250805-rifaai,ET-123100347,et,Rifa AI,identical name,100.0
+R250805-shortgun,INC-20250809-22,inc42,Shortgun Games,longer and shorter form of the name,95.0
+R250805-terafac,INC-20250809-24,inc42,Terafac,identical name,100.0
+R250805-turbohire,INC-20250809-08,inc42,TurboHire,identical name,100.0
+R250806-cautio,ET-123127526,et,Cautio,identical name,100.0
+R250806-cautio,INC-20250809-11,inc42,Cautio,identical name,100.0
+R250806-codekarma,ET-123133488,et,CodeKarma,identical name,100.0
+R250806-codekarma,INC-20250809-15,inc42,CodeKarma,identical name,100.0
+R250806-dpdzero,ENT-9755199,entrackr,DPDzero,identical name,100.0
+R250806-dpdzero,ET-123127454,et,DPDzero,identical name,100.0
+R250806-dpdzero,INC-20250809-07,inc42,DPDPZero,spelling variant (fuzzy match),93.3
+R250806-gladful,INC-20250809-23,inc42,Gladful,identical name,100.0
+R250806-hylenr,INC-20250809-13,inc42,HYLENR,identical name,100.0
+R250806-supergaming,ET-123133893,et,SuperGaming,identical name,100.0
+R250806-supergaming,INC-20250809-04,inc42,SuperGaming,identical name,100.0
+R250806-thesleepcompan,ET-123123213,et,The Sleep Company,identical name,100.0
+R250806-thesleepcompan,INC-20250809-01,inc42,The Sleep Company,identical name,100.0
+R250806-thesleepcompan,VCC-d6a7012db0,vccircle,premjiinvestbacked the sleep company,name found inside the headline,100.0
+R250806-xovian,ENT-9634531,entrackr,Xovian Aerospace,generic word added or dropped,100.0
+R250806-xovian,INC-20250809-16,inc42,Xovian Aerospace,generic word added or dropped,100.0
+R250806-zype,ET-123123139,et,Zype,identical name,100.0
+R250806-zype,INC-20250809-06,inc42,Zype,identical name,100.0
+R250807-mangopoint,INC-20250809-20,inc42,MangoPoint,identical name,100.0
+R250807-nprep,ET-123157243,et,NPrep,identical name,100.0
+R250807-nuuk,INC-20250809-17,inc42,Nuuk,identical name,100.0
+R250807-outzidr,ET-123149702,et,Outzidr,identical name,100.0
+R250807-outzidr,INC-20250809-12,inc42,OUTZIDR,identical name,100.0
+R250807-reneecosmetics,INC-20250809-02,inc42,RENEE Cosmetics,identical name,100.0
+R250810-neuralzomecybe,ENT-9646812,entrackr,Neuralzome Cybernetic,identical name,100.0
+R250811-graasai,ET-123229287,et,Graas AI,identical name,100.0
+R250811-graasai,INC-20250816-10,inc42,Graas.ai,identical name,100.0
+R250812-dashverse,ET-123250912,et,Dashverse,identical name,100.0
+R250812-dashverse,INC-20250816-06,inc42,Dashverse,identical name,100.0
+R250812-elever,ET-123244752,et,Elever,identical name,100.0
+R250812-elivaas,ET-123244145,et,Elivaas,identical name,100.0
+R250812-elivaas,INC-20250816-09,inc42,Elivaas,identical name,100.0
+R250812-fairdeal,INC-20250816-14,inc42,Fairdeal.Market,longer and shorter form of the name,95.0
+R250812-holidaytribe,INC-20250816-13,inc42,Holiday Tribe,identical name,100.0
+R250812-kimirica,ET-123261004,et,Kimirica,identical name,100.0
+R250812-manastuspace,ET-123244306,et,Manastu Space,identical name,100.0
+R250812-manastuspace,INC-20250816-15,inc42,Manastu Space Technologies,generic word added or dropped,100.0
+R250812-pronto,ET-123243934,et,Pronto,identical name,100.0
+R250812-pronto,INC-20250816-08,inc42,Pronto,identical name,100.0
+R250812-spikeai,INC-20250816-17,inc42,Spike AI,identical name,100.0
+R250812-trackk,INC-20250816-18,inc42,Trackk,identical name,100.0
+R250812-ultraviolette,INC-20250816-04,inc42,Ultraviolette,identical name,100.0
+R250813-arintra,ET-123297667,et,Arintra,identical name,100.0
+R250813-arintra,INC-20250816-05,inc42,Arintra,identical name,100.0
+R250813-comminent,ET-123273861,et,Comminent,identical name,100.0
+R250813-comminent,INC-20250816-16,inc42,Comminent,identical name,100.0
+R250813-oleespace,INC-20250816-12,inc42,Olee Space,identical name,100.0
+R250813-refoldai,ET-123281091,et,Refold AI,identical name,100.0
+R250813-refoldai,INC-20250816-11,inc42,Refold AI,identical name,100.0
+R250814-darwinbox,ET-123306193,et,Darwinbox,identical name,100.0
+R250814-darwinbox,INC-20250816-03,inc42,Darwinbox,identical name,100.0
+R250818-amnex,VCC-313e82c8f9,vccircle,amnex,identical name,100.0
+R250818-arthaselectfun,ET-123347035,et,Artha’s Select Fund,identical name,100.0
+R250818-famyo,ENT-9675985,entrackr,Famyo,identical name,100.0
+R250819-beyondapplianc,ET-123366661,et,Beyond Appliances,identical name,100.0
+R250819-beyondapplianc,INC-20250823-03,inc42,Beyond Appliances,identical name,100.0
+R250819-hexafun,ENT-9755637,entrackr,Hexafun,identical name,100.0
+R250819-hexafun,INC-20250830-16,inc42,Hexafun,identical name,100.0
+R250819-houseofbiryan,INC-20250823-04,inc42,House Of Biryan,identical name,100.0
+R250819-rforrabbit,INC-20250823-01,inc42,R For Rabbit,identical name,100.0
+R250820-kiwi,ENT-9730788,entrackr,Kiwi,identical name,100.0
+R250820-kiwi,ET-123489617,et,Kiwi,identical name,100.0
+R250820-peelon,ET-123393699,et,PeelOn,identical name,100.0
+R250820-peelon,INC-20250823-06,inc42,PeelON,identical name,100.0
+R250821-edgehax,ENT-9781247,entrackr,Edgehax,identical name,100.0
+R250821-edgehax,INC-20250906-20,inc42,Edgehax,identical name,100.0
+R250821-mitra,ET-123429179,et,Mitra,identical name,100.0
+R250821-mitra,INC-20250823-05,inc42,Mitra,identical name,100.0
+R250825-altumcredo,INC-20250830-02,inc42,Altum Credo,identical name,100.0
+R250825-credright,ET-123503796,et,CredRight,identical name,100.0
+R250825-credright,INC-20250830-03,inc42,CredRight,identical name,100.0
+R250825-enmovil,ET-123489751,et,Enmovil,identical name,100.0
+R250825-enmovil,INC-20250830-07,inc42,Enmovil,identical name,100.0
+R250825-harajukutokyoc,ET-123523473,et,Harajuku Tokyo Cafe,identical name,100.0
+R250825-harajukutokyoc,INC-20250830-11,inc42,Harajuku Tokyo Cafe,identical name,100.0
+R250825-palmonas,INC-20250830-06,inc42,Palmonas,identical name,100.0
+R250825-vaave,ENT-9754672,entrackr,Vaave,identical name,100.0
+R250825-wastelink,ET-123504864,et,Wastelink,identical name,100.0
+R250825-wastelink,INC-20250830-10,inc42,Wastelink,identical name,100.0
+R250825-wizcommerce,ET-123497330,et,WizCommerce,identical name,100.0
+R250825-wizcommerce,INC-20250830-04,inc42,WizCommerce,identical name,100.0
+R250826-matiks,INC-20250830-09,inc42,Matiks,identical name,100.0
+R250826-peeko,ET-123507840,et,Peeko,identical name,100.0
+R250826-peeko,INC-20250830-08,inc42,Peeko,identical name,100.0
+R250827-anmasa,ET-123528002,et,Anmasa,identical name,100.0
+R250827-anmasa,INC-20250830-13,inc42,Anmasa,identical name,100.0
+R250827-bhaobhao,ENT-9761296,entrackr,BhaoBhao,identical name,100.0
+R250827-cuminco,ET-123533924,et,Cumin Co,identical name,100.0
+R250827-cuminco,INC-20250830-12,inc42,Cumin Co,identical name,100.0
+R250827-nuyug,INC-20250830-17,inc42,Nuyug,identical name,100.0
+R250828-transbnk,ET-123551103,et,TransBnk,identical name,100.0
+R250828-transbnk,INC-20250830-01,inc42,TransBnk,identical name,100.0
+R250829-vutto,INC-20250830-05,inc42,Vutto,identical name,100.0
+R250901-bluetokai,INC-20250906-03,inc42,Blue Tokai Coffee Roasters,longer and shorter form of the name,95.0
+R250901-citymall,INC-20250906-01,inc42,CityMall,identical name,100.0
+R250901-cuzor,INC-20250906-14,inc42,Cuzor,identical name,100.0
+R250902-leafybus,INC-20250906-09,inc42,LeafyBus,identical name,100.0
+R250902-offgridenergyl,ET-123638954,et,Offgrid Energy Labs,identical name,100.0
+R250902-offgridenergyl,INC-20250906-06,inc42,Offgrid Energy,generic word added or dropped,100.0
+R250902-tucokids,ET-123645975,et,Tuco Kids,identical name,100.0
+R250902-tucokids,INC-20250906-10,inc42,Tuco Kids,identical name,100.0
+R250902-zanskar,INC-20250906-18,inc42,Zanskar,identical name,100.0
+R250903-platinumrx,INC-20250906-08,inc42,PlatinumRx,identical name,100.0
+R250903-waterscience,INC-20250906-19,inc42,Waterscience,identical name,100.0
+R250904-autodukan,INC-20250906-12,inc42,AutoDukan,identical name,100.0
+R250904-colive,INC-20250906-05,inc42,Colive,identical name,100.0
+R250904-firstclub,ET-123682574,et,FirstClub,identical name,100.0
+R250904-firstclub,INC-20250906-04,inc42,FirstClub,identical name,100.0
+R250904-flexifyme,INC-20250906-11,inc42,FlexifyMe,identical name,100.0
+R250904-houseofzelena,INC-20250906-13,inc42,House of Zelena,identical name,100.0
+R250904-quanteenergy,ET-123702721,et,QuantE Energy,identical name,100.0
+R250904-quanteenergy,INC-20250906-16,inc42,QuantE Energy,identical name,100.0
+R250904-revealhealthte,ET-123682385,et,Reveal HealthTech,identical name,100.0
+R250904-rxmen,INC-20250906-15,inc42,RxMen,identical name,100.0
+R250905-dectrocel,INC-20250906-17,inc42,Dectrocel,identical name,100.0
+R250908-flipspaces,INC-20250913-01,inc42,Flipspaces,identical name,100.0
+R250909-aurva,INC-20250913-11,inc42,Aurva,identical name,100.0
+R250909-indigrid,ET-123778112,et,Indigrid Technology,generic word added or dropped,100.0
+R250909-indigrid,INC-20250913-04,inc42,Indigrid Technology,generic word added or dropped,100.0
+R250909-prowrrap,INC-20250913-15,inc42,Prowrrap,identical name,100.0
+R250909-traqcheck,INC-20250913-18,inc42,TraqCheck,identical name,100.0
+R250910-asaya,INC-20250913-06,inc42,Asaya,identical name,100.0
+R250910-endureair,INC-20250913-09,inc42,EndureAir Systems,generic word added or dropped,100.0
+R250910-presolv360,ET-123793094,et,Presolv360,identical name,100.0
+R250910-presolv360,INC-20250913-03,inc42,Presolv360,identical name,100.0
+R250910-terngroup,ET-123812321,et,Tern Group,identical name,100.0
+R250911-bacaltbioscien,ET-123813774,et,BacAlt Biosciences,identical name,100.0
+R250911-bacaltbioscien,INC-20250913-12,inc42,BacAlt Biosciences,identical name,100.0
+R250911-biokraft,INC-20250913-16,inc42,Biokraft Foods,generic word added or dropped,100.0
+R250911-ember,ET-123811110,et,Ember,identical name,100.0
+R250911-ember,INC-20250913-05,inc42,Ember,identical name,100.0
+R250911-eruditus,VCC-6cf4191128,vccircle,softbankbacked eruditus,name found inside the headline,100.0
+R250911-peakamp,ENT-10445869,entrackr,PeakAmp,identical name,100.0
+R250911-snapecabs,INC-20250913-10,inc42,Snap-E-Cabs,identical name,100.0
+R250911-wehouse,ET-123831994,et,WeHouse,identical name,100.0
+R250911-wehouse,INC-20250913-08,inc42,WeHouse,identical name,100.0
+R250912-farmdidi,INC-20250913-14,inc42,FarmDidi,identical name,100.0
+R250915-mynaksh,INC-20250920-21,inc42,MyNaksh,identical name,100.0
+R250916-idodevices,VCC-4c87918a73,vccircle,ido devices,identical name,100.0
+R250916-incredmoney,INC-20250920-05,inc42,InCred Money,identical name,100.0
+R250916-pelocal,ET-123915912,et,Pelocal,identical name,100.0
+R250916-pelocal,INC-20250920-11,inc42,Pelocal,identical name,100.0
+R250916-pharmeasy,INC-20250927-01,inc42,PharmEasy,identical name,100.0
+R250916-playsuper,ENT-10472060,entrackr,PlaySuper,identical name,100.0
+R250916-scalekit,INC-20250920-08,inc42,Scalekit,identical name,100.0
+R250916-uknowva,INC-20250920-22,inc42,uKnowva,identical name,100.0
+R250917-ecosoulhome,ET-123919050,et,Ecosoul,identical name,100.0
+R250917-ecosoulhome,INC-20250920-06,inc42,EcoSoul,longer and shorter form of the name,95.0
+R250917-finbox,ET-123935989,et,FinBox,identical name,100.0
+R250917-finbox,INC-20250920-03,inc42,FinBox,identical name,100.0
+R250917-lucira,INC-20250920-09,inc42,Lucira,identical name,100.0
+R250917-supply6,INC-20250920-17,inc42,Supply6,identical name,100.0
+R250918-inframarket,INC-20250920-01,inc42,Infra.Market,identical name,100.0
+R250918-inframarket,VCC-85e193be7a,vccircle,inframarket,spacing or punctuation variant,100.0
+R250918-spacefields,ENT-10479540,entrackr,SpaceFields,identical name,100.0
+R250918-spacefields,ET-123993714,et,SpaceFields,identical name,100.0
+R250919-blinkitai,VCC-5ab4f4ee4f,vccircle,blinkitai,spacing or punctuation variant,100.0
+R250919-equilibrium,INC-20250920-14,inc42,Equilibrium,identical name,100.0
+R250922-chakrinnovatio,ET-124051248,et,Chakr Innovation,identical name,100.0
+R250922-chakrinnovatio,INC-20250927-03,inc42,Chakr Innovation,identical name,100.0
+R250922-chakrinnovatio,VCC-93ae35ce60,vccircle,chakr innovation,identical name,100.0
+R250922-onfinanceai,ET-124052264,et,OnFinance AI,identical name,100.0
+R250922-onfinanceai,INC-20250927-14,inc42,OnFinance,generic word added or dropped,100.0
+R250922-vyomic,INC-20250927-20,inc42,VyomIC,identical name,100.0
+R250923-amwoodo,INC-20250927-15,inc42,Amwoodo,identical name,100.0
+R250923-distil,INC-20250927-10,inc42,Distil,identical name,100.0
+R250923-grest,INC-20250927-19,inc42,Grest,identical name,100.0
+R250923-navo,INC-20250927-22,inc42,Navo,identical name,100.0
+R250923-paarautonomy,INC-20250927-25,inc42,Paar Autonomy,identical name,100.0
+R250923-rocket,ET-124063863,et,Rocket,identical name,100.0
+R250923-rocket,INC-20250927-06,inc42,Rocket,identical name,100.0
+R250924-emergent,ET-124092379,et,Emergent AI,generic word added or dropped,100.0
+R250924-emergent,INC-20250927-02,inc42,Emergent,identical name,100.0
+R250924-gullak,ET-124074716,et,Gullak,identical name,100.0
+R250924-gullak,INC-20250927-11,inc42,Gullak,identical name,100.0
+R250924-oolka,ET-124086960,et,Oolka,identical name,100.0
+R250924-oolka,INC-20250927-12,inc42,Oolka,identical name,100.0
+R250924-ptal,ET-124076591,et,P-Tal,identical name,100.0
+R250924-ptal,INC-20250927-17,inc42,P-TAL,identical name,100.0
+R250924-xbattery,ET-124088432,et,Xbattery,identical name,100.0
+R250924-xbattery,INC-20250927-18,inc42,Xbattery,identical name,100.0
+R250925-akashalabdhi,ET-124215735,et,Akashalabdhi,identical name,100.0
+R250925-akashalabdhi,INC-20250927-21,inc42,Akashalabdhi,identical name,100.0
+R250925-bharatintellig,INC-20250927-23,inc42,Bharat Intelligence,identical name,100.0
+R250925-cosmoservespac,INC-20250927-16,inc42,Cosmoserve Space,identical name,100.0
+R250925-handpickd,ET-124106234,et,Handpickd,identical name,100.0
+R250925-handpickd,INC-20250927-05,inc42,Handpickd,identical name,100.0
+R250925-kisankonnect,INC-20250927-09,inc42,KisanKonnect,identical name,100.0
+R250925-recove,ET-124125110,et,Recove,identical name,100.0
+R250925-recove,INC-20250927-24,inc42,Recove,identical name,100.0
+R250925-samaaro,INC-20250927-26,inc42,Samaaro,identical name,100.0
+R250925-simpleenergy,ET-124108554,et,Simple Energy,identical name,100.0
+R250925-simpleenergy,INC-20250927-08,inc42,Simple Energy,identical name,100.0
+R250925-simpleenergy,VCC-b8e25024f3,vccircle,simpleenergy,spacing or punctuation variant,100.0
+R250926-curefoods,ET-124146159,et,Curefoods,identical name,100.0
+R250926-curefoods,INC-20250927-04,inc42,Curefoods,identical name,100.0
+R250926-curefoods,VCC-112267207a,vccircle,vcbacked curefoods,name found inside the headline,100.0
+R250926-gaadimech,INC-20250927-27,inc42,Gaadimech,identical name,100.0
+R250926-vedantu,ET-124143854,et,Vedantu,identical name,100.0
+R250926-vedantu,INC-20250927-07,inc42,Vedantu,identical name,100.0
+R250927-plazza,ET-124167266,et,Plazza,identical name,100.0
+R250927-plazza,INC-20251004-11,inc42,Plazza,identical name,100.0
+R250929-hocco,INC-20251004-04,inc42,Hocco,identical name,100.0
+R250929-hocco,VCC-388eb85be0,vccircle,hocco,identical name,100.0
+R250929-kapiva,INC-20251004-01,inc42,Kapiva,identical name,100.0
+R250929-kapiva,VCC-45e4fd6485,vccircle,kapiva,identical name,100.0
+R250929-petpooja,INC-20251004-03,inc42,Petpooja,identical name,100.0
+R250929-petpooja,VCC-e2c30b75a8,vccircle,petpooja,identical name,100.0
+R250929-recurclub,INC-20251004-02,inc42,Recur Club,identical name,100.0
+R250929-vaaniairesearc,INC-20251004-12,inc42,Vaani AI,longer and shorter form of the name,95.0
+R250930-climatyai,INC-20251004-09,inc42,Climaty AI,identical name,100.0
+R250930-fyno,INC-20251004-07,inc42,Fyno,identical name,100.0
+R250930-ignosis,ET-124229600,et,Ignosis,identical name,100.0
+R250930-ignosis,INC-20251004-06,inc42,Ignosis,identical name,100.0
+R250930-superfam,INC-20251004-13,inc42,SuperFam,identical name,100.0
+R250930-unmannd,ET-124218584,et,Unmannd,identical name,100.0
+R250930-unmannd,INC-20251004-10,inc42,Unmannd,identical name,100.0
+R250930-vama,INC-20251004-08,inc42,VAMA,identical name,100.0
+R251001-growxcdfinance,VCC-30556b2034,vccircle,growxcd finance,identical name,100.0
+R251003-artoftime,ET-124278583,et,Art of Time,identical name,100.0
+R251003-artoftime,VCC-ca16fd134c,vccircle,art of time,identical name,100.0
+R251006-dhan,INC-20251011-01,inc42,Dhan,identical name,100.0
+R251006-ecoex,ET-124339107,et,EcoEx,identical name,100.0
+R251006-ecoex,INC-20251011-14,inc42,EcoEx,identical name,100.0
+R251006-finarkein,INC-20251011-18,inc42,Finarkein Analytics,longer and shorter form of the name,95.0
+R251006-greylabsai,ET-124323861,et,GreyLabs AI,identical name,100.0
+R251006-greylabsai,INC-20251011-07,inc42,GreyLabs AI,identical name,100.0
+R251006-morphingmachin,INC-20251011-12,inc42,Morphing Machines,identical name,100.0
+R251006-navatasupplych,INC-20251011-17,inc42,Navata Supply Chain Solution,spelling variant (fuzzy match),98.0
+R251007-augustai,ET-124351248,et,August AI,identical name,100.0
+R251007-augustai,INC-20251011-16,inc42,August AI,identical name,100.0
+R251007-contrailsai,INC-20251011-20,inc42,Contrails AI,identical name,100.0
+R251007-intangles,INC-20251011-02,inc42,Intangles,identical name,100.0
+R251007-jaagrukbharat,ENT-10540026,entrackr,Jaagruk Bharat,identical name,100.0
+R251007-kgen,ET-124294056,et,KGeN,identical name,100.0
+R251007-lucio,INC-20251011-10,inc42,Lucio,identical name,100.0
+R251007-thrustworksdyn,INC-20251011-22,inc42,Thrustworks Dynetics,identical name,100.0
+R251007-trusterra,INC-20251011-19,inc42,TrusTerra,identical name,100.0
+R251007-zillout,INC-20251011-25,inc42,ZillOut,identical name,100.0
+R251008-meolaa,INC-20251011-08,inc42,Meolaa,identical name,100.0
+R251008-newtral,INC-20251011-23,inc42,Newtral,identical name,100.0
+R251008-qapita,INC-20251011-03,inc42,Qapita,identical name,100.0
+R251009-askmyguru,INC-20251011-24,inc42,Ask My Guru,identical name,100.0
+R251009-reodev,INC-20251011-13,inc42,Reo.Dev,identical name,100.0
+R251009-ruskmedia,ET-124414297,et,Rusk Media,identical name,100.0
+R251009-ruskmedia,INC-20251011-06,inc42,Rusk Media,identical name,100.0
+R251009-ruskmedia,VCC-090d9cd9b3,vccircle,rusk media,identical name,100.0
+R251010-fslife,INC-20251011-09,inc42,FS Life,identical name,100.0
+R251013-charatechnolog,ET-124521986,et,Chara Technologies,identical name,100.0
+R251013-charatechnolog,INC-20251018-11,inc42,Chara Technologies,identical name,100.0
+R251013-dezerv,ET-124521195,et,Dezerv,identical name,100.0
+R251013-dezerv,INC-20251018-04,inc42,Dezerv,identical name,100.0
+R251013-goodscore,ET-124521798,et,GoodScore,identical name,100.0
+R251013-goodscore,INC-20251018-07,inc42,GoodScore,identical name,100.0
+R251013-reiadiamonds,ENT-10559834,entrackr,Reia Diamonds,identical name,100.0
+R251013-smallestai,ENT-10600511,entrackr,Smallest.ai,identical name,100.0
+R251013-twobrothersorg,ENT-10559580,entrackr,Two Brothers Organic Farms,identical name,100.0
+R251013-twobrothersorg,ET-124531739,et,Two Brothers Organic Farms,identical name,100.0
+R251013-twobrothersorg,VCC-524390502e,vccircle,two brothers organic farms,identical name,100.0
+R251014-airbound,ET-124556313,et,Airbound,identical name,100.0
+R251014-airbound,INC-20251018-09,inc42,Airbound,identical name,100.0
+R251014-airoclip,INC-20251018-14,inc42,Airoclip,identical name,100.0
+R251014-currently,INC-20251018-21,inc42,Currently,identical name,100.0
+R251014-houseeazy,ET-124548990,et,HouseEazy,identical name,100.0
+R251014-houseeazy,INC-20251018-05,inc42,HouseEazy,identical name,100.0
+R251014-orangesugar,INC-20251018-23,inc42,Orange Sugar,identical name,100.0
+R251014-speakx,ET-124531927,et,SpeakX,identical name,100.0
+R251014-speakx,INC-20251018-06,inc42,SpeakX,identical name,100.0
+R251015-consuma,ET-124584833,et,Consuma AI,generic word added or dropped,100.0
+R251015-consuma,INC-20251018-20,inc42,Consuma,identical name,100.0
+R251015-flowatt,INC-20251018-26,inc42,Flowatt Battery Science,longer and shorter form of the name,95.0
+R251015-fragariafruits,INC-20251018-16,inc42,Fragaria,longer and shorter form of the name,95.0
+R251015-mattersai,ET-124579395,et,Matters.AI,identical name,100.0
+R251015-mattersai,INC-20251018-12,inc42,Matters.AI,identical name,100.0
+R251015-rarabarefoot,INC-20251018-22,inc42,RARA Barefoot,identical name,100.0
+R251016-dashamlabs,INC-20251018-19,inc42,Dashamlabs,identical name,100.0
+R251016-fireai,INC-20251018-24,inc42,FireAI,identical name,100.0
+R251016-graphai,ET-124593239,et,Graph AI,identical name,100.0
+R251016-graphai,INC-20251018-13,inc42,Graph AI,identical name,100.0
+R251016-kukufm,ET-124597321,et,Kuku FM,identical name,100.0
+R251016-kukufm,INC-20251018-02,inc42,Kuku FM,identical name,100.0
+R251016-zepto,INC-20251018-01,inc42,Zepto,identical name,100.0
+R251017-ekamobility,VCC-e3bc74582d,vccircle,eka mobility,identical name,100.0
+R251017-hooliv,ET-124627293,et,HooLiv,identical name,100.0
+R251017-hooliv,INC-20251018-15,inc42,HooLiv,identical name,100.0
+R251018-fundamento,ET-124635440,et,Fundamento,identical name,100.0
+R251018-fundamento,INC-20251018-17,inc42,Fundamento,identical name,100.0
+R251022-unifyapps,ET-124740188,et,UnifyApps,identical name,100.0
+R251022-unifyapps,INC-20251025-02,inc42,UnifyApps,identical name,100.0
+R251022-uniphore,ENT-10585707,entrackr,Uniphore,identical name,100.0
+R251022-uniphore,ET-124755350,et,Uniphore,identical name,100.0
+R251023-michezosports,ENT-10589927,entrackr,Michezo Sports,identical name,100.0
+R251027-hydgen,ET-124840361,et,Hydgen,identical name,100.0
+R251027-hydgen,INC-20251101-13,inc42,HYDGEN,identical name,100.0
+R251027-neulife,INC-20251101-22,inc42,Neulife,identical name,100.0
+R251028-cybrilla,INC-20251101-29,inc42,Cybrilla,identical name,100.0
+R251028-optimocapital,ET-124868790,et,Optimo Capital,identical name,100.0
+R251028-optimocapital,INC-20251101-06,inc42,Optimo Capital,identical name,100.0
+R251028-satarkai,INC-20251101-28,inc42,Satark AI,identical name,100.0
+R251029-fambo,INC-20251101-16,inc42,Fambo,identical name,100.0
+R251029-happiplanet,ET-124880881,et,Happi Planet,identical name,100.0
+R251029-happiplanet,INC-20251101-18,inc42,Happi Planet,identical name,100.0
+R251029-jupiter,ENT-10606028,entrackr,Jupiter Money,generic word added or dropped,100.0
+R251029-jupiter,INC-20251101-07,inc42,Jupiter,identical name,100.0
+R251029-jupiter,VCC-f66b9eec16,vccircle,vcbacked jupiter,name found inside the headline,100.0
+R251029-mem0,ET-124896884,et,Mem0,identical name,100.0
+R251029-mem0,INC-20251101-05,inc42,Mem0,identical name,100.0
+R251029-oroos,INC-20251101-17,inc42,Oroos,identical name,100.0
+R251029-savesage,INC-20251101-23,inc42,SaveSage,identical name,100.0
+R251029-stampmyvisa,ET-124893392,et,StampMyVisa,identical name,100.0
+R251029-stampmyvisa,INC-20251101-25,inc42,StampMyVista,spelling variant (fuzzy match),95.7
+R251029-tsuyomanufactu,ET-124880745,et,Tsuyo Manufacturing,identical name,100.0
+R251029-tsuyomanufactu,INC-20251101-14,inc42,TSUYO Manufacturing,identical name,100.0
+R251030-beyondrenewabl,INC-20251101-24,inc42,Beyond Renewables & Recycling,identical name,100.0
+R251030-exilesinteract,INC-20251101-26,inc42,Exiles Interactives,identical name,100.0
+R251030-helex,ET-124912263,et,Helex,identical name,100.0
+R251030-helex,INC-20251101-15,inc42,Helex,identical name,100.0
+R251030-intrcitysmartb,ET-124953428,et,IntrCity SmartBus,identical name,100.0
+R251030-intrcitysmartb,INC-20251101-04,inc42,IntrCity SmartBus,identical name,100.0
+R251030-openhouse,INC-20251101-19,inc42,Openhouse,identical name,100.0
+R251030-pointai,ET-124911223,et,Point AI,identical name,100.0
+R251030-pointai,INC-20251101-12,inc42,PointAI,spacing or punctuation variant,100.0
+R251030-redacto,INC-20251101-20,inc42,Redacto,identical name,100.0
+R251030-salaryse,ENT-10627678,entrackr,SalarySe,identical name,100.0
+R251030-salaryse,ET-124917688,et,SalarySe,identical name,100.0
+R251030-salaryse,INC-20251101-10,inc42,SalarySe,identical name,100.0
+R251030-snabbit,VCC-445e4af8c9,vccircle,snabbit,identical name,100.0
+R251031-goyaz,INC-20251101-08,inc42,GOYAZ,identical name,100.0
+R251031-plurofertility,INC-20251101-09,inc42,Pluro Fertility,identical name,100.0
+R251031-snapmint,ET-124965109,et,Snapmint,identical name,100.0
+R251031-snapmint,INC-20251101-01,inc42,Snapmint,identical name,100.0
+R251031-snapmint,VCC-0109c1d1a2,vccircle,snapmint,identical name,100.0
+R251104-blyp,INC-20251108-20,inc42,Blyp,identical name,100.0
+R251104-protouch,INC-20251108-12,inc42,Protouch,identical name,100.0
+R251104-quickads,ET-125081123,et,Quickads,identical name,100.0
+R251104-zynk,ET-125087736,et,Zynk,identical name,100.0
+R251104-zynk,INC-20251108-06,inc42,Zynk,identical name,100.0
+R251105-babyorgano,ET-125105881,et,Babyorgano,identical name,100.0
+R251105-babyorgano,INC-20251108-08,inc42,BabyOrgano,identical name,100.0
+R251105-krieya,INC-20251108-16,inc42,Krieya Beauty & Wellness,longer and shorter form of the name,95.0
+R251105-lighthousecant,ET-125109261,et,Lighthouse Canton,identical name,100.0
+R251105-lighthousecant,VCC-bd29ddd568,vccircle,lighthousecanton,spacing or punctuation variant,100.0
+R251105-medyseva,INC-20251108-18,inc42,MedySeva,identical name,100.0
+R251105-moengage,ET-125108263,et,MoEngage,identical name,100.0
+R251105-moengage,INC-20251108-01,inc42,MoEngage,identical name,100.0
+R251105-spacewood,ET-125110993,et,Spacewood Furnishers,longer and shorter form of the name,95.0
+R251105-spacewood,INC-20251108-03,inc42,Spacewood Furnishers,longer and shorter form of the name,95.0
+R251105-spacewood,VCC-9d694d0881,vccircle,furnituremaker spacewood,name found inside the headline,100.0
+R251105-stackbox,INC-20251108-07,inc42,StackBOX,identical name,100.0
+R251105-wyzardai,INC-20251108-17,inc42,WYZARD.AI,identical name,100.0
+R251106-gamestatelabs,INC-20251108-11,inc42,Game State Labs,identical name,100.0
+R251106-meshdefend,ET-125111852,et,MeshDefend,identical name,100.0
+R251106-meshdefend,INC-20251108-09,inc42,MeshDefend,identical name,100.0
+R251106-theartment,INC-20251108-14,inc42,The Artment,identical name,100.0
+R251106-ulook,ET-125111938,et,Ulook,identical name,100.0
+R251106-ulook,INC-20251108-10,inc42,ULOOK,identical name,100.0
+R251107-agnikul,INC-20251108-05,inc42,Agnikul Cosmos,longer and shorter form of the name,95.0
+R251107-miko,ET-125153879,et,Miko,identical name,100.0
+R251107-miko,INC-20251108-04,inc42,Miko Robotics,generic word added or dropped,100.0
+R251110-trishulspace,ENT-10653494,entrackr,Trishul Space,identical name,100.0
+R251110-trishulspace,ET-125302683,et,Trishul Space,identical name,100.0
+R251111-finnable,ET-125227327,et,Finnable,identical name,100.0
+R251111-finnable,INC-20251115-01,inc42,Finnable,identical name,100.0
+R251111-finnable,VCC-4f30596623,vccircle,finnable,identical name,100.0
+R251111-greenfi,ET-125228667,et,GreenFi,identical name,100.0
+R251111-greenfi,INC-20251115-12,inc42,GreenFi,identical name,100.0
+R251111-hausandkinder,ENT-10650554,entrackr,Haus & Kinder,identical name,100.0
+R251111-hausandkinder,INC-20251115-08,inc42,Haus & Kinder,identical name,100.0
+R251111-praanhealth,INC-20251115-15,inc42,Praan Health,identical name,100.0
+R251111-quickshift,ET-125248271,et,Quickshift,identical name,100.0
+R251111-quickshift,INC-20251115-10,inc42,QuickShift,identical name,100.0
+R251112-alive,ENT-10653499,entrackr,Alive,identical name,100.0
+R251112-anddone,INC-20251115-16,inc42,&Done,identical name,100.0
+R251112-bombayshavingc,ET-125272354,et,Bombay Shaving Company,identical name,100.0
+R251112-bombayshavingc,INC-20251115-04,inc42,Bombay Shaving Company,identical name,100.0
+R251112-bombayshavingc,VCC-4ed85ab66d,vccircle,bombay shaving company,identical name,100.0
+R251112-coratiatechnol,INC-20251115-18,inc42,Coratia Technologies,identical name,100.0
+R251112-doco,INC-20251115-19,inc42,DOCO,identical name,100.0
+R251112-fescafe,INC-20251115-14,inc42,FES Café,identical name,100.0
+R251112-hrsnavigation,INC-20251115-06,inc42,HRS Navigation,identical name,100.0
+R251112-nyayanidhi,ET-125346154,et,Nyayanidhi,identical name,100.0
+R251112-nyayanidhi,INC-20251115-13,inc42,Nyayanidhi,identical name,100.0
+R251113-acsenergy,INC-20251115-22,inc42,ACS Energy,identical name,100.0
+R251113-brandworkstech,ET-125292964,et,Brandworks Technologies,identical name,100.0
+R251113-brandworkstech,INC-20251115-05,inc42,Brandworks Technologies,identical name,100.0
+R251113-brandworkstech,VCC-62de4be26e,vccircle,brandworkstechnologies,spacing or punctuation variant,100.0
+R251113-niaone,ENT-10698248,entrackr,Nia.one,identical name,100.0
+R251114-codeyoung,INC-20251115-07,inc42,Codeyoung,identical name,100.0
+R251114-extramileplay,INC-20251115-20,inc42,ExtraMile Play,identical name,100.0
+R251117-hoopr,INC-20251122-19,inc42,Hoopr,identical name,100.0
+R251117-tribestays,INC-20251122-12,inc42,Tribe Stays,identical name,100.0
+R251117-tribestays,VCC-0856820f06,vccircle,tribestays,spacing or punctuation variant,100.0
+R251118-axiriumaerospa,INC-20251122-10,inc42,Axirium Aerospace,identical name,100.0
+R251118-pypeai,ET-125400756,et,Pype AI,identical name,100.0
+R251118-pypeai,INC-20251122-17,inc42,Pype AI,identical name,100.0
+R251118-yubigroup,ET-125407903,et,Yubi,generic word added or dropped,100.0
+R251118-yubigroup,INC-20251122-01,inc42,Yubi,generic word added or dropped,100.0
+R251118-yubigroup,VCC-f787f069ff,vccircle,yubi,identical name,100.0
+R251119-homerun,INC-20251122-18,inc42,HomeRun,identical name,100.0
+R251119-pidge,INC-20251122-04,inc42,Pidge,identical name,100.0
+R251119-stylework,INC-20251122-11,inc42,Stylework,identical name,100.0
+R251119-synthiolabs,ET-125429460,et,Synthio Labs,identical name,100.0
+R251119-synthiolabs,INC-20251122-08,inc42,Synthio Labs,identical name,100.0
+R251119-tractorjunctio,ET-125418928,et,Tractor Junction,identical name,100.0
+R251119-tractorjunctio,INC-20251122-03,inc42,Tractor Junction,identical name,100.0
+R251120-agraga,INC-20251122-05,inc42,Agraga,identical name,100.0
+R251120-agrostar,ET-125443914,et,AgroStar,identical name,100.0
+R251120-agrostar,INC-20251122-02,inc42,AgroStar,identical name,100.0
+R251120-bigbasket,ET-125464692,et,BigBasket,identical name,100.0
+R251120-ctrlb,ET-125451984,et,CtrlB,identical name,100.0
+R251120-ctrlb,INC-20251122-13,inc42,CtrlB,identical name,100.0
+R251120-kaaj,ET-125452727,et,Kaaj,identical name,100.0
+R251120-kaaj,INC-20251122-09,inc42,Kaaj,identical name,100.0
+R251120-pibitai,ENT-10798138,entrackr,Pibit.AI,identical name,100.0
+R251120-pibitai,ET-125465379,et,Pibit.AI,identical name,100.0
+R251120-sophrosynetech,ENT-10799138,entrackr,Sophrosyne Technologies,identical name,100.0
+R251120-sophrosynetech,INC-20251122-15,inc42,Sophrosyne Technologies,identical name,100.0
+R251120-thimblerr,INC-20251122-16,inc42,Thimblerr,identical name,100.0
+R251120-ultrahuman,ENT-10798549,entrackr,Ultrahuman,identical name,100.0
+R251120-ultrahuman,VCC-858c8f1f5f,vccircle,ultrahuman,identical name,100.0
+R251122-agnikul,ET-125502954,et,Agnikul Cosmos,longer and shorter form of the name,95.0
+R251122-agnikul,INC-20251129-04,inc42,Agnikul,identical name,100.0
+R251122-agnikul,VCC-a31bf917b4,vccircle,agnikul cosmos,identical name,100.0
+R251124-faebeauty,INC-20251129-16,inc42,FAE Beauty,identical name,100.0
+R251124-finreach,ET-125539066,et,FinReach,identical name,100.0
+R251124-wealthy,ET-125523785,et,Wealthy,identical name,100.0
+R251124-wealthy,INC-20251129-05,inc42,Wealthy,identical name,100.0
+R251124-wealthy,VCC-69bbeeb24f,vccircle,wealthy in,longer and shorter form of the name,95.0
+R251125-crisprbits,INC-20251129-12,inc42,CrisprBits,identical name,100.0
+R251125-riverlineai,INC-20251129-19,inc42,Riverline AI,identical name,100.0
+R251126-arctusaerospac,ET-125590720,et,Arctus Aerospace,identical name,100.0
+R251126-arctusaerospac,INC-20251129-14,inc42,Arctus Aerospace,identical name,100.0
+R251126-axitrust,ET-125570038,et,AxiTrust,identical name,100.0
+R251126-axitrust,INC-20251129-15,inc42,axiTrust,identical name,100.0
+R251126-enerzi,INC-20251129-17,inc42,Enerzi,identical name,100.0
+R251126-lightspeedphot,ET-125583130,et,LightSpeed Photonics,identical name,100.0
+R251126-miranatoys,ET-125579622,et,Mirana Toys,identical name,100.0
+R251126-miranatoys,INC-20251129-07,inc42,Mirana Toys,identical name,100.0
+R251126-onya,INC-20251129-22,inc42,ONYA,identical name,100.0
+R251127-aceinternation,ET-125597715,et,Ace International,identical name,100.0
+R251127-aceinternation,VCC-844ee2bc52,vccircle,aceinternational,spacing or punctuation variant,100.0
+R251127-batterypool,INC-20251129-18,inc42,BatteryPool,identical name,100.0
+R251127-neuronenergy,INC-20251129-11,inc42,Neuron Energy,identical name,100.0
+R251127-sportsforlife,INC-20251129-13,inc42,Sports For Life,identical name,100.0
+R251127-squareyards,INC-20251129-02,inc42,Square Yards,identical name,100.0
+R251127-squareyards,VCC-4d22f3170c,vccircle,squareyards,spacing or punctuation variant,100.0
+R251127-tijori,INC-20251129-09,inc42,Tijori,identical name,100.0
+R251127-yuvritayurveda,INC-20251129-20,inc42,Yuvrit Ayurveda,identical name,100.0
+R251128-candisolar,VCC-7bc487ba74,vccircle,candisolar,spacing or punctuation variant,100.0
+R251128-ripplr,INC-20251129-01,inc42,Ripplr,identical name,100.0
+R251129-iztri,INC-20251206-16,inc42,Iztri,identical name,100.0
+R251201-finfactor,INC-20251206-03,inc42,Finfactor,identical name,100.0
+R251202-modulushousing,INC-20251206-06,inc42,Modulus Housing,identical name,100.0
+R251202-modulushousing,VCC-a2e8d00dd4,vccircle,b2bplatform modulus housing,name found inside the headline,100.0
+R251202-stockgro,VCC-ff4181045b,vccircle,stockgro,identical name,100.0
+R251203-furlenco,INC-20251206-04,inc42,Furlenco,identical name,100.0
+R251203-furlenco,VCC-c5679eb8c2,vccircle,vcbacked furlenco,name found inside the headline,100.0
+R251203-mannjal,ET-125745352,et,Mannjal,identical name,100.0
+R251203-mannjal,INC-20251206-11,inc42,Mannjal,identical name,100.0
+R251203-mirrorsecurity,INC-20251206-10,inc42,Mirror Security,identical name,100.0
+R251203-moonrider,ET-125737493,et,Moonrider,identical name,100.0
+R251203-moonrider,INC-20251206-08,inc42,Moonrider,identical name,100.0
+R251203-replyall,INC-20251206-13,inc42,ReplyAll,identical name,100.0
+R251203-yoodli,ET-125721978,et,Yoodli,identical name,100.0
+R251204-coreopsai,ET-125752847,et,CoreOps.AI,identical name,100.0
+R251204-coreopsai,INC-20251206-09,inc42,CoreOps.AI,identical name,100.0
+R251204-tidasports,INC-20251206-15,inc42,TIDA Sports,identical name,100.0
+R251204-ultraviolette,ET-125761524,et,Ultraviolette,identical name,100.0
+R251204-ultraviolette,INC-20251206-01,inc42,Ultraviolette,identical name,100.0
+R251205-redapto,INC-20251206-14,inc42,Redapto,identical name,100.0
+R251208-consciouschemi,ET-125835778,et,Conscious Chemist,identical name,100.0
+R251208-consciouschemi,INC-20251213-13,inc42,Conscious Chemist,identical name,100.0
+R251208-frex,INC-20251213-16,inc42,Frex,identical name,100.0
+R251208-koriken,INC-20251213-18,inc42,Koriken,identical name,100.0
+R251208-lumov,INC-20251213-15,inc42,Lumov Health,generic word added or dropped,100.0
+R251209-emergent,INC-20251213-20,inc42,Emergent,identical name,100.0
+R251209-fibe,ET-125869054,et,Fibe,identical name,100.0
+R251209-fibe,INC-20251213-01,inc42,Fibe,identical name,100.0
+R251209-fibe,VCC-1b3fb20cf3,vccircle,fibe,identical name,100.0
+R251210-drpaws,ET-125893844,et,Dr Paws,identical name,100.0
+R251210-drpaws,INC-20251213-10,inc42,Dr. Paws,identical name,100.0
+R251210-earthful,ET-125889938,et,Earthful,identical name,100.0
+R251210-earthful,INC-20251213-11,inc42,Earthful,identical name,100.0
+R251210-elecbits,INC-20251213-07,inc42,Elecbits,identical name,100.0
+R251210-knot,INC-20251213-08,inc42,KNOT,identical name,100.0
+R251210-skydo,ET-125877194,et,Skydo,identical name,100.0
+R251210-skydo,INC-20251213-03,inc42,Skydo,identical name,100.0
+R251210-smartjoules,INC-20251213-04,inc42,Smart Joules,identical name,100.0
+R251210-smartjoules,VCC-8d892bb386,vccircle,smart joules,identical name,100.0
+R251210-superbryn,ET-125872445,et,SuperBryn,identical name,100.0
+R251210-superbryn,INC-20251213-14,inc42,SuperBryn,identical name,100.0
+R251210-uolo,ET-125877095,et,Uolo,identical name,100.0
+R251210-uolo,INC-20251213-05,inc42,Uolo,identical name,100.0
+R251211-inito,INC-20251213-02,inc42,Inito,identical name,100.0
+R251211-inito,VCC-94314ac562,vccircle,inito,identical name,100.0
+R251211-neosapien,INC-20251213-12,inc42,NeoSapien,identical name,100.0
+R251211-toffeecoffeero,INC-20251213-17,inc42,Toffee Coffee Roasters,identical name,100.0
+R251215-cuepilotai,ENT-10920913,entrackr,CuePilot AI,identical name,100.0
+R251215-ipf,INC-20251220-24,inc42,IPF,identical name,100.0
+R251215-rotoriswatches,INC-20251220-14,inc42,Rotoris,longer and shorter form of the name,95.0
+R251215-tagbin,ENT-10917895,entrackr,Tagbin,identical name,100.0
+R251215-tagbin,INC-20251220-06,inc42,Tagbin,identical name,100.0
+R251216-aceturtle,ENT-10916885,entrackr,Ace Turtle,identical name,100.0
+R251216-aurassure,ET-126003016,et,Aurassure,identical name,100.0
+R251216-aurassure,INC-20251220-16,inc42,Aurassure,identical name,100.0
+R251216-digantara,ET-126003178,et,Digantara,identical name,100.0
+R251216-digantara,INC-20251220-02,inc42,Digantara,identical name,100.0
+R251216-digantara,VCC-1bade6ad53,vccircle,digantara,identical name,100.0
+R251216-edt,ET-125983607,et,EDT,identical name,100.0
+R251216-edt,INC-20251220-21,inc42,EDT,identical name,100.0
+R251216-moxiebeauty,ET-125986586,et,Moxie Beauty,identical name,100.0
+R251216-moxiebeauty,INC-20251220-03,inc42,Moxie Beauty,identical name,100.0
+R251216-quintrans,INC-20251220-22,inc42,Quintrans,identical name,100.0
+R251216-underneat,ET-125997363,et,Underneat,identical name,100.0
+R251216-underneat,INC-20251220-11,inc42,Underneat,identical name,100.0
+R251217-cellarimlabs,INC-20251220-23,inc42,Cellarim Labs,identical name,100.0
+R251217-decodeage,INC-20251220-20,inc42,Decode Age,identical name,100.0
+R251217-wickedgud,INC-20251220-18,inc42,WickedGud,identical name,100.0
+R251218-magma,ET-126055998,et,Magma,identical name,100.0
+R251218-magma,INC-20251220-15,inc42,Magma,identical name,100.0
+R251218-obenelectric,INC-20251220-07,inc42,Oben Electric,identical name,100.0
+R251218-workindia,ENT-10922965,entrackr,WorkIndia,identical name,100.0
+R251218-workindia,INC-20251220-05,inc42,WorkIndia,identical name,100.0
+R251218-workindia,VCC-7fbc437df6,vccircle,workindia s series b round,name found inside the headline,100.0
+R251219-alimentoagrofo,ET-126072896,et,Alimento Agro Foods,identical name,100.0
+R251219-alimentoagrofo,INC-20251220-12,inc42,Alimento Agro Foods,identical name,100.0
+R251219-stockgro,INC-20251220-04,inc42,StockGro,identical name,100.0
+R251219-stockgro,VCC-cd83175550,vccircle,stockgro,identical name,100.0
+R251219-virohan,INC-20251220-08,inc42,Virohan,identical name,100.0
+R251222-plasmagenbiosc,ET-126118289,et,PlasmaGen Biosciences,identical name,100.0
+R251222-powerupmoney,ET-126116129,et,PowerUp Money,identical name,100.0
+R251222-powerupmoney,INC-20251227-02,inc42,PowerUp Money,identical name,100.0
+R251223-coreeltechnolo,ET-126139285,et,CoreEL Technologies,identical name,100.0
+R251223-coreeltechnolo,INC-20251227-01,inc42,CoreEL Technologies,identical name,100.0
+R251223-naxatralabs,ET-126141968,et,Naxatra Labs,identical name,100.0
+R251223-naxatralabs,INC-20251227-04,inc42,Naxatra Labs,identical name,100.0
+R251223-prosperrio,ET-126132457,et,Prosperr.io,identical name,100.0
+R251223-prosperrio,INC-20251227-03,inc42,Prosperr.io,identical name,100.0
+R251231-speed,INC-20260110-02,inc42,Speed,identical name,100.0
+R260102-aryaag,INC-20260103-01,inc42,Arya.ag,identical name,100.0
+R260102-aryaag,VCC-48518ee14f,vccircle,agritechfirm arya ag,name found inside the headline,100.0
+R260102-knightfintech,ET-126290842,et,Knight Fintech,identical name,100.0
+R260102-knightfintech,INC-20260103-02,inc42,Knight Fintech,identical name,100.0
+R260105-goatlife,ENT-10976384,entrackr,GOAT Life,identical name,100.0
+R260105-kayesssquare,INC-20260110-13,inc42,Kayess Square,identical name,100.0
+R260105-mylapay,INC-20260110-14,inc42,Mylapay,identical name,100.0
+R260106-evenhealthcare,ET-126357267,et,Even Healthcare,identical name,100.0
+R260106-evenhealthcare,INC-20260110-01,inc42,Even Healthcare,identical name,100.0
+R260106-evenhealthcare,VCC-cba0f4a491,vccircle,even healthcare tops up series round,name found inside the headline,100.0
+R260106-futurecureheal,VCC-c04a97118b,vccircle,futurecure health,identical name,100.0
+R260106-skininspired,INC-20260110-10,inc42,SkinInspired,identical name,100.0
+R260107-arrowhead,ET-126378538,et,Arrowhead,identical name,100.0
+R260107-arrowhead,INC-20260110-09,inc42,Arrowhead,identical name,100.0
+R260107-beclinical,INC-20260110-15,inc42,Be Clinical,identical name,100.0
+R260107-flent,INC-20260110-11,inc42,Flent,identical name,100.0
+R260107-nitrocommerce,ENT-10981056,entrackr,Nitro Commerce,identical name,100.0
+R260107-nitrocommerce,ET-126416931,et,Nitro Commerce,identical name,100.0
+R260107-roadgrid,INC-20260110-12,inc42,RoadGrid,identical name,100.0
+R260107-roadgrid,INC-20260117-25,inc42,Roadgrid,identical name,100.0
+R260108-aivar,ET-126399247,et,Aivar,identical name,100.0
+R260108-aivar,INC-20260110-06,inc42,Aivar,identical name,100.0
+R260108-anddone,ET-126399326,et,&Done,identical name,100.0
+R260108-anddone,INC-20260110-08,inc42,&Done,identical name,100.0
+R260108-spectorai,INC-20260110-03,inc42,Spector.AI,identical name,100.0
+R260108-takeme2space,INC-20260110-04,inc42,TakeMe2Space,identical name,100.0
+R260112-bluecopa,ET-126486825,et,Bluecopa,identical name,100.0
+R260112-bluecopa,INC-20260117-11,inc42,Bluecopa,identical name,100.0
+R260112-edgistify,INC-20260117-24,inc42,Edgistify,identical name,100.0
+R260112-goodfarmerfood,INC-20260117-23,inc42,Good Farmer Food Concepts,identical name,100.0
+R260112-pumpumpum,INC-20260117-20,inc42,PumPumPum,identical name,100.0
+R260113-atomgrid,INC-20260117-13,inc42,Atomgrid,identical name,100.0
+R260113-carrum,INC-20260117-12,inc42,Carrum,identical name,100.0
+R260113-dazzl,ET-126490200,et,Dazzl,identical name,100.0
+R260113-dazzl,INC-20260117-17,inc42,Dazzl,identical name,100.0
+R260113-drickle,INC-20260117-26,inc42,Drickle,identical name,100.0
+R260113-greentech,ENT-10997721,entrackr,GreenTech,identical name,100.0
+R260113-greentech,INC-20260117-16,inc42,GreenTech,identical name,100.0
+R260113-hexalog,INC-20260117-14,inc42,Hexalog,identical name,100.0
+R260113-liquidnitrogam,ET-126501652,et,Liquidnitro Games,identical name,100.0
+R260113-liquidnitrogam,INC-20260117-07,inc42,Liquidnitro Games,identical name,100.0
+R260113-misochaintechn,ET-126508148,et,Misochain Tech,longer and shorter form of the name,95.0
+R260113-misochaintechn,INC-20260117-22,inc42,Misochain Technologies,identical name,100.0
+R260113-secretalchemis,ET-126497267,et,Secret Alchemist,identical name,100.0
+R260113-secretalchemis,INC-20260117-18,inc42,Secret Alchemist,identical name,100.0
+R260113-sukino,ET-126490090,et,Sukino,identical name,100.0
+R260113-sukino,INC-20260117-02,inc42,Sukino,identical name,100.0
+R260114-handypanda,INC-20260117-28,inc42,HandyPanda,identical name,100.0
+R260114-peesafe,ET-126512428,et,Pee Safe,identical name,100.0
+R260114-peesafe,INC-20260117-01,inc42,Pee Safe,identical name,100.0
+R260114-peesafe,VCC-b173c46392,vccircle,peesafe,spacing or punctuation variant,100.0
+R260114-risalabs,ET-126521715,et,RISA Labs,identical name,100.0
+R260114-risalabs,INC-20260117-08,inc42,RISA Labs,identical name,100.0
+R260114-wintwealth,ET-126512170,et,Wint Wealth,identical name,100.0
+R260114-wintwealth,INC-20260117-04,inc42,Wint Wealth,identical name,100.0
+R260114-wintwealth,VCC-13c93e6109,vccircle,wint wealth,identical name,100.0
+R260115-aulespace,ET-126532936,et,Aule Space,identical name,100.0
+R260115-aulespace,INC-20260117-21,inc42,Aule,generic word added or dropped,100.0
+R260115-emversity,ET-126529992,et,Emversity,identical name,100.0
+R260115-emversity,INC-20260117-03,inc42,Emversity,identical name,100.0
+R260115-etherealx,ET-126605041,et,EtherealX,identical name,100.0
+R260115-growthpal,INC-20260117-19,inc42,GrowthPal,identical name,100.0
+R260115-renewcred,INC-20260117-27,inc42,RenewCred,identical name,100.0
+R260115-truva,ET-126533381,et,Truva,identical name,100.0
+R260115-truva,INC-20260117-10,inc42,Truva,identical name,100.0
+R260116-gullylabs,INC-20260124-17,inc42,Gully Labs,identical name,100.0
+R260119-assetplus,ET-126653698,et,AssetPlus,identical name,100.0
+R260119-assetplus,INC-20260124-05,inc42,AssetPlus,identical name,100.0
+R260119-assetplus,VCC-74b46c7f4c,vccircle,assetplus,identical name,100.0
+R260119-culture,INC-20260124-34,inc42,Culture,identical name,100.0
+R260119-namdevfinvest,VCC-0c1cc4901b,vccircle,biibacked namdev finvest,name found inside the headline,100.0
+R260119-salty,ET-126669492,et,Salty,identical name,100.0
+R260119-salty,INC-20260124-16,inc42,Salty,identical name,100.0
+R260120-emergent,ET-126791787,et,Emergent,identical name,100.0
+R260120-emergent,INC-20260124-01,inc42,Emergent,identical name,100.0
+R260120-emergent,VCC-a604cd31dd,vccircle,emergent,identical name,100.0
+R260120-fireai,INC-20260124-28,inc42,FireAI,identical name,100.0
+R260120-forreal,INC-20260124-32,inc42,For Real,identical name,100.0
+R260120-intellend,INC-20260124-26,inc42,Intellend,identical name,100.0
+R260120-superliving,INC-20260124-22,inc42,SuperLiving,identical name,100.0
+R260120-troovy,INC-20260124-14,inc42,Troovy,identical name,100.0
+R260120-unboxrobotics,ET-126697091,et,Unbox Robotics,identical name,100.0
+R260120-unboxrobotics,INC-20260124-03,inc42,Unbox Robotics,identical name,100.0
+R260120-wanderon,INC-20260124-10,inc42,WanderOn,identical name,100.0
+R260120-whizzo,INC-20260124-06,inc42,Whizzo,identical name,100.0
+R260121-aeremsolutions,ET-126983271,et,Aerem,generic word added or dropped,100.0
+R260121-aeremsolutions,INC-20260124-07,inc42,Aerem Solutions,identical name,100.0
+R260121-arkahub,INC-20260124-23,inc42,Arkahub,identical name,100.0
+R260121-bolna,ET-126838796,et,Bolna,identical name,100.0
+R260121-bolna,INC-20260124-09,inc42,Bolna,identical name,100.0
+R260121-caredale,INC-20260124-35,inc42,Care Dale,identical name,100.0
+R260121-cuminco,ET-126840112,et,Cumin Co,identical name,100.0
+R260121-cuminco,INC-20260124-13,inc42,Cumin Co.,identical name,100.0
+R260121-enerzolve,ET-127004183,et,Enerzolve,identical name,100.0
+R260121-enerzolve,INC-20260124-12,inc42,Enerzolve,identical name,100.0
+R260121-grest,INC-20260124-24,inc42,GREST,identical name,100.0
+R260121-ringgai,ET-126836486,et,Ringg AI,identical name,100.0
+R260121-ringgai,INC-20260124-11,inc42,Ringg,generic word added or dropped,100.0
+R260121-sensesemi,ET-126841083,et,Sensesemi,identical name,100.0
+R260121-sensesemi,INC-20260124-19,inc42,Sensesemi,identical name,100.0
+R260121-stepout,INC-20260124-25,inc42,StepOut,identical name,100.0
+R260122-brisiltechnolo,INC-20260124-33,inc42,Brisil Technologies,identical name,100.0
+R260122-chargeup,INC-20260124-21,inc42,Chargeup,identical name,100.0
+R260122-escape,ET-127031714,et,Escape,identical name,100.0
+R260122-escape,INC-20260124-04,inc42,Escape Plan,longer and shorter form of the name,95.0
+R260122-lorazzo,INC-20260124-31,inc42,Lorazzo,identical name,100.0
+R260122-meineelectric,INC-20260124-27,inc42,Meine Electric,identical name,100.0
+R260122-optimist,ET-127116938,et,Optimist;,identical name,100.0
+R260122-optimist,INC-20260124-08,inc42,Optimist,identical name,100.0
+R260122-zerocircle,INC-20260124-30,inc42,Zerocircle,identical name,100.0
+R260123-dhunwellness,INC-20260124-15,inc42,Dhun Wellness,identical name,100.0
+R260123-juspay,ET-127233322,et,Juspay,identical name,100.0
+R260123-juspay,INC-20260124-02,inc42,Juspay,identical name,100.0
+R260127-4basecare,INC-20260131-02,inc42,4baseCare,identical name,100.0
+R260127-4basecare,VCC-48f172fb5b,vccircle,4basecare,identical name,100.0
+R260127-entellusindust,INC-20260131-06,inc42,Entellus Industries,identical name,100.0
+R260127-mysa,ET-127602565,et,Mysa,identical name,100.0
+R260127-mysa,INC-20260131-10,inc42,Mysa,identical name,100.0
+R260127-nivaancare,ET-127592314,et,Nivaan Care,identical name,100.0
+R260127-nivaancare,INC-20260131-05,inc42,Nivaan Care,identical name,100.0
+R260127-spotdraft,ET-127603427,et,SpotDraft,identical name,100.0
+R260127-spotdraft,INC-20260131-04,inc42,SpotDraft,identical name,100.0
+R260128-agranilabs,INC-20260131-03,inc42,Agrani Labs,identical name,100.0
+R260128-aquaairx,ET-127687239,et,AquaAirX,identical name,100.0
+R260128-aquaairx,INC-20260131-14,inc42,AquaAirX,identical name,100.0
+R260128-easyhomefinanc,ENT-11039108,entrackr,Easy Home Finance,identical name,100.0
+R260128-easyhomefinanc,ET-127716059,et,Easy Home Finance,identical name,100.0
+R260128-scrapuncle,INC-20260131-13,inc42,ScrapUncle,identical name,100.0
+R260128-thestack,INC-20260131-16,inc42,The Stack,identical name,100.0
+R260128-vimaglabs,ENT-11039322,entrackr,Vimag Labs,identical name,100.0
+R260128-vimaglabs,ET-127715178,et,Vimag Labs,identical name,100.0
+R260129-1buyai,ET-127716212,et,1Buy.ai,identical name,100.0
+R260129-1buyai,INC-20260131-09,inc42,1Buy.AI,identical name,100.0
+R260129-biopeak,ET-127763628,et,Biopeak,identical name,100.0
+R260129-biopeak,INC-20260131-12,inc42,Biopeak,identical name,100.0
+R260129-cavaathleisure,INC-20260131-08,inc42,CAVA Athleisure,identical name,100.0
+R260129-earthsync,INC-20260131-15,inc42,EarthSync,identical name,100.0
+R260129-onearvo,INC-20260131-17,inc42,OneARVO,identical name,100.0
+R260131-jjgaero,ENT-11066196,entrackr,JJG Aero,identical name,100.0
+R260131-jjgaero,VCC-c8ce765c53,vccircle,jjg aero,identical name,100.0
+R260202-dreamflyinnova,INC-20260207-16,inc42,Dreamfly Innovations,identical name,100.0
+R260202-drivn,ET-127862854,et,Drivn,identical name,100.0
+R260202-drivn,VCC-3c0fd84694,vccircle,drivn,identical name,100.0
+R260203-chinikum,ENT-11077951,entrackr,CHINI KUM,identical name,100.0
+R260203-digitalstriker,ENT-11079028,entrackr,Digital Striker,identical name,100.0
+R260203-loopai,INC-20260207-04,inc42,Loop AI,identical name,100.0
+R260203-mindcase,INC-20260207-18,inc42,Mindcase,identical name,100.0
+R260204-15degree,INC-20260207-11,inc42,1.5 Degree,identical name,100.0
+R260204-fibrai,ENT-11077213,entrackr,Fibr AI,identical name,100.0
+R260204-fibrai,ET-127911775,et,Fibr AI,identical name,100.0
+R260204-gamepoint,INC-20260207-14,inc42,Gamepoint,identical name,100.0
+R260204-thewholetruth,ET-127898632,et,The Whole Truth,identical name,100.0
+R260204-thewholetruth,INC-20260207-01,inc42,The Whole Truth,identical name,100.0
+R260204-varaha,ET-127893646,et,Varaha,identical name,100.0
+R260204-varaha,INC-20260207-02,inc42,Varaha,identical name,100.0
+R260204-vibrium,INC-20260207-12,inc42,Vibrium,identical name,100.0
+R260205-drdoodley,INC-20260207-08,inc42,Dr. Doodley,identical name,100.0
+R260205-eyerov,INC-20260207-09,inc42,EyeROV,identical name,100.0
+R260205-goodmonk,INC-20260207-07,inc42,Good Monk,identical name,100.0
+R260205-materialdepot,ET-127915373,et,Material Depot,identical name,100.0
+R260205-materialdepot,INC-20260207-05,inc42,Material Depot,identical name,100.0
+R260205-octobotics,INC-20260207-10,inc42,Octobotics,identical name,100.0
+R260205-zilo,ET-127924933,et,Zilo,identical name,100.0
+R260205-zilo,INC-20260207-03,inc42,ZILO,identical name,100.0
+R260209-elevate,INC-20260214-20,inc42,Elevate Now,longer and shorter form of the name,95.0
+R260209-olyv,ET-128168792,et,Olyv,identical name,100.0
+R260209-olyv,INC-20260214-03,inc42,Olyv,identical name,100.0
+R260209-pandorumtechno,INC-20260214-04,inc42,Pandorum Technologies,identical name,100.0
+R260209-preventify,ET-128103536,et,Preventify,identical name,100.0
+R260209-preventify,INC-20260214-29,inc42,Preventify,identical name,100.0
+R260209-satlabsspacesy,INC-20260214-23,inc42,Satlabs,generic word added or dropped,100.0
+R260210-bennybowl,INC-20260214-21,inc42,Benny’s Bowl,identical name,100.0
+R260210-botgaugeai,ET-128122718,et,Botgauge AI,identical name,100.0
+R260210-botgaugeai,INC-20260214-19,inc42,BotGauge AI,identical name,100.0
+R260210-curapod,INC-20260214-17,inc42,CURAPOD,identical name,100.0
+R260210-padcarelabs,ET-128142626,et,PadCare Labs,identical name,100.0
+R260210-padcarelabs,INC-20260214-13,inc42,PadCare,generic word added or dropped,100.0
+R260210-supertails,ET-128122923,et,Supertails,identical name,100.0
+R260210-supertails,INC-20260214-02,inc42,Supertails,identical name,100.0
+R260210-truthandhair,INC-20260214-28,inc42,Truth & Hair,identical name,100.0
+R260211-articulussurgi,ET-128167614,et,Articulus Surgical,identical name,100.0
+R260211-articulussurgi,INC-20260214-30,inc42,Articulus Surgical,identical name,100.0
+R260211-carefi,ET-128167475,et,Care.fi,identical name,100.0
+R260211-carefi,INC-20260214-07,inc42,Care.fi,identical name,100.0
+R260211-nester,ET-128206712,et,Nester,identical name,100.0
+R260211-nester,INC-20260214-18,inc42,Nester,identical name,100.0
+R260211-showroomb2b,ET-128192149,et,Showroom B2B,identical name,100.0
+R260211-showroomb2b,INC-20260214-05,inc42,Showroom B2B,identical name,100.0
+R260211-steampro,INC-20260214-26,inc42,SteamPRO,identical name,100.0
+R260211-thirdai,INC-20260214-12,inc42,ThirdAI,identical name,100.0
+R260212-digitory,INC-20260214-24,inc42,Digitory,identical name,100.0
+R260212-dusq,INC-20260214-15,inc42,DUSQ,identical name,100.0
+R260212-elixiirfoods,ET-128246738,et,Elixiir Foods,identical name,100.0
+R260212-elixiirfoods,INC-20260214-06,inc42,Elixiir Foods,identical name,100.0
+R260212-indigridtechno,INC-20260214-09,inc42,Indigrid,generic word added or dropped,100.0
+R260212-ukhi,INC-20260214-22,inc42,UKHI,identical name,100.0
+R260213-etrnlenergy,INC-20260214-11,inc42,e-TRNL Energy,identical name,100.0
+R260213-idfy,ET-128273894,et,Idfy,identical name,100.0
+R260213-idfy,INC-20260214-01,inc42,IDfy,identical name,100.0
+R260213-sixsensemobili,INC-20260214-08,inc42,Six Sense Mobility,identical name,100.0
+R260214-spinny,INC-20260221-01,inc42,Spinny,identical name,100.0
+R260216-c2isemiconduct,ET-128384186,et,C2i Semiconductors,identical name,100.0
+R260216-c2isemiconduct,INC-20260221-05,inc42,C2i Semiconductors,identical name,100.0
+R260216-ottomoney,INC-20260221-14,inc42,Otto Money,identical name,100.0
+R260217-beep,INC-20260221-15,inc42,Beep,identical name,100.0
+R260217-craftifai,ET-128465236,et,CraftifAI,identical name,100.0
+R260217-craftifai,INC-20260221-11,inc42,CraftifAI,identical name,100.0
+R260217-homerun,ET-128432254,et,HomeRun,identical name,100.0
+R260217-homerun,INC-20260221-08,inc42,HomeRun,identical name,100.0
+R260217-intrinsicfound,INC-20260221-13,inc42,Intrinsic Foundries,identical name,100.0
+R260217-navikenz,ET-128453335,et,Navikenz,identical name,100.0
+R260217-tonetag,ET-128505446,et,Tonetag,identical name,100.0
+R260218-peptris,INC-20260221-07,inc42,Peptris,identical name,100.0
+R260218-stablemoney,ENT-11219612,entrackr,Stable Money,identical name,100.0
+R260218-stablemoney,ET-128479032,et,Stable Money,identical name,100.0
+R260218-stablemoney,INC-20260221-02,inc42,Stable Money,identical name,100.0
+R260218-statiq,ET-128632842,et,Statiq,identical name,100.0
+R260218-statiq,INC-20260221-03,inc42,Statiq,identical name,100.0
+R260218-vervesemi,INC-20260221-06,inc42,Vervesemi,identical name,100.0
+R260219-plutomobility,INC-20260221-12,inc42,Pluto Mobility,identical name,100.0
+R260219-portkey,ET-128566160,et,Portkey,identical name,100.0
+R260219-portkey,INC-20260221-04,inc42,Portkey,identical name,100.0
+R260220-roopya,INC-20260221-16,inc42,Roopya,identical name,100.0
+R260223-datoms,ET-128718337,et,DATOMS,identical name,100.0
+R260223-mydesignation,ET-128706795,et,MyDesignation,identical name,100.0
+R260224-basil,ET-128722495,et,Basil,identical name,100.0
+R260224-hirebound,ET-128720582,et,HireBound,identical name,100.0
+R260224-oncare,ET-128720443,et,Oncare,identical name,100.0
+R260224-optoml,ET-128748689,et,optoML,identical name,100.0
+R260224-wishlink,ET-128718810,et,Wishlink,identical name,100.0
+R260224-wishlink,VCC-a0a8f6b8e6,vccircle,wishlink,identical name,100.0
+R260224-xflow,ET-128742680,et,Xflow,identical name,100.0
+R260225-homeessentials,ET-128779606,et,Home Essentials,identical name,100.0
+R260225-pulse,ET-128761279,et,Pulse,identical name,100.0
+R260225-wootzwork,ET-128784024,et,Wootzwork,spacing or punctuation variant,100.0
+R260226-companionlabs,ET-128811722,et,Companion Labs,identical name,100.0
+R260226-freed,ET-128794190,et,Freed,identical name,100.0
+R260226-gushwork,ET-128794026,et,Gushwork AI,generic word added or dropped,100.0
+R260226-meltplan,ET-128793777,et,MeltPlan,identical name,100.0
+R260226-prayaancapital,ET-128811261,et,Prayaan Capital,identical name,100.0
+R260226-spintly,ENT-11160379,entrackr,Spintly,identical name,100.0
+R260227-constelli,ET-128825815,et,Constelli,identical name,100.0
+R260227-temple,ET-128852025,et,Temple,identical name,100.0
+R260302-bounce,ET-128942453,et,Bounce,identical name,100.0
+R260302-inamo,ET-128922042,et,Inamo,identical name,100.0
+R260302-inamo,INC-20260307-04,inc42,Inamo,identical name,100.0
+R260303-bubbleme,INC-20260307-11,inc42,Bubble Me,identical name,100.0
+R260303-kaartech,ENT-11187444,entrackr,KaarTech,identical name,100.0
+R260303-kaartech,ET-129284584,et,KaarTech,identical name,100.0
+R260303-kaartech,INC-20260314-06,inc42,KaarTech,identical name,100.0
+R260303-kaartech,VCC-b6338a3578,vccircle,kaartech,identical name,100.0
+R260303-pronto,ENT-11190605,entrackr,Pronto,identical name,100.0
+R260303-pronto,ET-128950973,et,Pronto,identical name,100.0
+R260303-pronto,INC-20260307-02,inc42,Pronto,identical name,100.0
+R260303-rasluxuryskinc,INC-20260307-05,inc42,RAS Luxury,longer and shorter form of the name,95.0
+R260303-rasluxuryskinc,VCC-2241372320,vccircle,ras luxury skincare,identical name,100.0
+R260305-cheerioai,INC-20260307-09,inc42,Cheerio,generic word added or dropped,100.0
+R260306-cent,ET-129105792,et,Cent,identical name,100.0
+R260306-cent,INC-20260307-06,inc42,Cent,identical name,100.0
+R260306-rozana,INC-20260307-01,inc42,Rozana,identical name,100.0
+R260310-aquaexchange,ET-129387643,et,AquaExchange,identical name,100.0
+R260310-aquaexchange,INC-20260314-09,inc42,AquaExchange,identical name,100.0
+R260310-captainfresh,INC-20260314-02,inc42,Captain Fresh,identical name,100.0
+R260310-coreworksai,INC-20260314-11,inc42,Coreworks AI,identical name,100.0
+R260310-mozark,INC-20260314-01,inc42,Mozark,identical name,100.0
+R260310-mozark,VCC-a54e568aba,vccircle,mozark,identical name,100.0
+R260310-newtrace,ET-129378820,et,Newtrace,identical name,100.0
+R260310-newtrace,INC-20260314-10,inc42,Newtrace,identical name,100.0
+R260310-skyeair,VCC-7bfd5b16cc,vccircle,skye air mobility,generic word added or dropped,100.0
+R260310-verdantimpact,INC-20260314-15,inc42,Verdant Impact,identical name,100.0
+R260310-zofffoods,ET-129346824,et,Zoff Foods,identical name,100.0
+R260310-zofffoods,INC-20260314-18,inc42,Zoff Foods,identical name,100.0
+R260311-bobabhai,ET-129408953,et,Boba Bhai,identical name,100.0
+R260311-bobabhai,INC-20260314-13,inc42,Boba Bhai,identical name,100.0
+R260311-confluxe,INC-20260314-19,inc42,Confluxe,identical name,100.0
+R260311-constemsaisyst,INC-20260314-16,inc42,Constems-AI,generic word added or dropped,100.0
+R260311-drinkprime,ET-129636145,et,Drink Prime,spacing or punctuation variant,100.0
+R260311-drinkprime,INC-20260321-15,inc42,DrinkPrime,identical name,100.0
+R260311-nprep,ET-129438376,et,Nprep,identical name,100.0
+R260311-nprep,INC-20260314-20,inc42,NPrep,identical name,100.0
+R260311-opencfo,INC-20260314-17,inc42,OpenCFO,identical name,100.0
+R260312-mosaicwellness,INC-20260314-04,inc42,Mosiac Wellness,spelling variant (fuzzy match),92.9
+R260312-mosaicwellness,VCC-89ccda2203,vccircle,vcbacked mosaic wellness,name found inside the headline,100.0
+R260312-mosaicwellness,VCC-b4192485d4,vccircle,mosaic wellness,identical name,100.0
+R260313-waycool,INC-20260314-03,inc42,Waycool,identical name,100.0
+R260315-officebanao,ENT-11216087,entrackr,OfficeBanao,identical name,100.0
+R260315-officebanao,INC-20260321-07,inc42,OfficeBanao,identical name,100.0
+R260316-agnitsemicondu,ET-129601408,et,Agnit Semiconductors,identical name,100.0
+R260316-agnitsemicondu,INC-20260321-14,inc42,AGNIT Semiconductors,identical name,100.0
+R260316-atlys,ET-129610554,et,Atlys,identical name,100.0
+R260316-atlys,INC-20260321-03,inc42,Atlys,identical name,100.0
+R260316-betterhood,ET-129594906,et,Betterhood,identical name,100.0
+R260316-ecofy,INC-20260321-02,inc42,Ecofy,identical name,100.0
+R260316-ecofy,VCC-271e361ffd,vccircle,eversourcebacked ecofy finance,name found inside the headline,100.0
+R260316-grapevine,ENT-11219589,entrackr,Grapevine,identical name,100.0
+R260316-grapevine,ET-129626456,et,Grapevine,identical name,100.0
+R260317-bamboobox,ET-129631512,et,BambooBox,identical name,100.0
+R260317-bamboobox,INC-20260321-09,inc42,BambooBox,identical name,100.0
+R260317-canvaloop,ENT-11262208,entrackr,Canvaloop,identical name,100.0
+R260317-canvaloop,INC-20260328-18,inc42,Canvaloop,identical name,100.0
+R260317-moepuppy,INC-20260321-21,inc42,Moe Puppy,identical name,100.0
+R260317-velmenni,ET-129624395,et,Velmenni,identical name,100.0
+R260317-velmenni,INC-20260321-13,inc42,Velmenni,identical name,100.0
+R260318-aerchain,ET-129654052,et,Aerchain,identical name,100.0
+R260318-aerchain,INC-20260321-05,inc42,Aerchain,identical name,100.0
+R260318-burgersingh,ET-129655557,et,Burger Singh,identical name,100.0
+R260318-burgersingh,INC-20260321-06,inc42,Burger Singh,identical name,100.0
+R260318-burgersingh,VCC-3b7cac570b,vccircle,qsrchain burger singh,name found inside the headline,100.0
+R260318-cometchat,ET-129653805,et,Comet Chat,spacing or punctuation variant,100.0
+R260318-cometchat,INC-20260321-10,inc42,CometChat,identical name,100.0
+R260318-laani,ENT-11226896,entrackr,Laani,identical name,100.0
+R260318-verbaflo,ET-129653691,et,VerbaFlo,identical name,100.0
+R260318-verbaflo,INC-20260321-08,inc42,VerbaFlo,identical name,100.0
+R260319-mavehealth,INC-20260321-16,inc42,Mave Health,identical name,100.0
+R260319-pinqpolka,INC-20260321-20,inc42,Pinq Polka,identical name,100.0
+R260319-rymotechnologi,INC-20260321-18,inc42,Rymo Technologies,identical name,100.0
+R260323-bidso,ENT-11712626,entrackr,BIDSO,identical name,100.0
+R260323-bidso,ET-129737709,et,Bidso,identical name,100.0
+R260323-bidso,INC-20260328-09,inc42,Bidso,identical name,100.0
+R260323-finfinity,INC-20260328-16,inc42,Finfinity,identical name,100.0
+R260323-letzryd,INC-20260328-12,inc42,LetzRyd,identical name,100.0
+R260323-raanro,INC-20260328-23,inc42,Raanro Interior Technology,longer and shorter form of the name,95.0
+R260323-workroomautoma,INC-20260328-21,inc42,Workroom Automation,identical name,100.0
+R260324-eulermotors,ET-129777725,et,Euler Motors,identical name,100.0
+R260324-eulermotors,INC-20260328-01,inc42,Euler Motors,identical name,100.0
+R260324-eulermotors,VCC-1ebc963c07,vccircle,eulermotors,spacing or punctuation variant,100.0
+R260324-kidbea,INC-20260328-13,inc42,Kidbea,identical name,100.0
+R260324-ozi,ET-129776581,et,Ozi,identical name,100.0
+R260324-ozi,INC-20260328-10,inc42,OZi,identical name,100.0
+R260324-pranos,ET-129757710,et,Pranos,identical name,100.0
+R260324-pranos,INC-20260328-08,inc42,Pranos Fusion,longer and shorter form of the name,95.0
+R260324-rnkids,INC-20260328-20,inc42,RN Kids,identical name,100.0
+R260324-swish,INC-20260328-04,inc42,Swish,identical name,100.0
+R260324-swish,VCC-b364c9374d,vccircle,swish,identical name,100.0
+R260325-burmaburma,INC-20260328-11,inc42,Burma Burma,identical name,100.0
+R260325-fullifehealthc,ET-129794227,et,Fullife Healthcare,identical name,100.0
+R260325-fullifehealthc,INC-20260328-05,inc42,Fullife Healthcare,identical name,100.0
+R260325-rocketlane,INC-20260328-02,inc42,Rocketlane,identical name,100.0
+R260325-rocketlane,VCC-62d86bf43a,vccircle,rocketlane,identical name,100.0
+R260326-beastlife,ENT-11442544,entrackr,BeastLife,identical name,100.0
+R260326-deccanai,ET-129808398,et,Deccan AI,identical name,100.0
+R260326-deccanai,INC-20260328-06,inc42,Deccan AI,identical name,100.0
+R260326-elmedlifescien,ET-129808178,et,Elmed Life Sciences,identical name,100.0
+R260326-elmedlifescien,INC-20260328-15,inc42,ELMED Life Sciences,identical name,100.0
+R260326-elmedlifescien,VCC-53880b50dd,vccircle,probioticsmaker elmed life sciences,name found inside the headline,100.0
+R260326-pluminsurance,INC-20260328-07,inc42,Plum,longer and shorter form of the name,95.0
+R260326-pluminsurance,VCC-4fdfeee9e5,vccircle,plum,identical name,100.0
+R260327-bellatrixaeros,ET-129860404,et,Bellatrix,generic word added or dropped,100.0
+R260327-bellatrixaeros,VCC-0da42c40d6,vccircle,spacetechstartup bellatrix aerospace,name found inside the headline,100.0
+R260327-uncia,ET-129842279,et,Uncia,identical name,100.0
+R260327-uncia,INC-20260328-14,inc42,Uncia,identical name,100.0
+R260330-bacancysystems,INC-20260404-06,inc42,Bacancy System,spelling variant (fuzzy match),96.3
+R260330-cropcoin,ET-129900516,et,Cropcoin Technologies,generic word added or dropped,100.0
+R260330-cropcoin,INC-20260404-11,inc42,Cropcoin,identical name,100.0
+R260330-epik,ET-129900746,et,Epik,identical name,100.0
+R260330-epik,INC-20260404-14,inc42,Epik,identical name,100.0
+R260330-gnaniai,ET-129917999,et,Gnani ai,identical name,100.0
+R260330-gnaniai,INC-20260404-04,inc42,Gnani.ai,identical name,100.0
+R260330-gnaniai,VCC-45683e5778,vccircle,gnani ai s series b round,longer and shorter form of the name,95.0
+R260330-kuku,ET-129903638,et,Kuku,identical name,100.0
+R260330-kuku,INC-20260404-17,inc42,Kuku FM,longer and shorter form of the name,95.0
+R260330-sign3,INC-20260404-10,inc42,Sign3,identical name,100.0
+R260331-bachatt,INC-20260404-03,inc42,Bachatt,identical name,100.0
+R260331-fanon,ET-129909342,et,Fanon,identical name,100.0
+R260331-fanon,INC-20260404-13,inc42,Fanon,identical name,100.0
+R260331-openfx,ET-129922393,et,OpenFX,identical name,100.0
+R260401-credresolve,INC-20260404-18,inc42,CredResolve,identical name,100.0
+R260401-nowpurchase,INC-20260404-05,inc42,NowPurchase,identical name,100.0
+R260401-nowpurchase,VCC-639f451887,vccircle,nowpurchase,identical name,100.0
+R260401-palmonas,ENT-11446027,entrackr,Palmonas,identical name,100.0
+R260401-xovianaerospac,INC-20260404-08,inc42,Xovian Aerospace,identical name,100.0
+R260402-aquapulse,INC-20260404-07,inc42,Aquapulse,identical name,100.0
+R260402-gabify,INC-20260404-15,inc42,Gabify,identical name,100.0
+R260406-gosats,INC-20260411-07,inc42,GoSats,identical name,100.0
+R260406-satarkai,INC-20260411-23,inc42,Satark AI,identical name,100.0
+R260406-satleolabs,ET-130060486,et,SatLeo Labs,identical name,100.0
+R260406-satleolabs,INC-20260411-12,inc42,SatLeo,generic word added or dropped,100.0
+R260407-ecoil,ET-130079818,et,Ecoil,identical name,100.0
+R260407-ecoil,INC-20260411-09,inc42,Ecoil,identical name,100.0
+R260407-filliandme,INC-20260411-20,inc42,Filli & Me,identical name,100.0
+R260407-h2loop,INC-20260411-14,inc42,H2LooP,identical name,100.0
+R260407-helium,ENT-11726966,entrackr,Helium,identical name,100.0
+R260407-helium,INC-20260411-13,inc42,Helium Air,longer and shorter form of the name,95.0
+R260407-helium,INC-20260418-13,inc42,Helium,identical name,100.0
+R260407-kisaansay,INC-20260411-08,inc42,KisaanSay,identical name,100.0
+R260407-offbeat,INC-20260411-03,inc42,OFF/BEAT,identical name,100.0
+R260407-workongrid,ET-130087854,et,WorkOnGrid,identical name,100.0
+R260407-workongrid,INC-20260411-11,inc42,WorkOnGrid,identical name,100.0
+R260407-xccelera,INC-20260411-22,inc42,Xccelera,identical name,100.0
+R260408-angoorai,INC-20260411-19,inc42,Angoor AI,identical name,100.0
+R260408-atlas,ET-130092598,et,Atlas,identical name,100.0
+R260408-atlas,INC-20260411-06,inc42,Atlas,identical name,100.0
+R260408-clayco,ET-130113372,et,ClayCo,identical name,100.0
+R260408-clayco,INC-20260411-16,inc42,ClayCo,identical name,100.0
+R260408-kreditbee,ET-130091264,et,Kreditbee,identical name,100.0
+R260408-kreditbee,INC-20260411-01,inc42,KreditBee,identical name,100.0
+R260408-pluckk,ENT-11703844,entrackr,Pluckk,identical name,100.0
+R260408-pluckk,INC-20260411-04,inc42,Pluckk,identical name,100.0
+R260408-roshai,INC-20260411-10,inc42,RoshAi,identical name,100.0
+R260408-trevmobility,INC-20260411-17,inc42,Trev Mobility,identical name,100.0
+R260409-astranovamobil,ET-130134646,et,Astranova Mobility,identical name,100.0
+R260409-astranovamobil,INC-20260411-05,inc42,Astranova Mobility,identical name,100.0
+R260409-daakit,INC-20260411-21,inc42,DAAKit,identical name,100.0
+R260409-nava,ET-130120363,et,Nava,identical name,100.0
+R260409-nava,INC-20260411-02,inc42,Nava,identical name,100.0
+R260409-swageazy,INC-20260411-15,inc42,Swageazy,identical name,100.0
+R260409-swageazy,INC-20260418-11,inc42,Swageazy,identical name,100.0
+R260413-smartgarage,INC-20260418-14,inc42,Smart Garage,identical name,100.0
+R260414-traqcheck,INC-20260418-04,inc42,TraqCheck,identical name,100.0
+R260415-gobblecube,ET-130265710,et,GobbleCube,identical name,100.0
+R260415-gobblecube,INC-20260418-02,inc42,GobbleCube,identical name,100.0
+R260415-ivory,INC-20260418-08,inc42,Ivory,identical name,100.0
+R260416-alistetechnolo,INC-20260418-05,inc42,Aliste Technologies,identical name,100.0
+R260416-cohomacoffee,INC-20260418-12,inc42,Cohoma Coffee,identical name,100.0
+R260416-fifthsense,ENT-11735379,entrackr,FIFTH SENSE,identical name,100.0
+R260416-fifthsense,ET-130326884,et,Fifth Sense,identical name,100.0
+R260416-intellithink,ET-130291125,et,Intellithink,identical name,100.0
+R260416-intellithink,INC-20260418-06,inc42,Intellithink,identical name,100.0
+R260416-thehosteller,INC-20260418-01,inc42,Hosteller,generic word added or dropped,100.0
+R260416-thehosteller,VCC-9f1c0adf60,vccircle,hosteller,identical name,100.0
+R260416-unbound,INC-20260418-09,inc42,Unbound,identical name,100.0
+R260420-claritylabs,INC-20260425-11,inc42,Clarity Labs,identical name,100.0
+R260421-acaitheory,INC-20260425-10,inc42,Açaí Theory,identical name,100.0
+R260421-curemeabroad,INC-20260425-09,inc42,CureMeAbroad,identical name,100.0
+R260421-lawyered,INC-20260425-06,inc42,Lawyered,identical name,100.0
+R260421-nudgebee,ET-130400005,et,NudgeBee,identical name,100.0
+R260421-nudgebee,INC-20260425-05,inc42,NudgeBee,identical name,100.0
+R260421-primeinvestor,INC-20260425-07,inc42,PrimeInvestor,spacing or punctuation variant,100.0
+R260422-m,INC-20260425-02,inc42,M,identical name,100.0
+R260422-spillgames,ET-130434162,et,Spill Games,identical name,100.0
+R260422-spillgames,INC-20260425-04,inc42,Spill Games,identical name,100.0
+R260423-deepalgorithm,INC-20260425-08,inc42,Deep Algorithm,identical name,100.0
+R260423-lightfurygames,INC-20260425-01,inc42,LightFury Games,identical name,100.0
+R260423-stch,INC-20260425-03,inc42,STCH,identical name,100.0
+R260424-oolka,ENT-11780445,entrackr,Oolka,identical name,100.0
+R260424-oolka,ET-130620781,et,Oolka,identical name,100.0
+R260424-oolka,INC-20260502-06,inc42,Oolka,identical name,100.0
+R260427-metasportsinte,INC-20260502-04,inc42,Metasports Interactive,identical name,100.0
+R260428-batterysmart,INC-20260502-05,inc42,Battery Smart,identical name,100.0
+R260428-credilio,INC-20260502-08,inc42,Credilio,identical name,100.0
+R260428-houseofchikank,ET-130587957,et,House of Chikankari,identical name,100.0
+R260428-houseofchikank,INC-20260502-12,inc42,House Of Chikankari,identical name,100.0
+R260428-hyugalife,INC-20260502-07,inc42,HyugaLife,identical name,100.0
+R260428-kovon,INC-20260502-18,inc42,Kovon,identical name,100.0
+R260428-mojrotechnolog,INC-20260502-14,inc42,Mojro,generic word added or dropped,100.0
+R260428-snabbit,INC-20260502-01,inc42,Snabbit,identical name,100.0
+R260428-snabbit,VCC-e06c595434,vccircle,snabbit,identical name,100.0
+R260429-prithu,ET-130603141,et,Prithu,identical name,100.0
+R260429-prithu,INC-20260502-15,inc42,Prithu,identical name,100.0
+R260429-sahi,ET-130585673,et,Sahi,identical name,100.0
+R260429-sahi,INC-20260502-02,inc42,Sahi,identical name,100.0
+R260429-sportvot,ET-130587716,et,SportVot,identical name,100.0
+R260429-sportvot,INC-20260502-10,inc42,SportVot,identical name,100.0
+R260429-vikraoceantech,INC-20260502-17,inc42,VIKRA Ocean Tech,identical name,100.0
+R260430-ctruh,INC-20260502-13,inc42,Ctruh,identical name,100.0
+R260430-kimbal,VCC-8ae7306424,vccircle,kimbal,identical name,100.0
+R260430-ubiqedge,INC-20260502-16,inc42,Ubiqedge,identical name,100.0
+R260504-aurm,INC-20260509-07,inc42,Aurm,identical name,100.0
+R260504-banza,INC-20260509-14,inc42,Banza,identical name,100.0
+R260504-chosen,INC-20260509-05,inc42,CHOSEN,identical name,100.0
+R260504-healthfab,ET-130798838,et,HealthFab,identical name,100.0
+R260504-healthfab,INC-20260509-11,inc42,HealthFab,identical name,100.0
+R260504-tsavorite,ET-130785660,et,Tsavorite,identical name,100.0
+R260504-tsavorite,INC-20260509-06,inc42,Tsavorite,identical name,100.0
+R260505-jurisphere,ET-130827866,et,Jurisphere,identical name,100.0
+R260505-jurisphere,INC-20260509-10,inc42,Jurisphere.ai,generic word added or dropped,100.0
+R260505-vobizai,INC-20260509-15,inc42,Vobiz.ai,identical name,100.0
+R260506-bigendiansemic,ET-130842533,et,BigEndian Semiconductors,identical name,100.0
+R260506-bigendiansemic,INC-20260509-04,inc42,BigEndian,longer and shorter form of the name,95.0
+R260506-ecofy,INC-20260509-03,inc42,Ecofy,identical name,100.0
+R260506-ecofy,VCC-8cb72c80c7,vccircle,eversourcebacked ecofy,name found inside the headline,100.0
+R260506-figtreepharmac,ENT-11812221,entrackr,Figtree Pharmacy,identical name,100.0
+R260506-jobsupi,INC-20260509-16,inc42,JobsUPI,identical name,100.0
+R260506-medvital,INC-20260509-12,inc42,MedVital,identical name,100.0
+R260506-mochatrade,INC-20260509-18,inc42,MochaTrade,identical name,100.0
+R260507-blunav,INC-20260509-13,inc42,Blunav,identical name,100.0
+R260507-pronto,ET-130868012,et,Pronto,identical name,100.0
+R260507-pronto,INC-20260509-02,inc42,Pronto,identical name,100.0
+R260507-skyrootaerospa,INC-20260509-01,inc42,Skyroot,generic word added or dropped,100.0
+R260511-flomobility,INC-20260516-08,inc42,Flo Mobility,identical name,100.0
+R260511-nori,INC-20260516-14,inc42,NORI,identical name,100.0
+R260511-sindhujamicroc,VCC-1e04ffb5a9,vccircle,sindhujamicrocredit,spacing or punctuation variant,100.0
+R260512-dilfoods,INC-20260516-05,inc42,Dil Foods,identical name,100.0
+R260512-hrdwyr,INC-20260516-02,inc42,HrdWyr,identical name,100.0
+R260512-mekr,ET-131027557,et,Mekr Technologies,generic word added or dropped,100.0
+R260512-mekr,INC-20260516-06,inc42,Mekr,identical name,100.0
+R260512-scikiq,INC-20260516-10,inc42,SCIKIQ,identical name,100.0
+R260513-instafix,INC-20260516-12,inc42,Instafix,identical name,100.0
+R260513-theelefant,INC-20260516-11,inc42,The EleFant,identical name,100.0
+R260514-dhruvaspace,INC-20260516-04,inc42,Dhruva Space,identical name,100.0
+R260515-legendoftoys,INC-20260516-09,inc42,Legend Of Toys,identical name,100.0
+R260515-rapido,ET-131111200,et,Rapido,identical name,100.0
+R260515-rapido,INC-20260516-01,inc42,Rapido,identical name,100.0
+R260518-ownersid,INC-20260523-14,inc42,Owners ID,identical name,100.0
+R260518-trackk,ET-131194652,et,Trackk,identical name,100.0
+R260518-trackk,INC-20260523-04,inc42,Trackk,identical name,100.0
+R260519-damroo,INC-20260523-11,inc42,Damroo,identical name,100.0
+R260519-kalpi,INC-20260523-13,inc42,Kalpi,identical name,100.0
+R260519-ono,INC-20260523-09,inc42,ONO,identical name,100.0
+R260520-anscerrobotics,INC-20260523-03,inc42,Anscer Robotics,identical name,100.0
+R260520-mythik,INC-20260523-02,inc42,Mythik,identical name,100.0
+R260520-sychedelic,INC-20260523-06,inc42,Sychedelic,identical name,100.0
+R260521-scapia,ET-131240930,et,Scapia,identical name,100.0
+R260521-scapia,INC-20260523-01,inc42,Scapia,identical name,100.0
+R260521-scapia,VCC-0491ad4e18,vccircle,scapia,identical name,100.0
+R260522-yoho,ENT-11875347,entrackr,Yoho,identical name,100.0
+R260522-yoho,INC-20260530-11,inc42,Yoho,identical name,100.0
+R260525-abcoffee,INC-20260530-04,inc42,abCoffee,identical name,100.0
+R260525-abcoffee,VCC-1efb33915e,vccircle,abcoffee,identical name,100.0
+R260525-strainxbiowork,ET-131301054,et,StrainX Bioworks,identical name,100.0
+R260525-strainxbiowork,INC-20260530-02,inc42,StrainX Bioworks,identical name,100.0
+R260525-yesmadam,ET-131305737,et,Yes Madam,identical name,100.0
+R260525-yesmadam,INC-20260530-05,inc42,Yes Madam,identical name,100.0
+R260526-bucketlistt,ENT-12020971,entrackr,Bucketlistt,identical name,100.0
+R260526-fairdealmarket,ET-131324666,et,Fairdeal,longer and shorter form of the name,95.0
+R260526-fairdealmarket,INC-20260530-01,inc42,Fairdeal.Market,identical name,100.0
+R260526-fairdealmarket,VCC-524e5dce74,vccircle,bertelsmannindia bets on fairdeal market quantum tiger,name found inside the headline,100.0
+R260526-flexprice,INC-20260530-07,inc42,Flexprice,identical name,100.0
+R260527-tieaconnectors,INC-20260530-03,inc42,TIEA Connectors,identical name,100.0
+R260528-anveshan,ENT-11894736,entrackr,Anveshan,identical name,100.0
+R260528-anveshan,ET-131426927,et,Anveshan,identical name,100.0
+R260528-anveshan,INC-20260606-05,inc42,Anveshan,identical name,100.0
+R260528-anveshan,VCC-8a3debfbbf,vccircle,anveshan,identical name,100.0
+R260528-zerodrag,INC-20260530-08,inc42,ZeroDrag Technologies,generic word added or dropped,100.0
+R260601-korinmi,ET-131438312,et,KorinMi,identical name,100.0
+R260601-korinmi,INC-20260606-16,inc42,KorinMi,identical name,100.0
+R260601-medielaj,INC-20260606-19,inc42,MediElaj,identical name,100.0
+R260601-rovia,INC-20260606-15,inc42,Rovia,identical name,100.0
+R260601-simpleenergy,ET-131428487,et,Simple Energy,identical name,100.0
+R260601-simpleenergy,INC-20260606-03,inc42,Simple Energy,identical name,100.0
+R260602-aquapulse,INC-20260606-11,inc42,Aquapulse,identical name,100.0
+R260602-prolearn,INC-20260606-09,inc42,ProLearn,identical name,100.0
+R260603-agilitassports,ET-131468715,et,Agilitas Sports,identical name,100.0
+R260603-agilitassports,INC-20260606-04,inc42,Aglitias Sports,spelling variant (fuzzy match),92.9
+R260603-agilitassports,VCC-83d6beb3a5,vccircle,convergentbacked agilitas sports,name found inside the headline,100.0
+R260603-fraganote,INC-20260606-10,inc42,Fraganote,identical name,100.0
+R260603-phab,INC-20260606-08,inc42,Phab,identical name,100.0
+R260603-propsoch,INC-20260606-12,inc42,Propsoch,identical name,100.0
+R260603-zuvees,INC-20260606-13,inc42,Zuvees,identical name,100.0
+R260604-firstclub,ENT-12039944,entrackr,FirstClub,identical name,100.0
+R260604-firstclub,ET-131485475,et,FirstClub,identical name,100.0
+R260604-firstclub,INC-20260606-01,inc42,FirstClub,identical name,100.0
+R260604-gpsrenewables,ENT-12014596,entrackr,GPS Renewables,identical name,100.0
+R260604-gpsrenewables,ET-131488946,et,GPS Renewables,identical name,100.0
+R260604-gpsrenewables,INC-20260613-01,inc42,GPS Renewables,identical name,100.0
+R260604-gpsrenewables,VCC-804d7d65a7,vccircle,gps renewables,identical name,100.0
+R260604-thesweetchange,INC-20260606-17,inc42,The Sweet Change,identical name,100.0
+R260604-truefanai,ET-131489608,et,TrueFan,generic word added or dropped,100.0
+R260604-truefanai,INC-20260606-06,inc42,TrueFan AI,identical name,100.0
+R260604-werize,ET-131488872,et,WeRize,identical name,100.0
+R260604-werize,INC-20260606-07,inc42,WeRize,identical name,100.0
+R260605-innefulabs,ET-131525751,et,Innefu Labs,identical name,100.0
+R260605-innefulabs,INC-20260606-02,inc42,Innefu,generic word added or dropped,100.0
+R260608-immuneeltherap,ET-131578732,et,Immuneel Therapeutics,identical name,100.0
+R260608-immuneeltherap,INC-20260613-06,inc42,Immuneel Theraputics,spelling variant (fuzzy match),97.4
+R260609-bazaarnow,ET-131605582,et,BazaarNow,identical name,100.0
+R260609-bazaarnow,INC-20260613-10,inc42,BazaarNow,identical name,100.0
+R260609-celebaltechnol,INC-20260613-11,inc42,Celebal Technologies,identical name,100.0
+R260609-integrarobotic,INC-20260613-19,inc42,Integra Robotics,identical name,100.0
+R260609-theweddingcomp,INC-20260613-15,inc42,The Wedding Company,identical name,100.0
+R260610-exponentenergy,ET-131614315,et,Exponent Energy,identical name,100.0
+R260610-exponentenergy,INC-20260613-05,inc42,Exponent Energy,identical name,100.0
+R260610-exponentenergy,VCC-d546ccb945,vccircle,exponent,generic word added or dropped,100.0
+R260610-hoolahealth,ET-131630449,et,Hoola Health,identical name,100.0
+R260610-hoolahealth,INC-20260613-12,inc42,Hoola Health,identical name,100.0
+R260610-hypernormai,INC-20260613-16,inc42,HyperNorm AI,identical name,100.0
+R260610-mygate,INC-20260613-04,inc42,MyGate,identical name,100.0
+R260610-mygate,VCC-1fb96a4bfb,vccircle,mygate,identical name,100.0
+R260610-rivvunai,ENT-12026947,entrackr,Rivvun AI,identical name,100.0
+R260610-rivvunai,INC-20260613-09,inc42,Rivvun AI,identical name,100.0
+R260610-uniseoul,INC-20260613-14,inc42,Uni Seoul,identical name,100.0
+R260611-4basecare,ET-131638999,et,4baseCare,identical name,100.0
+R260611-4basecare,INC-20260613-13,inc42,4baseCare,identical name,100.0
+R260611-4basecare,VCC-11daa5542d,vccircle,4basecare extends series b round,name found inside the headline,100.0
+R260611-biodimension,INC-20260613-21,inc42,Biodimension,identical name,100.0
+R260611-dartle,INC-20260613-22,inc42,Dartle,identical name,100.0
+R260611-dreamaerospace,ENT-12030835,entrackr,Dream Aerospace,identical name,100.0
+R260611-etherealmachin,ET-131640029,et,Ethereal Machines,identical name,100.0
+R260611-etherealmachin,INC-20260613-03,inc42,Ethereal Machines,identical name,100.0
+R260611-etherealmachin,VCC-8afccae794,vccircle,ethereal machines,identical name,100.0
+R260611-manamchocolate,ET-131650182,et,Manam Chocolate,identical name,100.0
+R260611-manamchocolate,INC-20260613-08,inc42,Manam Chocolate,identical name,100.0
+R260611-qubehealthpay,INC-20260613-25,inc42,QubeHealth-Pay,identical name,100.0
+R260612-equalai,ET-131674910,et,Equal AI,identical name,100.0
+R260612-equalai,INC-20260613-02,inc42,Equal AI,identical name,100.0
+R260612-equalai,VCC-a8f2465acf,vccircle,equal,generic word added or dropped,100.0
+R260612-rekisemarine,ET-131663704,et,Rekise Marine,identical name,100.0
+R260612-rekisemarine,INC-20260613-07,inc42,Rekise Marine,identical name,100.0
+R260612-trevel,INC-20260613-20,inc42,Trevel,identical name,100.0
+R260613-zumutorbiologi,ENT-12039421,entrackr,Zumutor Biologics,identical name,100.0
+R260615-autovrse,INC-20260620-12,inc42,AutoVRse,identical name,100.0
+R260615-foodstories,ET-131739094,et,Foodstories,identical name,100.0
+R260615-foodstories,INC-20260620-09,inc42,Foodstories,identical name,100.0
+R260615-sarvam,ET-131745905,et,Sarvam,identical name,100.0
+R260615-sarvam,INC-20260620-01,inc42,Sarvam,identical name,100.0
+R260616-contravaultai,ET-131775104,et,ContraVault AI,identical name,100.0
+R260616-contravaultai,INC-20260620-11,inc42,ContraVault,generic word added or dropped,100.0
+R260616-crest,INC-20260620-10,inc42,CREST,identical name,100.0
+R260616-gimimichi,ET-131795175,et,Gimi Michi,identical name,100.0
+R260616-gimimichi,INC-20260620-15,inc42,Gimi Michi,identical name,100.0
+R260616-solarsquare,ET-131760590,et,SolarSquare,identical name,100.0
+R260616-solarsquare,INC-20260620-02,inc42,SolarSquare,identical name,100.0
+R260616-solarsquare,VCC-00e258b622,vccircle,solarsquare energy,generic word added or dropped,100.0
+R260616-speedioo,ET-131767980,et,Speedioo,identical name,100.0
+R260616-speedioo,INC-20260620-14,inc42,Speedioo,identical name,100.0
+R260616-trackersuiteai,INC-20260620-17,inc42,TrackerSuite,generic word added or dropped,100.0
+R260616-trunativ,ET-131768378,et,TruNativ,identical name,100.0
+R260616-trunativ,INC-20260620-04,inc42,TruNativ,identical name,100.0
+R260616-trunativ,VCC-fcb7e1bf89,vccircle,emamibacked trunativ,name found inside the headline,100.0
+R260617-influish,INC-20260620-19,inc42,INFLUISH,identical name,100.0
+R260617-pramaanalabs,ET-131805503,et,Pramaana Labs,identical name,100.0
+R260617-pramaanalabs,INC-20260620-05,inc42,Pramaana Labs,identical name,100.0
+R260617-xtovia,ET-131794753,et,Xtovia,identical name,100.0
+R260617-xtovia,INC-20260620-16,inc42,Xtovia,identical name,100.0
+R260618-karosambhav,ET-131835309,et,Karo Sambhav,identical name,100.0
+R260618-karosambhav,INC-20260620-08,inc42,Karo Sambhav,identical name,100.0
+R260618-ruskmedia,ET-131829583,et,Rusk Media,identical name,100.0
+R260618-ruskmedia,INC-20260620-06,inc42,Rusk Media,identical name,100.0
+R260618-ruskmedia,VCC-3697d980bc,vccircle,vcbacked rusk media,name found inside the headline,100.0
+R260618-tringbox,ET-131831709,et,Tringbox,identical name,100.0
+R260618-tringbox,INC-20260620-18,inc42,Tringbox,identical name,100.0
+R260618-vetic,ET-131805965,et,Vetic,identical name,100.0
+R260618-vetic,INC-20260620-03,inc42,Vetic,identical name,100.0
+R260618-vetic,VCC-d7d91ad0b6,vccircle,vetic,identical name,100.0
+R260620-recykal,INC-20260627-04,inc42,Recykal,identical name,100.0
+R260620-recykal,VCC-aa1bf22122,vccircle,recykal,identical name,100.0
+R260622-cred,INC-20260627-01,inc42,CRED,identical name,100.0
+R260622-cred,VCC-bbf41ed1a7,vccircle,cred names kunal shah whatsapp s global ceo,longer and shorter form of the name,95.0
+R260623-bharattender,INC-20260627-16,inc42,BharatTender,identical name,100.0
+R260623-mitigata,INC-20260627-07,inc42,Mitigata,identical name,100.0
+R260623-mitigata,VCC-e6988334d3,vccircle,mitigata,identical name,100.0
+R260623-sherlocksai,INC-20260627-15,inc42,Sherlocks AI,identical name,100.0
+R260623-squareyards,VCC-8170fd0c48,vccircle,square yards,identical name,100.0
+R260623-unnatiagri,INC-20260627-14,inc42,Unnati Agri,identical name,100.0
+R260624-ikinglobal,INC-20260627-12,inc42,Ikin Global,identical name,100.0
+R260624-justai,ET-131968605,et,JustAI,identical name,100.0
+R260624-justai,INC-20260627-06,inc42,JustAI,identical name,100.0
+R260624-qosmic,INC-20260627-10,inc42,QOSMIC,identical name,100.0
+R260624-saffronstays,INC-20260627-09,inc42,SaffronStays,identical name,100.0
+R260625-hangtensystems,ET-131971910,et,Hang Ten Systems,identical name,100.0
+R260625-superliving,ET-131993300,et,Superliving,identical name,100.0
+R260625-superliving,INC-20260627-08,inc42,SuperLiving,identical name,100.0
+R260629-clairva,INC-20260704-17,inc42,Clairva,identical name,100.0
+R260629-incuspaze,INC-20260704-02,inc42,Incuspaze,identical name,100.0
+R260629-incuspaze,VCC-9bf312b8ea,vccircle,incuspaze,identical name,100.0
+R260629-mykareai,INC-20260704-15,inc42,Mykare,generic word added or dropped,100.0
+R260629-thefunclab,INC-20260711-17,inc42,The Func Labs,spelling variant (fuzzy match),95.2
+R260630-brekfuz,ENT-12122384,entrackr,Brekfuz,identical name,100.0
+R260630-kapturecx,INC-20260704-05,inc42,Kapture CX,identical name,100.0
+R260630-theindusvalley,INC-20260704-01,inc42,The Indus Valley,identical name,100.0
+R260630-yolearnai,INC-20260704-16,inc42,YoLearn.AI,identical name,100.0
+R260701-albatrossenerg,INC-20260704-13,inc42,Albatross Energetics,identical name,100.0
+R260701-cunin,ENT-12130343,entrackr,CUNIN,identical name,100.0
+R260701-datasciencewiz,INC-20260704-09,inc42,Data Science Wizards,identical name,100.0
+R260701-dovetailcapita,ET-132104797,et,Dovetail Capital,identical name,100.0
+R260701-dovetailcapita,INC-20260704-04,inc42,Dovetail Capital,identical name,100.0
+R260701-spense,INC-20260704-11,inc42,Spense,identical name,100.0
+R260701-supply6,INC-20260704-08,inc42,Supply6,identical name,100.0
+R260702-agecarelabs,ET-132120509,et,Age Care Labs,identical name,100.0
+R260702-agecarelabs,INC-20260704-06,inc42,Age Care Labs,identical name,100.0
+R260702-agecarelabs,VCC-29474ae607,vccircle,agecare labs,spacing or punctuation variant,100.0
+R260702-batxenergies,ET-132131249,et,BatX Energies,identical name,100.0
+R260702-batxenergies,INC-20260704-03,inc42,BatX Energies,identical name,100.0
+R260702-heatronics,INC-20260704-20,inc42,Heatronics,identical name,100.0
+R260702-ninjacart,INC-20260704-07,inc42,Ninjacart,identical name,100.0
+R260702-playblue,INC-20260704-12,inc42,PlayBlue,identical name,100.0
+R260702-tulonmaterials,INC-20260704-14,inc42,Tulon Materials,identical name,100.0
+R260706-tocal,ET-132211855,et,TOCAL,identical name,100.0
+R260706-tocal,VCC-9394121980,vccircle,ekincareascenthr wtf seal m as tocal,name found inside the headline,100.0
+R260707-econovuspackag,ET-132236803,et,Econovus,longer and shorter form of the name,95.0
+R260707-econovuspackag,INC-20260711-05,inc42,Econovus Packaging,identical name,100.0
+R260707-mowito,ET-132239341,et,Mowito,identical name,100.0
+R260707-mowito,INC-20260711-07,inc42,Mowito,identical name,100.0
+R260707-onpoint,ET-132235100,et,Onpoint,identical name,100.0
+R260707-stylework,INC-20260711-10,inc42,Stylework,identical name,100.0
+R260707-thumpn,ENT-12151817,entrackr,thumpN,identical name,100.0
+R260708-adageautomatio,VCC-0609af8f20,vccircle,adage automation,identical name,100.0
+R260708-avniwellness,INC-20260711-13,inc42,Avni Wellness,identical name,100.0
+R260708-doodhvalefarms,INC-20260711-09,inc42,Doodhvale Farms,identical name,100.0
+R260708-elevateeducati,ET-132258957,et,Elevate Education,identical name,100.0
+R260708-elevateeducati,INC-20260711-01,inc42,Elevate Education,identical name,100.0
+R260708-enliferesearch,ET-132264863,et,Enlife,longer and shorter form of the name,95.0
+R260708-milodrive,ET-132265484,et,Milo Drive,identical name,100.0
+R260708-milodrive,INC-20260711-08,inc42,Milo Drive,identical name,100.0
+R260709-baastechnologi,INC-20260711-12,inc42,BAAS Technologies,identical name,100.0
+R260710-aukera,INC-20260711-03,inc42,Aukera,identical name,100.0
+R260710-biofuelcircle,INC-20260718-13,inc42,BiofuelCircle,identical name,100.0
+R260713-built,ET-132420189,et,Built,identical name,100.0
+R260715-anmasa,INC-20260718-15,inc42,Anmasa,identical name,100.0
+R260715-e3electricai,ET-132400482,et,E3 Electric.Ai,identical name,100.0
+R260715-e3electricai,INC-20260718-07,inc42,E3 Electric.AI,identical name,100.0
+R260715-emergent,INC-20260718-01,inc42,Emergent,identical name,100.0
+R260715-hisabkitab,INC-20260718-24,inc42,Hisabkitab,identical name,100.0
+R260715-opensecret,INC-20260718-12,inc42,Open Secret,identical name,100.0
+R260715-promom,ET-132419129,et,Promom,identical name,100.0
+R260715-promom,INC-20260718-14,inc42,Promom,identical name,100.0
+R260715-vorflux,ENT-12170583,entrackr,Vorflux,identical name,100.0
+R260716-groyyo,ET-132443199,et,Groyyo,identical name,100.0
+R260716-groyyo,INC-20260718-08,inc42,Groyyo,identical name,100.0
+R260716-groyyo,VCC-12df907132,vccircle,groyyo,identical name,100.0
+R260716-kuhltherm,INC-20260718-19,inc42,KuhlTherm,identical name,100.0
+R260716-mandrakebio,INC-20260718-18,inc42,Mandrake Bio,identical name,100.0
+R260716-naturiscosmeti,ET-132434937,et,Naturis Cosmetics,identical name,100.0
+R260716-naturiscosmeti,INC-20260718-05,inc42,Naturis Cosmetics,identical name,100.0
+R260716-quickclean,ET-132421569,et,Quick Clean,identical name,100.0
+R260716-quickclean,INC-20260718-04,inc42,Quick Clean,identical name,100.0
+R260716-quickclean,VCC-91dbd9378a,vccircle,quick clean,identical name,100.0
+R260716-reodev,INC-20260718-06,inc42,Reo.Dev,identical name,100.0
+R260716-rize,ET-132429756,et,Rize,identical name,100.0
+R260716-switchon,INC-20260718-09,inc42,SwitchOn,identical name,100.0
+R260720-lngvty,INC-20260725-10,inc42,LNGVTY,identical name,100.0
+R260720-plazza,INC-20260725-05,inc42,Plazza,identical name,100.0
+R260720-raghuvamsiaero,INC-20260725-04,inc42,Raghu Vamsi Aerospace,generic word added or dropped,100.0
+R260720-raghuvamsiaero,VCC-c5edcaf1ad,vccircle,raghu vamsi aerospace,identical name,100.0
+R260720-veriqus,INC-20260725-02,inc42,Veriqus,identical name,100.0
+R260720-veriqus,VCC-e7b683454a,vccircle,formerjulius baer india ceo founded veriqus,name found inside the headline,100.0
+R260721-30sundays,INC-20260725-07,inc42,30 Sundays,identical name,100.0
+R260721-fireai,INC-20260725-11,inc42,FireAI,identical name,100.0
+R260721-solarsquare,INC-20260725-13,inc42,SolarSquare,identical name,100.0
+R260722-bioscanresearc,INC-20260725-09,inc42,Bioscan Research,identical name,100.0
+R260723-businessnext,INC-20260725-03,inc42,BUSINESSNEXT,identical name,100.0
+R260723-carplai,INC-20260725-06,inc42,CARPL.ai,identical name,100.0
+R260723-farmwattinnova,INC-20260725-08,inc42,Farm Watt,generic word added or dropped,100.0
+R260723-neuralkart,INC-20260725-12,inc42,NeuralKart,identical name,100.0
+R260727-omegaseikimobi,INC-20260801-06,inc42,Omega Seiki Mobility,identical name,100.0
+R260728-houseofstudent,INC-20260801-09,inc42,House of Student,identical name,100.0
+R260728-houseofstudent,VCC-b603e2b408,vccircle,houseof student,spacing or punctuation variant,100.0
+R260728-yaanendriya,INC-20260801-10,inc42,Yaanendriya,identical name,100.0
+R260729-fixxly,ET-132690505,et,Fixxly,identical name,100.0
+R260729-fixxly,INC-20260801-05,inc42,Fixxly,identical name,100.0
+R260729-freehand,ET-132711294,et,Freehand,identical name,100.0
+R260729-revspot,INC-20260801-07,inc42,Revspot,identical name,100.0
+R260730-arborealbioinn,ET-132742569,et,Arboreal Bioinnovations,identical name,100.0
+R260730-arborealbioinn,INC-20260801-02,inc42,Arboreal Bioinnovations,identical name,100.0
+R260730-sidfarm,ET-132733439,et,Sid’s Farm,identical name,100.0
+R260730-sidfarm,INC-20260801-04,inc42,Sid’s Farm,identical name,100.0
+R260730-suind,ET-132730252,et,SUIND,identical name,100.0
+R260730-suind,INC-20260801-08,inc42,SUIND,identical name,100.0
+R260730-truthandhair,INC-20260801-11,inc42,Truth & Hair,identical name,100.0
+R260803-matel,ET-132832699,et,Matel,identical name,100.0
+R260803-matel,INC-20260808-04,inc42,Matel Motion & Energy Solutions,longer and shorter form of the name,95.0
+R260803-roadgrid,INC-20260808-18,inc42,RoadGrid,identical name,100.0
+R260804-getvantage,ET-132862983,et,GetVantage,identical name,100.0
+R260804-getvantage,INC-20260808-09,inc42,GetVantage,identical name,100.0
+R260804-kily,ET-132850014,et,Kily,identical name,100.0
+R260804-kily,INC-20260808-12,inc42,Kily,identical name,100.0
+R260804-nyai,INC-20260808-17,inc42,NYAI,identical name,100.0
+R260804-profound,INC-20260808-16,inc42,Profound,identical name,100.0
+R260804-superleap,ET-132846809,et,Superleap,identical name,100.0
+R260804-superleap,INC-20260808-11,inc42,Superleap,identical name,100.0
+R260804-vaaree,INC-20260808-08,inc42,Vaaree,identical name,100.0
+R260804-zopplersystems,INC-20260808-21,inc42,Zoppler Systems,identical name,100.0
+R260805-adiabatictechn,INC-20260808-20,inc42,Adiabatic Technologies,identical name,100.0
+R260805-hulp,ET-132893222,et,Hulp,identical name,100.0
+R260805-hulp,INC-20260808-13,inc42,Hulp,identical name,100.0
+R260805-inrisklabs,ET-132868614,et,InRisk,generic word added or dropped,100.0
+R260805-inrisklabs,INC-20260808-02,inc42,InRisk Labs,identical name,100.0
+R260805-mittilabs,ENT-12234526,entrackr,Mitti Labs,identical name,100.0
+R260805-mittilabs,INC-20260808-06,inc42,Mitti Labs,identical name,100.0
+R260805-pinegap,ET-133047945,et,Pinegap,identical name,100.0
+R260805-rivermobility,ET-132912133,et,River Mobility,identical name,100.0
+R260805-rivermobility,INC-20260808-01,inc42,River Mobility,identical name,100.0
+R260805-rivermobility,VCC-52e6aaddd8,vccircle,rivermobility,spacing or punctuation variant,100.0
+R260805-typsybeauty,INC-20260808-15,inc42,Typsy Beauty,identical name,100.0
+R260805-vingo,INC-20260808-19,inc42,Vingo,identical name,100.0
+R260806-consintai,INC-20260808-14,inc42,Consint.AI,identical name,100.0
+R260806-homerun,ET-132984906,et,HomeRun,identical name,100.0
+R260806-homerun,INC-20260808-05,inc42,HomeRun,identical name,100.0
+R260806-solinasintegri,ET-133009313,et,Solinas Integrity,identical name,100.0
+R260806-solinasintegri,INC-20260808-10,inc42,Solinas Integrity,identical name,100.0
+R260807-blissclub,ET-133012970,et,BlissClub,identical name,100.0
+R260807-blissclub,INC-20260808-03,inc42,BlissClub,identical name,100.0
+R260810-discoveredmate,ENT-12249345,entrackr,Discovered Materials,identical name,100.0
+R260810-discoveredmate,INC-20260815-03,inc42,Discovered Materials,identical name,100.0
+R260811-ayatidevices,INC-20260815-05,inc42,Ayati Devices,identical name,100.0
+R260811-freightfox,INC-20260815-09,inc42,FreightFox,identical name,100.0
+R260811-vectonai,INC-20260815-08,inc42,Vecton AI,identical name,100.0
+R260812-lane,INC-20260815-07,inc42,Lane,identical name,100.0
+R260812-quarkitech,INC-20260815-11,inc42,Quarkitech,identical name,100.0
+R260812-wippi,INC-20260815-06,inc42,Wippi,identical name,100.0
+R260812-yulu,ET-133170636,et,Yulu,identical name,100.0
+R260812-yulu,INC-20260815-01,inc42,Yulu,identical name,100.0
+R260813-blacksmith,ET-133187342,et,Blacksmith,identical name,100.0
+R260813-centricity,ET-133190809,et,Centricity,identical name,100.0
+R260813-centricity,INC-20260815-02,inc42,Centricity,identical name,100.0
+R260813-scrubsy,ET-133199108,et,Scrubsy,identical name,100.0
+R260813-scrubsy,INC-20260815-04,inc42,Scrubsy,identical name,100.0
+R260817-dehaathonestfa,INC-20260822-10,inc42,DeHaat Honest Farms,identical name,100.0
+R260818-lissun,INC-20260822-09,inc42,LISSUN,identical name,100.0
+R260818-rezolv,ET-133306381,et,Rezolv,identical name,100.0
+R260818-rezolv,INC-20260822-05,inc42,Rezolv,identical name,100.0
+R260818-wisprflow,ET-133301827,et,Wispr Flow,identical name,100.0
+R260819-algofet,ET-133348727,et,AlgoFET,identical name,100.0
+R260819-algofet,INC-20260822-11,inc42,AlgoFET,identical name,100.0
+R260819-butterflylearn,INC-20260822-07,inc42,Butterfly Learnings,identical name,100.0
+R260819-ctrls,INC-20260822-03,inc42,CtrlS DataCenters,longer and shorter form of the name,95.0
+R260819-ctrls,VCC-3d106580f9,vccircle,cppibbacked ctrls,name found inside the headline,100.0
+R260819-digidukan,INC-20260822-17,inc42,Digidukan,identical name,100.0
+R260819-navi,ET-133349944,et,Navi,identical name,100.0
+R260819-navi,INC-20260822-01,inc42,Navi,identical name,100.0
+R260819-navi,VCC-703038d1d4,vccircle,navi,identical name,100.0
+R260819-yantrapacks,INC-20260822-13,inc42,Yantra Packs,identical name,100.0
+R260819-zenalyst,INC-20260822-16,inc42,Zenalyst,identical name,100.0
+R260820-brunomilano,INC-20260822-14,inc42,Bruno Milano,identical name,100.0
+R260820-neuromodaqua,INC-20260822-19,inc42,Neuromod Aqua,identical name,100.0
+R260820-peeko,ET-133358706,et,Peeko,identical name,100.0
+R260820-peeko,INC-20260822-06,inc42,Peeko,identical name,100.0
+R260820-tross,INC-20260822-18,inc42,Tross,identical name,100.0
+R260820-zaydn,INC-20260822-15,inc42,Zaydn,identical name,100.0
+R260824-asaya,ET-133445950,et,Asaya,identical name,100.0
+R260824-asaya,INC-20260829-09,inc42,Asaya,identical name,100.0
+R260824-thirdwavecoffe,ET-133452957,et,Third Wave Coffee,identical name,100.0
+R260824-thirdwavecoffe,INC-20260829-01,inc42,Third Wave Coffee,identical name,100.0
+R260824-water,INC-20260829-13,inc42,WATER Robotics,generic word added or dropped,100.0
+R260825-airbound,ET-133495514,et,Airbound,identical name,100.0
+R260825-airbound,INC-20260829-02,inc42,Airbound,identical name,100.0
+R260825-carbonstrong,INC-20260829-15,inc42,CarbonStrong,identical name,100.0
+R260825-matter,ET-133477549,et,Matter,identical name,100.0
+R260825-matter,INC-20260829-03,inc42,MATTER,identical name,100.0
+R260825-matter,VCC-d8d610e37a,vccircle,matter,identical name,100.0
+R260825-utsav,INC-20260829-12,inc42,Utsav App,generic word added or dropped,100.0
+R260826-curaa,ET-133536337,et,Curaa,identical name,100.0
+R260826-curaa,INC-20260829-11,inc42,Curaa,identical name,100.0
+R260826-ringg,ET-133530474,et,Ringg AI,generic word added or dropped,100.0
+R260826-ringg,INC-20260829-08,inc42,Ringg AI,generic word added or dropped,100.0
+R260826-runable,ET-133542065,et,Runable,identical name,100.0
+R260826-runable,INC-20260829-04,inc42,Runable,identical name,100.0
+R260826-scooby,INC-20260829-20,inc42,Scooby’s Club,longer and shorter form of the name,95.0
+R260827-biryanibees,INC-20260829-18,inc42,Biryani Bees,identical name,100.0
+R260827-inspecity,ET-133545004,et,InspeCity,identical name,100.0
+R260827-inspecity,INC-20260829-07,inc42,InspeCity,identical name,100.0
+R260827-instaastro,ET-133557338,et,InstaAstro,identical name,100.0
+R260827-instaastro,INC-20260829-06,inc42,InstaAstro,identical name,100.0
+R260827-oorjaa,INC-20260829-17,inc42,OORJAA,identical name,100.0
+R260827-trucksup,ET-133550382,et,TrucksUp,identical name,100.0
+R260831-yogacleanair,ET-133642766,et,Yoga Clean Air,identical name,100.0
+R260831-yogacleanair,INC-20260905-12,inc42,YOGa Clean Air,identical name,100.0
+R260901-aeronsystems,INC-20260905-07,inc42,Aeron Systems,identical name,100.0
+R260901-alteon,ET-133675257,et,Alteon,identical name,100.0
+R260901-alteon,INC-20260905-10,inc42,Alteon,identical name,100.0
+R260901-kepleraerospac,ET-133679542,et,Kepler Aerospace,identical name,100.0
+R260901-minimacsystems,ET-133676835,et,Minimac Systems,identical name,100.0
+R260901-minimacsystems,INC-20260905-09,inc42,Minimac Systems,identical name,100.0
+R260901-oppexai,ET-133683856,et,Oppex AI,identical name,100.0
+R260901-oppexai,INC-20260905-17,inc42,Oppex AI,identical name,100.0
+R260901-ultrahuman,ENT-12489004,entrackr,Ultrahuman,identical name,100.0
+R260901-ultrahuman,ET-133766930,et,Ultrahuman,identical name,100.0
+R260901-ultrahuman,INC-20260905-01,inc42,Ultrahuman,identical name,100.0
+R260901-yumaenergy,ET-133668595,et,Yuma Energy,identical name,100.0
+R260901-yumaenergy,INC-20260905-02,inc42,Yuma Energy,identical name,100.0
+R260901-zenergize,INC-20260905-08,inc42,Zenergize,identical name,100.0
+R260902-cradlewise,ENT-12487351,entrackr,Cradlewise,identical name,100.0
+R260902-cradlewise,ET-133715010,et,Cradlewise,identical name,100.0
+R260902-creedom,INC-20260905-18,inc42,Creedom,identical name,100.0
+R260902-docpharma,INC-20260905-13,inc42,DocPharma,identical name,100.0
+R260903-makrmicrosyste,ET-133739424,et,Makr Microsystems,identical name,100.0
+R260903-makrmicrosyste,INC-20260905-15,inc42,Makr Microsystems,identical name,100.0
+R260903-slice,ET-133733458,et,Slice,identical name,100.0
+R260904-comet,ET-133759883,et,Comet,identical name,100.0
+R260904-comet,INC-20260905-05,inc42,Comet,identical name,100.0
+R260904-leanwatts,INC-20260905-14,inc42,Leanwatts,identical name,100.0
+R260904-sugarcosmetics,INC-20260905-03,inc42,SUGAR Cosmetics,identical name,100.0
+R260907-lickicious,INC-20260912-14,inc42,Lickicious,identical name,100.0
+R260907-navanaai,INC-20260912-11,inc42,Navana.ai,identical name,100.0
+R260907-nua,ET-133850550,et,Nua,identical name,100.0
+R260907-nua,INC-20260912-03,inc42,Nua,identical name,100.0
+R260907-nua,VCC-38c2d97587,vccircle,nua,identical name,100.0
+R260907-pixxel,ET-133850098,et,Pixxel,identical name,100.0
+R260907-pixxel,INC-20260912-01,inc42,Pixxel,identical name,100.0
+R260908-arc,INC-20260912-17,inc42,ARC,identical name,100.0
+R260908-circolife,INC-20260912-10,inc42,Circolife,identical name,100.0
+R260908-digitalpaani,INC-20260912-13,inc42,DigitalPaani,identical name,100.0
+R260908-fundlyai,ET-133890712,et,Fundly.ai,identical name,100.0
+R260908-fundlyai,INC-20260912-12,inc42,Fundly.ai,identical name,100.0
+R260908-iztri,ET-133910338,et,Iztri,identical name,100.0
+R260908-iztri,INC-20260912-16,inc42,Iztri,identical name,100.0
+R260908-sorrysugar,INC-20260912-18,inc42,Sorry Sugar,identical name,100.0
+R260909-carrummobility,ET-133938306,et,Carrum Mobility,identical name,100.0
+R260909-carrummobility,INC-20260912-08,inc42,Carrum Mobility,identical name,100.0
+R260909-marmalade,ET-133938867,et,Marmalade,identical name,100.0
+R260909-qnulabs,ET-133939763,et,QNu Labs,identical name,100.0
+R260909-qnulabs,INC-20260912-05,inc42,QNu Labs,identical name,100.0
+R260909-theater,ET-134016706,et,Theater,identical name,100.0
+R260909-theater,INC-20260912-09,inc42,Theater,identical name,100.0
+R260910-dialflo,INC-20260912-19,inc42,Dialflo,identical name,100.0
+R260910-graphai,ET-134047175,et,Graph AI,identical name,100.0
+R260910-graphai,INC-20260912-07,inc42,Graph AI,identical name,100.0
+R260910-swish,INC-20260912-04,inc42,Swish,identical name,100.0
+R260910-swish,VCC-723056287c,vccircle,swish,identical name,100.0
+R260911-popoglobal,ET-134022858,et,Popo Global,identical name,100.0
+R260911-popoglobal,INC-20260912-02,inc42,Popo Global,identical name,100.0
+R260911-popoglobal,VCC-e9da86167f,vccircle,popo global,identical name,100.0
+R260915-darwinbox,INC-20260919-13,inc42,Darwinbox,identical name,100.0
+R260915-flam,ET-134254880,et,Flam,identical name,100.0
+R260915-flam,INC-20260919-01,inc42,Flam,identical name,100.0
+R260916-firi,ET-134271809,et,Firi,identical name,100.0
+R260916-firi,INC-20260919-04,inc42,Firi,identical name,100.0
+R260916-slayd,INC-20260919-11,inc42,Slayd,identical name,100.0
+R260916-trueartis,INC-20260919-07,inc42,TRUE ARTIS,identical name,100.0
+R260916-verifaix,ET-134270457,et,VerifAIX,identical name,100.0
+R260916-verifaix,INC-20260919-03,inc42,VerifAIX,identical name,100.0
+R260917-dheyatech,ET-134301486,et,DheyaTech,identical name,100.0
+R260917-dheyatech,INC-20260919-02,inc42,DheyaTech,identical name,100.0
+R260917-ecosys,INC-20260919-09,inc42,Ecosys,identical name,100.0
+R260917-enlightmetals,INC-20260919-05,inc42,Enlight Metals,identical name,100.0
+R260917-factrika,INC-20260919-08,inc42,Factrika,identical name,100.0
+R260917-kiddo,INC-20260919-06,inc42,Kiddo,identical name,100.0
+R260918-moromaa,INC-20260919-10,inc42,MoroMaa,identical name,100.0
+R260922-definedge,INC-20260926-08,inc42,Definedge,identical name,100.0
+R260922-demoverse,INC-20260926-14,inc42,Demoverse,identical name,100.0
+R260922-proteinpantry,INC-20260926-13,inc42,Protein Pantry,identical name,100.0
+R260922-sol,ET-134415534,et,Sol,identical name,100.0
+R260923-betterhood,ET-134429909,et,Betterhood,identical name,100.0
+R260923-betterhood,INC-20260926-10,inc42,betterhood,identical name,100.0
+R260923-indianwalker,INC-20260926-17,inc42,Indian Walker,identical name,100.0
+R260923-riohealth,INC-20260926-06,inc42,Rio Health,identical name,100.0
+R260923-timbuckdo,INC-20260926-19,inc42,TimBuckDo,identical name,100.0
+R260923-ultraviolette,ET-134427452,et,Ultraviolette,identical name,100.0
+R260923-ultraviolette,INC-20260926-01,inc42,Ultraviolette Automotive,longer and shorter form of the name,95.0
+R260923-ultraviolette,VCC-3249fca904,vccircle,news,name found inside the headline,100.0
+R260923-ultraviolette,VCC-ab91511a70,vccircle,ultraviolette,identical name,100.0
+R260923-unniyarcha,INC-20260926-20,inc42,Unniyarcha,identical name,100.0
+R260924-byteask,ET-134443548,et,ByteAsk,identical name,100.0
+R260924-byteask,INC-20260926-11,inc42,ByteAsk,identical name,100.0
+R260924-dextrai,ENT-12574387,entrackr,Dextr AI,identical name,100.0
+R260924-dextrai,INC-20260926-04,inc42,Dextr AI,identical name,100.0
+R260924-ema,ET-134441820,et,Ema,identical name,100.0
+R260924-ema,INC-20260926-02,inc42,Ema,identical name,100.0
+R260924-myrx,INC-20260926-18,inc42,MyRx,identical name,100.0
+R260924-onya,INC-20260926-09,inc42,ONYA,identical name,100.0
+R260928-aliveapp,INC-20261003-08,inc42,Alive App,identical name,100.0
+R260928-balwaankrishi,INC-20261003-04,inc42,Balwaan Krishi,identical name,100.0
+R260928-balwaankrishi,VCC-a2cbff4e57,vccircle,balwaan krishi,identical name,100.0
+R260928-simaai,ET-134545702,et,SiMa AI,identical name,100.0
+R260930-arivihan,ET-134570893,et,Arivihan,identical name,100.0
+R260930-arivihan,INC-20261003-05,inc42,Arivihan,identical name,100.0
+R260930-edt,ET-134569595,et,EDT,identical name,100.0
+R260930-edt,INC-20261003-06,inc42,EDT,identical name,100.0
+R260930-gravity,ET-134586985,et,Gravity,identical name,100.0
+R260930-gravity,INC-20261003-02,inc42,Gravity,identical name,100.0
+R260930-simpleenergy,ET-134594135,et,Simple Energy,identical name,100.0
+R260930-simpleenergy,INC-20261003-01,inc42,Simple Energy,identical name,100.0
+R260930-simpleenergy,VCC-414987941f,vccircle,evmaker simple energy,name found inside the headline,100.0
+R260930-vytalyou,INC-20261003-09,inc42,Vytalyou,identical name,100.0
+R261001-aignosis,INC-20261003-12,inc42,Aignosis,identical name,100.0
+R261001-bangalorewatch,INC-20261003-07,inc42,Banglore Watch Company,spelling variant (fuzzy match),97.6
+R261001-seedsfincap,INC-20261003-03,inc42,Seeds Fincap,identical name,100.0
+R261001-unveilrai,INC-20261003-13,inc42,Unveilr AI,identical name,100.0
+R261001-zaperon,INC-20261003-11,inc42,Zaperon,identical name,100.0
+R261005-scooter,INC-20261010-23,inc42,Scooter,identical name,100.0
+R261006-beyondapplianc,ET-134710935,et,Beyond Appliances,identical name,100.0
+R261006-beyondapplianc,INC-20261010-03,inc42,Beyond Appliances,identical name,100.0
+R261006-curemeabroad,INC-20261010-15,inc42,CureMeAbroad,identical name,100.0
+R261006-curvetai,INC-20261010-17,inc42,CurvetAI,identical name,100.0
+R261006-indigotex,INC-20261010-19,inc42,IndigoTex,identical name,100.0
+R261006-kineticage,INC-20261010-22,inc42,Kinetic Age,identical name,100.0
+R261006-lorazzo,ET-134711876,et,Lorazzo,identical name,100.0
+R261006-lorazzo,INC-20261010-13,inc42,Lorazzo,identical name,100.0
+R261006-refitglobal,INC-20261010-16,inc42,ReFit Global,identical name,100.0
+R261007-bytexl,ET-134757491,et,ByteXL,identical name,100.0
+R261007-bytexl,INC-20261010-07,inc42,byteXL,identical name,100.0
+R261007-credfix,INC-20261010-12,inc42,Credfix,identical name,100.0
+R261007-desibleai,INC-20261010-11,inc42,Desible.ai,identical name,100.0
+R261007-ionage,INC-20261010-14,inc42,IONAGE,identical name,100.0
+R261007-quanfluence,ET-134746276,et,Quanfluence,identical name,100.0
+R261007-quanfluence,INC-20261010-05,inc42,Quanfluence,identical name,100.0
+R261007-sunfoxtechnolo,INC-20261010-08,inc42,Sunfox Technologies,identical name,100.0
+R261007-thedoughtherap,INC-20261010-18,inc42,The Dough Therapy,identical name,100.0
+R261007-zomint,ET-134758571,et,Zomint,identical name,100.0
+R261007-zomint,INC-20261010-09,inc42,Zomint,identical name,100.0
+R261008-dailyobjects,ET-134789153,et,DailyObjects,identical name,100.0
+R261008-dailyobjects,INC-20261010-01,inc42,DailyObjects,identical name,100.0
+R261008-tailblazelonge,INC-20261010-21,inc42,TailBlaze Longevity,identical name,100.0
+R261008-zinara,INC-20261010-20,inc42,Zinara,identical name,100.0
+R261009-neogrowth,ET-134794026,et,NeoGrowth,identical name,100.0
+R261009-neogrowth,INC-20261010-06,inc42,NeoGrowth,identical name,100.0
+R261009-neogrowth,VCC-63af03f668,vccircle,leapfrogbacked neogrowth,name found inside the headline,100.0
