@@ -1,0 +1,18 @@
+order,pattern,sector
+1,fintech|insurtech|wealthtech|neobank|nbfc|lender|lending|payments?|wealth management|insurance|broking|stock ?broker|credit|financial|micro ?finance|housing finance|investment platform|trading platform,Fintech
+2,edtech|ed-tech|education|upskilling|test prep|learning platform|tutoring|coaching,Edtech
+3,agritech|agri-tech|agri|farm|dairy|aquaculture|fisher,Agritech
+4,spacetech|space-tech|space tech|satellite|launch vehicle|drone|semiconductor|chip|robot|aerospace|defence|defense|hardware|iot\b|3d print|electronics manufactur,Advanced Hardware & Technology
+5,deeptech|deep-tech|deep tech|quantum|biotech|nanotech|materials? science|synthetic biology,Deeptech
+6,cleantech|clean-tech|climate|\bev\b|electric vehicle|e-mobility|electric two-wheeler|battery|solar|renewable|green hydrogen|recycling|waste management|energy|sustainab|carbon,Cleantech
+7,proptech|real estate|realty|co-?working|co-?living|housing|interior,Real Estate Tech
+8,travel|hospitality|hotel|hostel|tourism|bus (?:service|aggregator)|airline,Travel Tech
+9,logistics|supply chain|freight|trucking|warehous|last-mile|shipping|courier,Logistics
+10,gaming|game|media|content|ott\b|audio|music|entertainment|creator|sports|streaming|podcast|short video|film|animation,Media & Entertainment
+11,foodtech|food-tech|cloud kitchen|qsr|restaurant|food delivery,Foodtech
+12,d2c|direct-to-consumer|brand|e-?commerce|marketplace|retail|fashion|apparel|menswear|womenswear|jewell?ery|diamond|beauty|personal care|skincare|cosmetic|footwear|eyewear|furniture|appliance|consumer electronics|grocery|snack|beverage|coffee|tea\b|nutrition|pet food|toy|luggage|mattress|home decor|staples|oil brand|kitchen,Ecommerce
+13,healthtech|health-tech|medtech|med-tech|health|healthcare|diagnostic|pharma|clinic|hospital|wellness|fertility|mental|eldercare|elder care|dental|medical|therapeutic|longevity,Healthtech
+14,\bai\b|artificial intelligence|genai|generative ai|llm|machine learning|agentic|voice ai,Artificial Intelligence
+15,saas|software|enterprise|cybersecurity|cyber security|developer|cloud|hrtech|hr-tech|martech|adtech|legaltech|regtech|data platform|automation|analytics|b2b platform|workflow|crm|erp|api\b,Enterprise Tech
+16,quick commerce|home services|hyperlocal|ride-hailing|mobility|dating|matrimon|social|pet care|consumer services|astrolog|spiritual|laundry|salon|fitness|gym|staffing|recruit|job,Consumer Services
+17,web3|crypto|blockchain,Web3
