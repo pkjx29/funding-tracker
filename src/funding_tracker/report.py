@@ -99,10 +99,12 @@ def write_summary(tables: dict[str, pd.DataFrame], path: Path) -> None:
         ["status", "source"]).size().unstack(fill_value=0)
     left_out = left_out.reindex(columns=list(SOURCES), fill_value=0)
     left_out.insert(0, "Reason", [REASONS.get(status, status) for status in left_out.index])
-    left_out = left_out.rename(columns=SOURCE_LABELS).sort_values(list(SOURCE_LABELS.values()), ascending=False)
+    left_out = left_out.rename(columns=SOURCE_LABELS).sort_values("Reason").sort_values(
+        list(SOURCE_LABELS.values()), ascending=False, kind="stable")
     parts += ["## Why candidates were left out\n", _table(left_out), ""]
 
-    basis = tables["merge_log"]["match_basis"].value_counts().rename_axis("How the match was made")
+    basis = tables["merge_log"]["match_basis"].value_counts().sort_index().sort_values(
+        ascending=False, kind="stable").rename_axis("How the match was made")
     parts += ["## How duplicate reports were recognised\n", _table(basis.reset_index(name="Reports merged")), ""]
 
     checks = tables["checks_summary"][["check_id", "category", "check", "severity", "rounds_flagged"]].copy()
@@ -119,9 +121,10 @@ def write_summary(tables: dict[str, pd.DataFrame], path: Path) -> None:
                   f"{coverage['difference'].median():+.0f} rounds a week.\n"]
 
     for column, title in (("stage", "stage"), ("sector", "sector"), ("city", "city")):
-        cut = rounds.groupby(column)["amount_usd_mn"].agg(Rounds="size", total="sum").sort_values("Rounds", ascending=False)
+        cut = rounds.groupby(column)["amount_usd_mn"].agg(Rounds="size", total="sum")
         cut["USD mn"] = cut.pop("total").round(1)
-        cut = cut.head(12).rename_axis(title.capitalize()).reset_index()
+        cut = cut.rename_axis(title.capitalize()).reset_index()
+        cut = cut.sort_values(["Rounds", title.capitalize()], ascending=[False, True]).head(12)    # ties: by name
         parts += [f"## Rounds by {title} (top {len(cut)})\n", _table(cut), ""]
 
     path.write_text("\n".join(parts), encoding="utf-8")

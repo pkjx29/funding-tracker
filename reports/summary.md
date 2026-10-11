@@ -116,7 +116,7 @@ _Numbers below are rewritten by every run. Last run: 11 October 2026._
 | Consumer Services | 125 | 1274.1 |
 | Media & Entertainment | 64 | 457.0 |
 | Deeptech | 49 | 206.3 |
-| Travel Tech | 45 | 590.6 |
+| Agritech | 45 | 470.8 |
 
 ## Rounds by city (top 12)
 

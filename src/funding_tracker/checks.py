@@ -257,4 +257,4 @@ def run_checks(rounds: pd.DataFrame, records: pd.DataFrame, rates: pd.Series,
     exceptions = exceptions[["check_id", "check", "severity", "round_id", "company", "announced_date", "detail"]]
     summary = pd.DataFrame(summary)
     summary["share_flagged"] = (summary["rounds_flagged"] / summary["rounds_checked"].clip(lower=1)).round(4)
-    return exceptions.sort_values(["check_id", "announced_date", "round_id"]).reset_index(drop=True), summary
+    return exceptions.sort_values(["check_id", "announced_date", "round_id", "detail"]).reset_index(drop=True), summary

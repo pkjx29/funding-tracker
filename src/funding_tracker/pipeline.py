@@ -75,7 +75,7 @@ def collect(full: bool = False, offline: bool = False) -> pd.DataFrame:
     wordy = records["company_raw"].fillna("").str.split().str.len() > 4
     records.loc[left_out & wordy, "company_raw"] = ""
     totals = pd.concat(([known_totals] if known_totals is not None else []) + new_totals, ignore_index=True)
-    totals = totals.drop_duplicates("url", keep="last").sort_values("published_date")
+    totals = totals.drop_duplicates("url", keep="last").sort_values(["published_date", "source", "url"])
     INTERIM.mkdir(parents=True, exist_ok=True)
     records[RECORD_COLUMNS].to_csv(RECORDS_FILE, index=False)
     totals[TOTAL_COLUMNS].to_csv(TOTALS_FILE, index=False)

@@ -282,9 +282,14 @@ def _add_pivot(ws, frame: pd.DataFrame, cache: CacheDefinition, row_field: str, 
         ws.column_dimensions[letter].width = width
 
 
+def ranked(values: pd.Series) -> pd.Series:
+    """Counts, largest first, with ties in alphabetical order so that every run gives the same order."""
+    return values.value_counts().sort_index().sort_values(ascending=False, kind="stable")
+
+
 def display_orders(frame: pd.DataFrame) -> dict[str, list[str]]:
     """Item order for each PivotTable: stages along the funding ladder, the rest by number of rounds."""
-    by_count = lambda column: frame[column].value_counts().index.tolist()      # noqa: E731
+    by_count = lambda column: ranked(frame[column]).index.tolist()             # noqa: E731
     last = lambda items, tail: [i for i in items if i not in tail] + [t for t in tail if t in items]  # noqa: E731
     present = set(frame["Stage"])
     return {
@@ -421,7 +426,7 @@ def _chart_data(wb: Workbook, frame: pd.DataFrame, orders: dict[str, list[str]],
         values[f"C{row}"] = int(per_month["size"].get(month, 0))
         values[f"D{row}"] = float(per_month["sum"].get(month, 0.0))
 
-    city_counts = frame.loc[~frame["City"].isin(["Unknown", "Outside India"]), "City"].value_counts().head(12)
+    city_counts = ranked(frame.loc[~frame["City"].isin(["Unknown", "Outside India"]), "City"]).head(12)
     blocks = [("Stage", [s for s in orders["Stage"]], 6),
               ("Sector", [s for s in orders["Sector"]][:14], 9),
               ("City", city_counts.index.tolist(), 12)]

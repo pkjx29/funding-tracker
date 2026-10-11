@@ -1956,8 +1956,8 @@ C11,Amount outlier for its stage,warning,R260625-hangtensystems,Hang Ten Systems
 C11,Amount outlier for its stage,warning,R260707-stylework,Stylework,2026-07-07,$1 Mn is outside the usual Pre-Series B range ($1.05-47.1 Mn)
 C11,Amount outlier for its stage,warning,R260818-wisprflow,Wispr Flow,2026-08-17,$280 Mn is outside the usual Series B range ($1.92-155.9 Mn)
 C11,Amount outlier for its stage,warning,R260827-oorjaa,OORJAA,2026-08-27,$1.015 Mn is outside the usual Series A range ($1.11-51.7 Mn)
-C13,INR/USD mismatch,warning,R251029-jupiter,Jupiter,2025-10-29,"ET-124908900: Rs 115 Cr and $15 Mn imply 76.7 INR/USD, reference rate was 88.2"
 C13,INR/USD mismatch,warning,R251029-jupiter,Jupiter,2025-10-29,"ENT-10606028: Rs 115 Cr and $15 Mn imply 76.7 INR/USD, reference rate was 88.7"
+C13,INR/USD mismatch,warning,R251029-jupiter,Jupiter,2025-10-29,"ET-124908900: Rs 115 Cr and $15 Mn imply 76.7 INR/USD, reference rate was 88.2"
 C13,INR/USD mismatch,warning,R260121-cuminco,Cumin Co.,2026-01-21,"ENT-11017896: Rs 41 Cr and $5 Mn imply 82.0 INR/USD, reference rate was 91.6"
 C13,INR/USD mismatch,warning,R260224-oncare,Oncare,2026-02-24,"ENT-11149575: Rs 27 Cr and $4 Mn imply 67.5 INR/USD, reference rate was 90.9"
 C13,INR/USD mismatch,warning,R260327-uncia,Uncia,2026-03-27,"ENT-11364581: Rs 25 Cr and $3 Mn imply 83.3 INR/USD, reference rate was 94.8"
