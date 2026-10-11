@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Downloaded pages. Only extracted facts and links are kept in the repo.
+data/raw/
+
+# OS / editor
+.DS_Store
+~$*.xlsx
+.idea/
+.vscode/

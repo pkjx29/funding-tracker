@@ -1,0 +1,9 @@
+[project]
+name = "funding-tracker"
+version = "1.0.0"
+description = "Tracks Indian startup funding rounds across four news sources and cross-checks them."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
