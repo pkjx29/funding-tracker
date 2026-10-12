@@ -690,7 +690,7 @@ C04,Stage undisclosed,info,R261006-soberandco,Sober & Co,2026-10-06,no source na
 C04,Stage undisclosed,info,R261007-quanfluence,Quanfluence,2026-10-07,no source names the stage
 C04,Stage undisclosed,info,R261009-moneytruva,MoneyTruVa,2026-10-09,no source names the stage
 C04,Stage undisclosed,info,R261009-neogrowth,NeoGrowth,2026-10-09,no source names the stage
-C04,Stage undisclosed,info,R261010-nathabit,Nat Habit,2026-10-10,no source names the stage
+C04,Stage undisclosed,info,R261011-tessolvesemico,Tessolve Semiconductor,2026-10-11,no source names the stage
 C05,No investor named,info,R250113-weworkindia,WeWork India,2025-01-13,no investor named
 C05,No investor named,info,R250115-eulermotors,Euler Motors,2025-01-15,no investor named
 C05,No investor named,info,R250116-houseofchikank,House of Chikankari,2025-01-16,no investor named
@@ -951,6 +951,7 @@ C06,Sector unclassified,warning,R260910-piston,Piston,2026-09-10,no sector label
 C06,Sector unclassified,warning,R260918-jar,Jar,2026-09-18,no sector label and no keyword match
 C06,Sector unclassified,warning,R260918-physioplusheal,Physioplus Healthcare,2026-09-18,no sector label and no keyword match
 C06,Sector unclassified,warning,R260929-formerboatexec,former boAt executive,2026-09-29,no sector label and no keyword match
+C06,Sector unclassified,warning,R261011-tessolvesemico,Tessolve Semiconductor,2026-10-11,no sector label and no keyword match
 C07,City unknown,info,R250102-ayefinance,Aye Finance,2025-01-02,no report states where the company is based
 C07,City unknown,info,R250102-klassroom,Klassroom,2025-01-02,no report states where the company is based
 C07,City unknown,info,R250106-blackcarrot,BlackCarrot,2025-01-06,no report states where the company is based
@@ -1901,6 +1902,7 @@ C07,City unknown,info,R261007-zomint,Zomint,2026-10-07,no report states where th
 C07,City unknown,info,R261008-dailyobjects,DailyObjects,2026-10-08,no report states where the company is based
 C07,City unknown,info,R261009-moneytruva,MoneyTruVa,2026-10-09,no report states where the company is based
 C07,City unknown,info,R261010-nathabit,Nat Habit,2026-10-10,no report states where the company is based
+C07,City unknown,info,R261011-tessolvesemico,Tessolve Semiconductor,2026-10-11,no report states where the company is based
 C09,Possible duplicate round,warning,R250127-emiza,Emiza,2025-01-27,"11 days after R250116-emiza ($5.775 Mn then, $11.586 Mn now)"
 C09,Possible duplicate round,warning,R250131-captainfresh,Captain Fresh,2025-01-31,"14 days after R250117-captainfresh ($2.3 Mn then, $28.872 Mn now)"
 C09,Possible duplicate round,warning,R250207-bobabhai,Boba Bhai,2025-02-07,"25 days after R250113-bobabhai ($3.46 Mn then, $0.103 Mn now)"
@@ -1945,7 +1947,7 @@ C11,Amount outlier for its stage,warning,R251106-giga,Giga,2025-11-06,$61 Mn is 
 C11,Amount outlier for its stage,warning,R251113-parallelwebsys,Parallel Web Systems,2025-11-13,$100 Mn is outside the usual Series A range ($1.11-51.7 Mn)
 C11,Amount outlier for its stage,warning,R260105-mylapay,Mylapay,2026-01-05,$1 Mn is outside the usual Series A range ($1.11-51.7 Mn)
 C11,Amount outlier for its stage,warning,R260202-dreamflyinnova,Dreamfly Innovations,2026-02-02,$0.328 Mn is outside the usual Debt range ($0.59-190.3 Mn)
-C11,Amount outlier for its stage,warning,R260210-slurrpfarm,Slurrp Farm,2026-02-10,$3.313 Mn is outside the usual Series C range ($6.36-219.5 Mn)
+C11,Amount outlier for its stage,warning,R260210-slurrpfarm,Slurrp Farm,2026-02-10,$3.313 Mn is outside the usual Series C range ($6.21-211.8 Mn)
 C11,Amount outlier for its stage,warning,R260227-temple,Temple,2026-02-27,$54 Mn is outside the usual Seed range ($0.10-24.0 Mn)
 C11,Amount outlier for its stage,warning,R260609-bazaarnow,BazaarNow,2026-06-09,$7.551 Mn is outside the usual Pre-Seed range ($0.04-7.2 Mn)
 C11,Amount outlier for its stage,warning,R260611-dartle,Dartle,2026-06-11,$0.1 Mn is outside the usual Seed range ($0.10-24.0 Mn)

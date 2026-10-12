@@ -8,17 +8,17 @@ same way. So every round keeps each figure that was reported for it, a written r
 is shown, and 18 automated checks decide which rounds a person should look at.
 
 <!-- stats:start -->
-_Numbers below are rewritten by every run. Last run: 11 October 2026._
+_Numbers below are rewritten by every run. Last run: 12 October 2026._
 
 | | |
 | --- | ---: |
-| Funding rounds tracked | **2,178** |
-| Period covered | 02 Jan 2025 to 10 Oct 2026 |
-| Source reports matched to a round | 4,459 |
-| Duplicate reports merged | 2,281 |
-| ...of which the company name differed between reports | 228 |
-| Rounds confirmed by two or more sources | 1,515 (70%) |
-| Disclosed funding | USD 28.47 bn across 2,013 rounds |
+| Funding rounds tracked | **2,179** |
+| Period covered | 02 Jan 2025 to 11 Oct 2026 |
+| Source reports matched to a round | 4,463 |
+| Duplicate reports merged | 2,284 |
+| ...of which the company name differed between reports | 230 |
+| Rounds confirmed by two or more sources | 1,517 (70%) |
+| Disclosed funding | USD 28.54 bn across 2,014 rounds |
 | Median disclosed round | USD 3.50 mn |
 | Automated checks | 18 |
 | Rounds where sources disagree on the amount by more than 10% | 68 |
