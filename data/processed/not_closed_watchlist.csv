@@ -1,4 +1,9 @@
 published_date,source,company_raw,amount_text,stage,url
+2026-10-16,vccircle,persistentsystems,$ 842 million,Debt,https://www.vccircle.com/persistentsystems-to-raise-842-mn-debt-to-cover-german-acquisition-loan
+2026-10-16,et,board approves,Rs 2500 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/urban-company-board-approves-plan-to-raise-rs-2500-crore-via-qip/articleshow/134992126.cms
+2026-10-14,et,hocco valuation may jump 80,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/general-atlantic-chryscapital-in-talks-to-invest-rs-300-400-crore-in-ice-cream-brand-hocco-valuation-may-jump-80/articleshow/134942663.cms
+2026-10-13,vccircle,office assets,,Undisclosed,https://www.vccircle.com/bajajalts-hits-first-close-of-maiden-realty-fund-to-invest-in-office-assets
+2026-10-13,et,,Rs 50 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/vimag-labs-starts-jhajjar-facility-operation-to-invest-rs-50-cr-for-capacity-scaling/articleshow/134912850.cms
 2026-10-11,et,reflection ai or buy it ft,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft/articleshow/134868290.cms
 2026-10-09,vccircle,maverick simulations,,Undisclosed,https://www.vccircle.com/medicalsimulator-maker-maverick-simulations-set-to-bag-pe-cheque-seal-m-a-deal
 2026-10-09,entrackr,Nat Habit,Rs 142.6 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-nat-habit-to-kick-off-15-mn-funding-round-led-by-trident-growth-partners-12660433
@@ -6,14 +11,14 @@ published_date,source,company_raw,amount_text,stage,url
 2026-10-08,vccircle,highway trust citius transnet,,Undisclosed,https://www.vccircle.com/japans-jexway-to-invest-in-edelweiss-backed-highway-trust-citius-transnet
 2026-10-01,vccircle,vcbacked coversure nears break even plans capital,,Undisclosed,https://www.vccircle.com/vcbacked-coversure-nears-break-even-plans-capital-raise
 2026-09-29,entrackr,EverBrands files DRHP,Rs 600 crore,Undisclosed,https://entrackr.com/news/subway-india-operator-everbrands-files-drhp-to-raise-rs-600-cr-via-fresh-issue-12588957
+2026-09-28,entrackr,Ola Electric,"Rs 1,000 crore",Undisclosed,https://entrackr.com/news/ola-electric-to-raise-up-to-rs-1000-cr-via-rights-issue-12587860
 2026-09-28,vccircle,,,Undisclosed,https://www.vccircle.com/arnyarealestates-fund-enters-commercial-segment-hires-cio-to-lead-strategy
 2026-09-28,vccircle,pebacked orange retail finance eyes equity,,Undisclosed,https://www.vccircle.com/pebacked-orange-retail-finance-eyes-equity-raise
 2026-09-28,et,swiggy instamart challenger bazaarnow,Rs 150 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/prosus-in-talks-to-invest-rs-150-crore-in-swiggy-instamart-challenger-bazaarnow/articleshow/134522154.cms
-2026-09-28,entrackr,Ola Electric,"Rs 1,000 crore",Undisclosed,https://entrackr.com/news/ola-electric-to-raise-up-to-rs-1000-cr-via-rights-issue-12587860
 2026-09-25,vccircle,formerla caisse execs anita george singhal take another shot,,Undisclosed,https://www.vccircle.com/formerla-caisse-execs-anita-george-singhal-take-another-shot-to-raise-india-fund
-2026-09-24,vccircle,west bengal,$ 10.4 billion,Undisclosed,https://www.vccircle.com/adanigroup-to-invest-10-4-bn-in-west-bengal
 2026-09-24,et,indian beauty brands,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/nykaa-lorals-venture-fund-tie-up-to-invest-in-indian-beauty-brands/articleshow/134460549.cms
 2026-09-24,entrackr,Indian beauty startups,,Undisclosed,https://entrackr.com/snippets/nykaa-and-loréals-venture-fund-bold-join-hands-to-invest-in-indian-beauty-startups-12571944
+2026-09-24,vccircle,west bengal,$ 10.4 billion,Undisclosed,https://www.vccircle.com/adanigroup-to-invest-10-4-bn-in-west-bengal
 2026-09-23,et,ola electric to consider rights issue as it,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/ola-electric-to-consider-rights-issue-as-it-looks-to-raise-fresh-capital/articleshow/134442024.cms
 2026-09-23,et,Bessemer,$5.75 billion,Undisclosed,https://economictimes.indiatimes.com/tech/startups/bessemer-raises-5-75-billion-in-new-funds-expands-growth-efforts/articleshow/134440010.cms
 2026-09-22,vccircle,jpmorgansees india outbound m a rising as firms move,,Undisclosed,https://www.vccircle.com/jpmorgansees-india-outbound-m-a-rising-as-firms-move-to-secure-supply-chains
@@ -27,24 +32,24 @@ published_date,source,company_raw,amount_text,stage,url
 2026-09-07,vccircle,b2bplatform udaan,,Undisclosed,https://www.vccircle.com/b2bplatform-udaan-to-bag-swiggy-s-retail-distribution-biz-in-share-swap-deal
 2026-09-07,entrackr,Swish,$24 Mn,Undisclosed,https://entrackr.com/exclusive/exclusive-swish-to-raise-around-24-mn-at-175-mn-valuation-12501614
 2026-09-02,et,swish,$ 20.25 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/rapid-food-delivery-startup-swish-to-raise-20-25-million-led-by-bertelsmann-india-sources/articleshow/133707725.cms
-2026-09-02,et,astrobase,$ 40.5 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/astrobase-in-talks-to-raise-40-50-million-led-by-peak-xv-at-300-million-valuation/articleshow/133690779.cms
 2026-09-02,entrackr,Mokobara,Rs 90.66 crore,Series C,https://entrackr.com/exclusive/exclusive-mokobara-set-to-raise-rs-91-cr-in-series-c-round-at-28x-valuation-premium-12482137
+2026-09-02,et,astrobase,$ 40.5 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/astrobase-in-talks-to-raise-40-50-million-led-by-peak-xv-at-300-million-valuation/articleshow/133690779.cms
 2026-09-01,entrackr,Ultrahuman,Rs 583 crore,Series C,https://entrackr.com/exclusive/exclusive-qualcomm-ventures-to-lead-60-mn-round-for-ultrahuman-12480150
 2026-08-31,entrackr,Good Flippin’ Burgers,Rs 55 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-good-flippin-burgers-to-raise-fresh-capital-at-rs-480-cr-valuation-12457317
 2026-08-31,entrackr,Meragi,Rs 28.68 crore,Bridge,https://entrackr.com/exclusive/exclusive-wedding-services-startup-meragi-set-to-raise-fresh-funds-at-flat-valuation-12458866
-2026-08-26,entrackr,Even Healthcare,Rs 208 crore,Series B,https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223
 2026-08-26,vccircle,indian wind turbine maker,$ 100 million,Undisclosed,https://www.vccircle.com/saudiarabia-s-alfanar-to-invest-100-mn-more-in-indian-wind-turbine-maker
+2026-08-26,entrackr,Even Healthcare,Rs 208 crore,Series B,https://entrackr.com/exclusive/exclusive-even-healthcare-set-to-raise-rs-208-cr-in-series-b-led-by-khosla-ventures-12435223
 2026-08-21,et,ultraviolette,$ 45.5 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/e-bike-maker-ultraviolette-in-talks-to-raise-45-50-million-sources/articleshow/133403245.cms
 2026-08-20,entrackr,Phi Commerce,Rs 38.54 crore,Series B,https://entrackr.com/snippets/exclusive-phi-commerce-set-to-raise-fresh-funding-at-valuation-of-rs-1500-cr-12398598
-2026-08-14,vccircle,zetwerkfiles updated ipo draft papers,$ 272 million,Undisclosed,https://www.vccircle.com/zetwerkfiles-updated-ipo-draft-papers-to-raise-272-mn
 2026-08-14,et,zetwerk files updated ipo draft papers,$ 272 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/zetwerk-files-updated-ipo-draft-papers-to-raise-272-million/articleshow/133222368.cms
+2026-08-14,vccircle,zetwerkfiles updated ipo draft papers,$ 272 million,Undisclosed,https://www.vccircle.com/zetwerkfiles-updated-ipo-draft-papers-to-raise-272-mn
 2026-08-14,entrackr,Zetwerk files UDRHP,"Rs 2,600 Cr",Undisclosed,https://entrackr.com/news/zetwerk-files-udrhp-to-raise-rs-2600-cr-via-fresh-issue-promoters-to-account-for-53-of-ofs-12258489
 2026-08-11,entrackr,Table Space files DRHP with SEBI,Rs 800 Cr,Undisclosed,https://entrackr.com/news/table-space-files-drhp-with-sebi-to-raise-rs-800-cr-via-fresh-issue-12250355
 2026-08-10,vccircle,nuveenbacked ecozen,$ 20 million,Undisclosed,https://www.vccircle.com/nuveenbacked-ecozen-set-to-raise-20-mn-from-offshore-investor
 2026-08-08,et,lancium information reports,$ 3 billion,Undisclosed,https://economictimes.indiatimes.com/tech/funding/nvidia-to-invest-up-to-3-billion-in-lancium-the-information-reports/articleshow/133045158.cms
+2026-08-07,entrackr,PayGlocal,Rs 36.38 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-payglocal-set-to-raise-fresh-funding-at-120-mn-valuation-12238391
 2026-08-07,et,payglocal,Rs 36.4 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/payglocal-to-raise-rs-36-4-crore-from-beenext-at-rs-1140-crore-valuation/articleshow/133034999.cms
 2026-08-07,et,fundraise,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/firmus-nearly-doubles-valuation-to-over-10-5-billion-in-4-months-with-nvidia-backed-fundraise/articleshow/133019688.cms
-2026-08-07,entrackr,PayGlocal,Rs 36.38 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-payglocal-set-to-raise-fresh-funding-at-120-mn-valuation-12238391
 2026-08-06,et,nazara,Rs 733.5 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/nazara-to-raise-rs-733-5-crore-via-preferential-issue-to-bluetile-bestplay-leadership/articleshow/132996801.cms
 2026-08-05,vccircle,homegrown agrifood platform,,Undisclosed,https://www.vccircle.com/oriosoffshore-investors-plan-to-invest-in-homegrown-agrifood-platform
 2026-08-04,entrackr,Simplismart,Rs 97 crore,Series B,https://entrackr.com/exclusive/exclusive-gen-ai-startup-simplismart-set-to-raise-9-mn-in-series-b-led-by-dallas-venture-capital-12226753
@@ -62,34 +67,34 @@ published_date,source,company_raw,amount_text,stage,url
 2026-07-17,et,Kissht,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/kissht-gets-amfi-registration-to-enter-mutual-fund-distribution/articleshow/132451897.cms
 2026-07-17,entrackr,Ecozen,Rs 125 crore,Debt,https://entrackr.com/exclusive/exclusive-ecozen-to-secure-rs-125-cr-in-debt-financing-12173532
 2026-07-16,entrackr,Scimplify,Rs 181 crore,Series C,https://entrackr.com/exclusive/exclusive-scimplify-set-to-raise-rs-181-cr-at-over-2x-valuation-jump-12170648
-2026-07-15,vccircle,ather energy,$ 104 million,Undisclosed,https://www.vccircle.com/heromotocorp-to-invest-104-mn-more-in-ather-energy
 2026-07-15,et,ultrahuman,$ 60 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ultrahuman-is-in-talks-to-bag-60-million-at-400-million-value/articleshow/132398191.cms
-2026-07-13,entrackr,OneCard,Rs 72 crore,Series D,https://entrackr.com/exclusive/exclusive-onecard-to-raise-rs-72-cr-in-its-ongoing-series-d-round-led-by-peak-xv-12159996
+2026-07-15,vccircle,ather energy,$ 104 million,Undisclosed,https://www.vccircle.com/heromotocorp-to-invest-104-mn-more-in-ather-energy
 2026-07-13,entrackr,Naturis Cosmetics,Rs 33.74 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-naturis-cosmetics-to-raise-maiden-funding-led-by-sharrp-ventures-12159388
+2026-07-13,entrackr,OneCard,Rs 72 crore,Series D,https://entrackr.com/exclusive/exclusive-onecard-to-raise-rs-72-cr-in-its-ongoing-series-d-round-led-by-peak-xv-12159996
 2026-07-10,entrackr,Indifi,Rs 79 crore,Series E,https://entrackr.com/exclusive/exclusive-indifi-set-to-raise-over-8-mn-led-by-icici-venture-12151254
-2026-07-09,vccircle,niif,$ 346 million,Undisclosed,https://www.vccircle.com/pensionfund-australiansuper-to-invest-346-mn-more-in-niif
 2026-07-09,vccircle,m3mindia in talks with investment firms,,Undisclosed,https://www.vccircle.com/m3mindia-in-talks-with-investment-firms-to-raise-funding-for-expansion
+2026-07-09,vccircle,niif,$ 346 million,Undisclosed,https://www.vccircle.com/pensionfund-australiansuper-to-invest-346-mn-more-in-niif
 2026-07-08,vccircle,eqtseeks,$ 2.5 billion,Undisclosed,https://www.vccircle.com/eqtseeks-to-raise-2-5-bn-for-new-asia-mid-cap-buyout-fund
-2026-07-07,et,cultfit files ipo papers with sebi,Rs 950 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/cultfit-files-ipo-papers-with-sebi-to-raise-rs-950-crore-via-fresh-issue/articleshow/132229916.cms
 2026-07-07,et,amazon,$ 25 billion,Undisclosed,https://economictimes.indiatimes.com/tech/funding/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports/articleshow/132241545.cms
-2026-07-06,entrackr,Wow! Momo,Rs 185 crore,Debt,https://entrackr.com/exclusive/exclusive-wow-momo-to-raise-20-mn-debt-led-by-incred-12138048
+2026-07-07,et,cultfit files ipo papers with sebi,Rs 950 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/cultfit-files-ipo-papers-with-sebi-to-raise-rs-950-crore-via-fresh-issue/articleshow/132229916.cms
 2026-07-06,vccircle,reits invits,,Undisclosed,https://www.vccircle.com/neoasset-marks-final-close-of-fund-to-invest-in-reits-invits
+2026-07-06,entrackr,Wow! Momo,Rs 185 crore,Debt,https://entrackr.com/exclusive/exclusive-wow-momo-to-raise-20-mn-debt-led-by-incred-12138048
 2026-07-05,et,Skello,$229 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/bridgepoint-leads-200-million-fundraising-in-french-hr-tech-firm-skello-source-says/articleshow/132194334.cms
 2026-07-03,vccircle,m1xchangeleans on geographic expansion for growth,,Undisclosed,https://www.vccircle.com/m1xchangeleans-on-geographic-expansion-for-growth-may-raise-equity-capital
-2026-06-30,entrackr,PRISM files UDRHP,"Rs 6,650 Cr",Undisclosed,https://entrackr.com/news/oyo-parent-prism-files-udrhp-to-raise-rs-6650-cr-via-fresh-issue-only-12118779
 2026-06-30,et,fibe files draft papers,Rs 750 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/digital-lender-fibe-files-draft-papers-seeking-to-raise-rs-750-crore-in-fresh-capital/articleshow/132085340.cms
 2026-06-30,entrackr,Fibe files DRHP,Rs 750 Cr,Undisclosed,https://entrackr.com/news/fibe-files-drhp-to-raise-rs-750-cr-through-fresh-issue-12120080
 2026-06-30,entrackr,Apna Mart,Rs 120 crore,Series C,https://entrackr.com/exclusive/exclusive-apna-mart-to-raise-fresh-funds-in-series-c-from-accel-fundamentum-peak-xv-12119875
+2026-06-30,entrackr,PRISM files UDRHP,"Rs 6,650 Cr",Undisclosed,https://entrackr.com/news/oyo-parent-prism-files-udrhp-to-raise-rs-6650-cr-via-fresh-issue-only-12118779
+2026-06-29,et,rocket,$ 40.5 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ai-startup-rocket-in-talks-to-raise-40-50-million-sources/articleshow/132055768.cms
 2026-06-29,vccircle,revxmarks final close of third private credit fund,,Undisclosed,https://www.vccircle.com/revxmarks-final-close-of-third-private-credit-fund-to-raise-new-vehicle
 2026-06-29,et,defence technology lab,$ 580 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/uk-to-invest-580-million-in-defence-technology-lab/articleshow/132067704.cms
-2026-06-29,et,rocket,$ 40.5 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ai-startup-rocket-in-talks-to-raise-40-50-million-sources/articleshow/132055768.cms
 2026-06-28,et,progcap,$ 45 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/progcap-looks-to-raise-45-million-equity-capital-in-fy28/articleshow/132049507.cms
 2026-06-26,vccircle,developing airport cities,$ 2 billion,Undisclosed,https://www.vccircle.com/adaniairports-to-invest-over-2-bn-in-developing-airport-cities
-2026-06-25,entrackr,India by 2030,$48 billion,Undisclosed,https://entrackr.com/snippets/amazon-to-invest-48-bn-in-india-by-2030-after-ceo-andy-jassy-meets-pm-modi-12104112
 2026-06-25,vccircle,senior living space,,Undisclosed,https://www.vccircle.com/whype-firm-somerset-is-keen-to-invest-in-senior-living-space
+2026-06-25,entrackr,India by 2030,$48 billion,Undisclosed,https://entrackr.com/snippets/amazon-to-invest-48-bn-in-india-by-2030-after-ceo-andy-jassy-meets-pm-modi-12104112
+2026-06-24,vccircle,japans mufg to consolidate ganesha fund with dragon funds,,Undisclosed,https://www.vccircle.com/japans-mufg-to-consolidate-ganesha-fund-with-dragon-funds-to-raise-new-vehicle
 2026-06-24,vccircle,zenexeqt,,Undisclosed,https://www.vccircle.com/zenexeqt-look-to-bag-stake-in-local-animal-nutrition-firm
 2026-06-24,et,cred,$ 900 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/cred-to-raise-900-million-in-new-funding-led-by-meta-founder-kunal-shah-to-step-down/articleshow/131910855.cms
-2026-06-24,vccircle,japans mufg to consolidate ganesha fund with dragon funds,,Undisclosed,https://www.vccircle.com/japans-mufg-to-consolidate-ganesha-fund-with-dragon-funds-to-raise-new-vehicle
 2026-06-23,et,Early Anthropic backer Menlo,$500 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/early-anthropic-backer-menlo-lands-3-billion-in-its-largest-ever-haul/articleshow/131941625.cms
 2026-06-22,entrackr,Orange Health Labs,Rs 277 crore,Series C,https://entrackr.com/exclusive/exclusive-orange-health-labs-to-raise-30-mn-series-c-led-by-iron-pillar-12062728
 2026-06-19,vccircle,mounteverest breweries,,Undisclosed,https://www.vccircle.com/mounteverest-breweries-in-advanced-talks-to-raise-funding-sets-sights-on-ipo
@@ -99,18 +104,18 @@ published_date,source,company_raw,amount_text,stage,url
 2026-06-11,vccircle,indian firm,,Undisclosed,https://www.vccircle.com/agritech-impact-investor-peakbridge-vc-in-talks-to-invest-in-indian-firm
 2026-06-11,et,innovative startups in 5 years,Rs 750 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/aum-ventures-plans-to-invest-rs-750-crore-in-innovative-startups-in-5-years/articleshow/131666941.cms
 2026-06-10,et,super micro computer,$ 7 billion,Undisclosed,https://economictimes.indiatimes.com/tech/funding/super-micro-computer-to-raise-7-billion-in-equity-offerings-to-meet-ai-server-demand/articleshow/131622628.cms
-2026-06-09,vccircle,frubon,,Undisclosed,https://www.vccircle.com/firesidebacked-ice-cream-brand-frubon-looks-to-scoop-up-fresh-funding
 2026-06-09,et,databricks,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/databricks-in-talks-to-raise-funds-at-over-165-billion-valuation-report/articleshow/131599344.cms
-2026-06-09,et,,$ 25 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/wealth-firm-nexedge-capital-looking-to-close-a-25-million-funding-round-to-be-led-by-mirae/articleshow/131591391.cms
 2026-06-09,et,sachin bansals navi,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/sachin-bansals-navi-in-talks-to-raise-250-300-million-from-prosus-accel-us/articleshow/131587840.cms
+2026-06-09,et,,$ 25 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/wealth-firm-nexedge-capital-looking-to-close-a-25-million-funding-round-to-be-led-by-mirae/articleshow/131591391.cms
+2026-06-09,vccircle,frubon,,Undisclosed,https://www.vccircle.com/firesidebacked-ice-cream-brand-frubon-looks-to-scoop-up-fresh-funding
 2026-06-08,entrackr,Wholeleaf,Rs 7.5 crore,Undisclosed,https://entrackr.com/snippets/pain-therapeutics-startup-wholeleaf-set-to-secure-fresh-funding-12014489
 2026-06-06,entrackr,Lumiq,Rs 50 crore,Series B,https://entrackr.com/exclusive/exclusive-lumiq-set-to-raise-rs-50-cr-in-series-b-round-from-bajaj-finserv-and-info-edge-12006748
 2026-06-05,vccircle,india by 2030,$ 30 billion,Undisclosed,https://www.vccircle.com/blackstonebacked-airtrunk-to-invest-30-bn-in-india-by-2030
-2026-06-03,vccircle,solfin eyes loan book expansion,,Undisclosed,https://www.vccircle.com/waareegroup-backed-solfin-eyes-loan-book-expansion-may-raise-fresh-capital
 2026-06-03,vccircle,nabventuresbacked avis hospitals,,Undisclosed,https://www.vccircle.com/nabventuresbacked-avis-hospitals-in-talks-to-snag-pe-funding
+2026-06-03,vccircle,solfin eyes loan book expansion,,Undisclosed,https://www.vccircle.com/waareegroup-backed-solfin-eyes-loan-book-expansion-may-raise-fresh-capital
+2026-06-02,entrackr,Zouk,Rs 60 crore,Pre-Series C,https://entrackr.com/exclusive/exclusive-d2c-fashion-brand-zouk-to-raise-fresh-funds-in-pre-series-c-round-11900550
 2026-06-02,vccircle,thepant project,,Undisclosed,https://www.vccircle.com/thepant-project-looks-to-snag-fresh-funding-hires-banker
 2026-06-02,entrackr,ONDC,Rs 430 crore,Undisclosed,https://entrackr.com/news/ondc-to-raise-rs-430-cr-from-sbi-zoho-uber-paytm-amul-and-others-11901708
-2026-06-02,entrackr,Zouk,Rs 60 crore,Pre-Series C,https://entrackr.com/exclusive/exclusive-d2c-fashion-brand-zouk-to-raise-fresh-funds-in-pre-series-c-round-11900550
 2026-06-01,vccircle,india data centre,$ 21 billion,Undisclosed,https://www.vccircle.com/blackstonebacked-airtrunk-to-invest-21-bn-in-india-data-centre
 2026-06-01,vccircle,askalternates,,Undisclosed,https://www.vccircle.com/askalternates-plans-to-raise-special-situations-fund
 2026-06-01,entrackr,Ola Electric,,Undisclosed,https://entrackr.com/news/ola-electric-ev-two-wheeler-registrations-jump-22-in-may-bajaj-closes-in-on-tvs-11894615
@@ -119,11 +124,11 @@ published_date,source,company_raw,amount_text,stage,url
 2026-05-27,et,wispr flow,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/peak-xv-activate-in-talks-to-invest-in-silicon-valley-ai-dictation-startup-wispr-flow/articleshow/131333228.cms
 2026-05-26,vccircle,jewellery brand,,Undisclosed,https://www.vccircle.com/multiplespe-emerge-frontrunner-to-invest-in-jewellery-brand
 2026-05-26,entrackr,Leverage Edu,Rs 200 crore,Series D,https://entrackr.com/exclusive/exclusive-leverage-edu-set-to-raise-over-20-mn-series-d-at-300-mn-valuation-11877155
-2026-05-25,vccircle,banksseek hedging cost subsidy from rbi,,Undisclosed,https://www.vccircle.com/banksseek-hedging-cost-subsidy-from-rbi-to-raise-dollar-funding
 2026-05-25,et,udaan,$ 50.6 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/udaan-in-talks-to-raise-50-60-million-from-existing-backers-lightspeed-mg-sources/articleshow/131295061.cms
+2026-05-25,vccircle,banksseek hedging cost subsidy from rbi,,Undisclosed,https://www.vccircle.com/banksseek-hedging-cost-subsidy-from-rbi-to-raise-dollar-funding
 2026-05-22,et,swiggy fails,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/swiggy-fails-to-secure-requisite-shareholder-approval-for-altering-aoa-to-become-indian-owned-entity/articleshow/131250250.cms
-2026-05-21,entrackr,Giva,Rs 270 crore,Debt,https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162
 2026-05-21,vccircle,dronemaker garuda aerospace,,Pre-IPO,https://www.vccircle.com/dronemaker-garuda-aerospace-in-talks-to-raise-pre-ipo-round
+2026-05-21,entrackr,Giva,Rs 270 crore,Debt,https://entrackr.com/exclusive/exclusive-jewelry-startup-giva-set-to-raise-28-mn-debt-11858162
 2026-05-20,vccircle,aifs,,Undisclosed,https://www.vccircle.com/whyindian-pension-funds-need-to-invest-in-aifs
 2026-05-19,vccircle,savesage,,Undisclosed,https://www.vccircle.com/atriumventures-backed-savesage-in-talks-to-raise-fresh-capital
 2026-05-19,vccircle,investorsin portfolio management schemes can pledge holdings,,Undisclosed,https://www.vccircle.com/investorsin-portfolio-management-schemes-can-pledge-holdings-to-raise-loan-clarifies-sebi
@@ -136,8 +141,8 @@ published_date,source,company_raw,amount_text,stage,url
 2026-05-08,et,ramp,$ 750 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ramp-seeks-to-raise-750-million-at-valuation-of-over-40-billion/articleshow/130951090.cms
 2026-05-08,et,skyroot,$ 60 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ram-shrirams-sherpalo-ventures-to-lead-60-million-funding-round-in-skyroot/articleshow/130875605.cms
 2026-05-06,et,,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/deepseek-nears-45-billion-valuation-as-chinas-big-fund-leads-investment-talks-ft-reports/articleshow/130846961.cms
-2026-05-06,et,startups trackk zomint,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/new-age-wealthtech-startups-trackk-zomint-in-talks-to-raise-funding-from-z47-lightspeed-others/articleshow/130836490.cms
 2026-05-06,entrackr,BazaarNow,Rs 72.3 crore,Series A,https://entrackr.com/exclusive/exclusive-bazaarnow-set-to-raise-around-8-mn-led-by-peak-xv-11804453
+2026-05-06,et,startups trackk zomint,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/new-age-wealthtech-startups-trackk-zomint-in-talks-to-raise-funding-from-z47-lightspeed-others/articleshow/130836490.cms
 2026-05-04,entrackr,Blue Tokai,Rs 175 crore,Series D,https://entrackr.com/exclusive/exclusive-blue-tokai-to-raise-rs-175-cr-in-its-extended-series-d-round-11797068
 2026-05-01,et,calligo,$ 12.15 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/calligo-in-talks-to-raise-12-15-million-to-scale-indigenous-risc-v-chip-play/articleshow/130646433.cms
 2026-04-29,entrackr,Wow! Momo,Rs 110 crore,Debt,https://entrackr.com/exclusive/exclusive-wow-momo-to-raise-rs-110-cr-debt-from-anicut-capital-11777786
@@ -155,8 +160,8 @@ published_date,source,company_raw,amount_text,stage,url
 2026-04-10,et,ola alumnis manav robotics,$ 15.2 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ola-alumnis-manav-robotics-in-talks-to-raise-15-20-million-from-blume-qualcomm-ventures/articleshow/130150594.cms
 2026-04-09,vccircle,kreditbees ipo plan gathers pace,$ 380 million,Undisclosed,https://www.vccircle.com/kreditbees-ipo-plan-gathers-pace-may-raise-380-mn
 2026-04-09,entrackr,BRND.ME to convert into public company;,Rs 300 Cr,Debt,https://entrackr.com/exclusive/exclusive-brndme-to-convert-into-public-company-set-to-raise-rs-300-cr-debt-11705647
-2026-04-08,vccircle,grapevineslice,,Undisclosed,https://www.vccircle.com/grapevineslice-may-raise-fresh-funding-leverage-edu-taps-bankers-for-ipo
 2026-04-08,et,slice,$ 50100 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/slice-in-talks-to-raise-50-100-million-at-a-valuation-cut-as-it-sharpens-digital-bank-pitch/articleshow/130091738.cms
+2026-04-08,vccircle,grapevineslice,,Undisclosed,https://www.vccircle.com/grapevineslice-may-raise-fresh-funding-leverage-edu-taps-bankers-for-ipo
 2026-04-07,vccircle,indiansilk house agencies,,Undisclosed,https://www.vccircle.com/indiansilk-house-agencies-in-advanced-talks-to-raise-funding
 2026-04-06,et,12 18 months in early stage startups,Rs 80100 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/jiif-plans-to-invest-rs-80-100-cr-in-12-18-months-in-early-stage-startups/articleshow/130061846.cms
 2026-04-02,vccircle,drivefitt,,Undisclosed,https://www.vccircle.com/shubmangill-founded-sports-club-operator-drivefitt-looks-to-raise-external-funding
@@ -190,13 +195,13 @@ published_date,source,company_raw,amount_text,stage,url
 2026-03-09,entrackr,Ecofy,Rs 380 crore,Series B,https://entrackr.com/exclusive/exclusive-ecofy-set-to-raise-rs-380-cr-led-by-british-international-investment-11188904
 2026-03-06,entrackr,Bonkers Corner,$15 Mn,Series A,https://entrackr.com/news/d2c-brand-bonkers-corner-raises-105-mn-at-48-mn-valuation-11179893
 2026-03-03,entrackr,Artium Academy,Rs 19.2 crore,Series A,https://entrackr.com/exclusive/artium-academy-to-raise-fresh-funds-at-over-4x-valuation-premium-11171098
-2026-02-24,vccircle,indiagovt,$ 19.7 billion,Undisclosed,https://www.vccircle.com/indiagovt-aims-to-raise-19-7-bn-from-ipos-of-state-run-firms-by-2030
+2026-02-24,entrackr,Palmonas,Rs 200 crore,Series B,https://entrackr.com/exclusive/exclusive-palmonas-set-to-raise-rs-200-cr-at-4x-valuation-premium-11150058
 2026-02-24,entrackr,Infra.Market,"Rs 1,250 crore",Debt,https://entrackr.com/news/inframarket-pledges-assets-and-promoter-shares-to-raise-rs-1250-cr-debt-11152359
 2026-02-24,entrackr,Newtrace,Rs 28 crore,Pre-Series A,https://entrackr.com/exclusive/exclusive-newtrace-to-raise-pre-series-a-funding-led-by-hdfc-bank-11151261
-2026-02-24,entrackr,Palmonas,Rs 200 crore,Series B,https://entrackr.com/exclusive/exclusive-palmonas-set-to-raise-rs-200-cr-at-4x-valuation-premium-11150058
-2026-02-23,entrackr,Pluckk,Rs 100 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-pluckk-set-to-raise-rs-100-cr-from-euro-gulf-investment-11147572
-2026-02-23,et,,$ 40.5 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/air-taxi-startup-eplane-eyes-40-50-million-round-speciale-invest-co-leads/articleshow/128685403.cms
+2026-02-24,vccircle,indiagovt,$ 19.7 billion,Undisclosed,https://www.vccircle.com/indiagovt-aims-to-raise-19-7-bn-from-ipos-of-state-run-firms-by-2030
 2026-02-23,vccircle,continuum green eplane seeks funding,,Undisclosed,https://www.vccircle.com/grapevinechubu-electric-may-invest-in-continuum-green-eplane-seeks-funding
+2026-02-23,et,,$ 40.5 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/air-taxi-startup-eplane-eyes-40-50-million-round-speciale-invest-co-leads/articleshow/128685403.cms
+2026-02-23,entrackr,Pluckk,Rs 100 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-pluckk-set-to-raise-rs-100-cr-from-euro-gulf-investment-11147572
 2026-02-20,entrackr,India in next five years,$5 billion,Undisclosed,https://entrackr.com/snippets/general-catalyst-to-invest-5-bn-in-india-in-next-five-years-11138771
 2026-02-19,entrackr,StockGro,$15 million,Pre-Series C,https://entrackr.com/exclusive/exclusive-stockgro-set-to-raise-15-mn-led-by-tawuniya-11132237
 2026-02-18,et,startups in india,$ 150 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/qualcomm-to-invest-150-million-in-startups-in-india/articleshow/128491946.cms
@@ -215,25 +220,25 @@ published_date,source,company_raw,amount_text,stage,url
 2026-02-02,vccircle,grapevineapax advent in race for redtape superfoods valley,,Undisclosed,https://www.vccircle.com/grapevineapax-advent-in-race-for-redtape-superfoods-valley-to-raise-fresh-funds
 2026-01-28,et,,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/startup-incubator-y-combinator-quietly-cuts-canada-from-countries-where-it-will-invest/articleshow/127679541.cms
 2026-01-23,vccircle,dsgconsumer partners hits the road,,Undisclosed,https://www.vccircle.com/dsgconsumer-partners-hits-the-road-to-raise-new-vc-fund
-2026-01-21,vccircle,mumbai luxury homes,$ 495 million,Undisclosed,https://www.vccircle.com/embassydevelopments-to-invest-495-mn-in-mumbai-luxury-homes
 2026-01-21,vccircle,hub,$ 383 million,Undisclosed,https://www.vccircle.com/loreal-to-invest-383-mn-in-indian-beauty-tech-hub
+2026-01-21,vccircle,mumbai luxury homes,$ 495 million,Undisclosed,https://www.vccircle.com/embassydevelopments-to-invest-495-mn-in-mumbai-luxury-homes
 2026-01-20,entrackr,The Whole Truth,Rs 304 crore,Series D,https://entrackr.com/exclusive/exclusive-the-whole-truth-to-raise-around-34-mn-at-400-mn-valuation-in-series-d-11013877
 2026-01-16,vccircle,omansovereign fund s jv with dubai s see holdings,,Undisclosed,https://www.vccircle.com/omansovereign-fund-s-jv-with-dubai-s-see-holdings-set-to-get-international-backer
 2026-01-15,vccircle,blackstonebacked nexus select trust,$ 250 million,Undisclosed,https://www.vccircle.com/blackstonebacked-nexus-select-trust-looks-to-raise-250-mn-from-overseas-investor
 2026-01-14,et,Groww AMC,$65 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/asset-management-firm-state-street-invests-65-million-in-groww-amc/articleshow/126521855.cms
 2026-01-13,vccircle,westbridgebacked propelld set to turn profitable in fy26 plans capital,,Undisclosed,https://www.vccircle.com/westbridgebacked-propelld-set-to-turn-profitable-in-fy26-plans-capital-raise
-2026-01-12,vccircle,idfy,,Undisclosed,https://www.vccircle.com/blumeelev8-backed-idfy-set-to-raise-new-funding-round
 2026-01-12,vccircle,india,,Undisclosed,https://www.vccircle.com/finnishiot-firm-wirepas-raising-fresh-capital-to-invest-in-india
+2026-01-12,vccircle,idfy,,Undisclosed,https://www.vccircle.com/blumeelev8-backed-idfy-set-to-raise-new-funding-round
 2026-01-07,entrackr,Ecozen,Rs 95 crore,Debt,https://entrackr.com/exclusive/exclusive-ecozen-to-raise-rs-95-cr-debt-from-momentum-capedge-10978069
 2026-01-06,vccircle,kotakalternates hits the road,,Undisclosed,https://www.vccircle.com/kotakalternates-hits-the-road-to-raise-third-special-situations-fund
 2026-01-06,vccircle,ndrwarehousing,$ 50 million,Undisclosed,https://www.vccircle.com/ndrwarehousing-to-raise-50-mn-from-an-offshore-investor
 2026-01-02,entrackr,FreshToHome,Rs 75 crore,Debt,https://entrackr.com/snippets/exclusive-freshtohome-to-raise-rs-75-cr-in-debt-funding-10965347
-2025-12-26,entrackr,Wow! Momo,Rs 75 crore,Series D,https://entrackr.com/exclusive/exclusive-wow-momo-to-raise-rs-75-cr-from-singularity-amc-10948501
 2025-12-26,entrackr,Mintoak,Rs 53.3 crore,Series A,https://entrackr.com/exclusive/exclusive-mintoak-to-raise-fresh-funding-at-rs-2500-cr-valuation-10947842
+2025-12-26,entrackr,Wow! Momo,Rs 75 crore,Series D,https://entrackr.com/exclusive/exclusive-wow-momo-to-raise-rs-75-cr-from-singularity-amc-10948501
 2025-12-25,entrackr,Turno,Rs 50 crore,Pre-Series B,https://entrackr.com/exclusive/exclusive-ev-focused-fintech-startup-turno-to-raise-55-mn-in-pre-series-b-10945546
 2025-12-24,entrackr,Wint Wealth,Rs 120 crore,Series B,https://entrackr.com/exclusive/exclusive-wint-wealth-to-raise-series-b-at-rs-700-cr-valuation-10942760
-2025-12-23,entrackr,Heads Up For Tails,$25 million,Series B,https://entrackr.com/exclusive/exclusive-heads-up-for-tails-to-raise-25-mn-in-series-b-led-by-apparel-group-10940349
 2025-12-23,entrackr,India,$2 billion,Undisclosed,https://entrackr.com/snippets/dsa-holding-signs-loi-to-invest-up-to-2-bn-in-innogress-venturesled-quantum-deep-tech-ecosystem-10941096
+2025-12-23,entrackr,Heads Up For Tails,$25 million,Series B,https://entrackr.com/exclusive/exclusive-heads-up-for-tails-to-raise-25-mn-in-series-b-led-by-apparel-group-10940349
 2025-12-22,entrackr,Easebuzz,$30 million,Series A,https://entrackr.com/exclusive/exclusive-easebuzz-in-talks-to-raise-around-30-mn-at-over-250-mn-valuation-10929953
 2025-12-19,entrackr,Jar,$100 million,Undisclosed,https://entrackr.com/exclusive/jar-in-talks-to-raise-100-mn-led-by-westbridge-10922441
 2025-12-18,et,etherealx,$ 20.25 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/spacetech-startup-etherealx-in-talks-to-raise-20-25-million-from-tdk-accel-prosus/articleshow/126059479.cms
@@ -245,15 +250,15 @@ published_date,source,company_raw,amount_text,stage,url
 2025-12-13,entrackr,Shiprocket files updated DRHP,"Rs 2,342.35 crore",Undisclosed,https://entrackr.com/news/shiprocket-files-updated-drhp-to-raise-rs-1100-cr-via-fresh-issue-10906624
 2025-12-12,vccircle,stake sale spinny,,Undisclosed,https://www.vccircle.com/grapevinefairfax-kotak-in-final-lap-for-idbi-bank-stake-sale-spinny-to-raise-fresh-funding
 2025-12-12,entrackr,OneCard,Rs 40 crore,Debt,https://entrackr.com/exclusive/exclusive-onecard-to-raise-debt-from-alteria-10903707
-2025-12-11,entrackr,Spinny,$320 million,Undisclosed,https://entrackr.com/exclusive/exclusive-spinny-to-raise-165-mn-as-accel-leaders-fund-doubles-down-10901744
 2025-12-11,entrackr,WorkIndia,Rs 114.35 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-workindia-to-raise-13-mn-in-new-funding-round-10900415
-2025-12-10,vccircle,grasim s green arm,$ 333 million,Undisclosed,https://www.vccircle.com/blackrocks-gip-to-invest-up-to-333-mn-in-grasim-s-green-arm
+2025-12-11,entrackr,Spinny,$320 million,Undisclosed,https://entrackr.com/exclusive/exclusive-spinny-to-raise-165-mn-as-accel-leaders-fund-doubles-down-10901744
 2025-12-10,entrackr,India by 2030,$35 billion,Undisclosed,https://entrackr.com/news/amazon-to-invest-over-35-bn-in-india-by-2030-10897511
+2025-12-10,vccircle,grasim s green arm,$ 333 million,Undisclosed,https://www.vccircle.com/blackrocks-gip-to-invest-up-to-333-mn-in-grasim-s-green-arm
 2025-12-09,entrackr,India,$17.5 billion,Undisclosed,https://entrackr.com/snippets/microsoft-to-invest-175-bn-in-india-to-expand-cloud-and-ai-infrastructure-10896191
-2025-12-08,entrackr,StockGro,,Undisclosed,https://entrackr.com/exclusive/exclusive-stockgro-to-raise-fresh-funds-from-boston-based-valiant-capital-management-10891178
-2025-12-08,entrackr,Virohan,Rs 39.27 crore,Series B,https://entrackr.com/exclusive/exclusive-virohan-to-kick-off-series-b-round-led-by-mynavi-corporation-10891705
-2025-12-08,et,swiggy shareholders approve delivery companys,Rs 10000 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/swiggy-shareholders-approve-delivery-companys-plan-to-raise-rs-10000-crore-via-qip/articleshow/125837234.cms
 2025-12-08,vccircle,eversourcecontrolled ecofy,,Undisclosed,https://www.vccircle.com/eversourcecontrolled-ecofy-set-to-secure-fresh-capital-from-overseas-investor
+2025-12-08,et,swiggy shareholders approve delivery companys,Rs 10000 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/swiggy-shareholders-approve-delivery-companys-plan-to-raise-rs-10000-crore-via-qip/articleshow/125837234.cms
+2025-12-08,entrackr,Virohan,Rs 39.27 crore,Series B,https://entrackr.com/exclusive/exclusive-virohan-to-kick-off-series-b-round-led-by-mynavi-corporation-10891705
+2025-12-08,entrackr,StockGro,,Undisclosed,https://entrackr.com/exclusive/exclusive-stockgro-to-raise-fresh-funds-from-boston-based-valiant-capital-management-10891178
 2025-12-07,et,acevector files updated prospectus,Rs 300 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/snapdeal-parent-acevector-files-updated-prospectus-to-raise-up-to-rs-300-crore-via-ipo/articleshow/125812363.cms
 2025-12-06,entrackr,AceVector files UDRHP,Rs 300 Cr,Undisclosed,https://entrackr.com/news/acevector-files-udrhp-to-raise-rs-300-cr-in-fresh-issue-reports-positive-free-cash-flow-in-h1-fy26-10887978
 2025-12-04,vccircle,micro mitti,,Series A,https://www.vccircle.com/proptech-real-estate-firm-micro-mitti-in-talks-to-raise-series-a-round
@@ -265,11 +270,11 @@ published_date,source,company_raw,amount_text,stage,url
 2025-11-28,et,meesho to launch ipo on december 3,Rs 4250 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/ecommerce-firm-meesho-to-launch-ipo-on-december-3-aims-to-raise-rs-4250-crore-via-fresh-issue/articleshow/125620764.cms
 2025-11-28,entrackr,Newme,Rs 108.66 crore,Series B,https://entrackr.com/news/fast-fashion-brand-newme-to-raise-12-mn-at-112-mn-valuation-10819820
 2025-11-28,entrackr,Whizzo,Rs 97.36 crore,Series A,https://entrackr.com/exclusive/exclusive-manufacturing-startup-whizzo-to-raise-11-mn-at-35x-valuation-jump-10819522
-2025-11-27,vccircle,kkrbacked serentica,$ 8 billion,Undisclosed,https://www.vccircle.com/kkrbacked-serentica-may-raise-up-to-8-bn-for-green-energy-expansion
 2025-11-27,entrackr,Pandorum,Rs 85 crore,Series B,https://entrackr.com/exclusive/exclusive-biotech-firm-pandorum-to-raise-10-mn-in-series-b-10816807
-2025-11-26,entrackr,FarMart,$40 million,Undisclosed,https://entrackr.com/exclusive/exclusive-farmart-set-to-raise-30-40-mn-in-new-round-10812968
-2025-11-26,et,supertails,$ 15.2 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/petcare-startup-supertails-in-talks-to-raise-15-20-million-led-by-venturi-partners/articleshow/125590327.cms
+2025-11-27,vccircle,kkrbacked serentica,$ 8 billion,Undisclosed,https://www.vccircle.com/kkrbacked-serentica-may-raise-up-to-8-bn-for-green-energy-expansion
 2025-11-26,vccircle,india ai data capacity,$ 11 billion,Undisclosed,https://www.vccircle.com/relianceindustries-brookfield-jv-partners-to-invest-11-bn-in-india-ai-data-capacity
+2025-11-26,et,supertails,$ 15.2 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/petcare-startup-supertails-in-talks-to-raise-15-20-million-led-by-venturi-partners/articleshow/125590327.cms
+2025-11-26,entrackr,FarMart,$40 million,Undisclosed,https://entrackr.com/exclusive/exclusive-farmart-set-to-raise-30-40-mn-in-new-round-10812968
 2025-11-25,vccircle,maarga mindcare,,Undisclosed,https://www.vccircle.com/mentalhealth-firm-maarga-mindcare-looks-to-snag-maiden-funding-cheque
 2025-11-24,et,lendingkart,Rs 850 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/lendingkart-set-to-raise-rs-850-crore-from-fullerton-existing-investors/articleshow/125465767.cms
 2025-11-24,entrackr,Ayekart,Rs 65 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-ayekart-to-raise-new-round-with-28x-valuation-surge-10806949
@@ -280,8 +285,8 @@ published_date,source,company_raw,amount_text,stage,url
 2025-11-19,vccircle,nuveenbacked ecozen,,Series D,https://www.vccircle.com/nuveenbacked-ecozen-in-talks-to-raise-series-d-round-snags-debt-funding
 2025-11-19,vccircle,anveshanfarm in talks with growth stage pe firms,,Undisclosed,https://www.vccircle.com/anveshanfarm-in-talks-with-growth-stage-pe-firms-to-raise-fresh-capital
 2025-11-19,et,musks xai,$ 15 billion,Undisclosed,https://economictimes.indiatimes.com/tech/funding/musks-xai-in-advanced-talks-to-raise-15-billion-lifting-valuation-to-230-billion-wsj/articleshow/125426877.cms
-2025-11-18,et,databricks,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/databricks-in-talks-to-raise-capital-at-above-130-billion-valuation-the-information/articleshow/125400842.cms
 2025-11-18,entrackr,,Rs 37 crore,Series C,https://entrackr.com/exclusive/exclusive-bighaat-to-top-up-series-c-led-by-jm-financial-10783943
+2025-11-18,et,databricks,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/databricks-in-talks-to-raise-capital-at-above-130-billion-valuation-the-information/articleshow/125400842.cms
 2025-11-14,et,palmonas,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/jewellery-brand-palmonas-in-talks-to-raise-rs-200-250-crore-from-xponentia-sources/articleshow/125306425.cms
 2025-11-13,vccircle,justrite,,Undisclosed,https://www.vccircle.com/africinvestbacked-supermarket-chain-justrite-set-to-secure-funding-for-expansion
 2025-11-10,entrackr,Ecozen,Rs 111.6 crore,Debt,https://entrackr.com/exclusive/exclusive-ecozen-to-raise-rs-111-cr-debt-from-uti-and-spark-investment-10644209
@@ -295,17 +300,17 @@ published_date,source,company_raw,amount_text,stage,url
 2025-10-30,vccircle,varaha,,Series B,https://www.vccircle.com/climatetech-startup-varaha-in-talks-to-raise-large-series-b-round
 2025-10-30,et,meta,$ 25 billion,Undisclosed,https://economictimes.indiatimes.com/tech/funding/meta-looks-to-raise-at-least-25-billion-from-its-bond-offering/articleshow/124953185.cms
 2025-10-30,et,Ola Electric Tech,Rs 250 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/ola-electric-tech-gets-rs-250-crore-from-ola-cell-tech/articleshow/124935478.cms
-2025-10-28,vccircle,india eyes private credit real estate,$ 1.5 billion,Undisclosed,https://www.vccircle.com/singapores-lighthouse-canton-to-invest-over-1-5-bn-in-india-eyes-private-credit-real-estate
-2025-10-28,et,snabbit,$ 30 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/quick-service-app-snabbit-set-to-raise-30-million/articleshow/124874152.cms
 2025-10-28,entrackr,Snabbit,Rs 265.4 crore,Series C,https://entrackr.com/exclusive/exclusive-snabbit-set-to-raise-30-mn-with-over-2x-valuation-premium-10600876
 2025-10-28,entrackr,Snapmint,Rs 331.18 crore,Series B,https://entrackr.com/exclusive/exclusive-snapmint-to-raise-375-mn-in-series-b-led-by-general-atlantic-10600494
+2025-10-28,et,snabbit,$ 30 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/quick-service-app-snabbit-set-to-raise-30-million/articleshow/124874152.cms
+2025-10-28,vccircle,india eyes private credit real estate,$ 1.5 billion,Undisclosed,https://www.vccircle.com/singapores-lighthouse-canton-to-invest-over-1-5-bn-in-india-eyes-private-credit-real-estate
 2025-10-27,vccircle,,,Undisclosed,https://www.vccircle.com/accelprosus-to-invest-jointly-in-early-stage-indian-deeptech-startups
 2025-10-27,entrackr,Stanza Living,Rs 282.76 crore,Series B,https://entrackr.com/exclusive/exclusive-stanza-living-to-raises-32-mn-from-accel-motilal-oswal-in-down-round-10597776
 2025-10-26,et,grapevine,Rs 34 crore,Series A,https://economictimes.indiatimes.com/tech/funding/social-media-platform-grapevine-to-raise-rs-34-crore-in-series-a-round-led-by-kae-capital-report/articleshow/124823963.cms
 2025-10-25,entrackr,Ola Electric board approves,"Rs 1,500 crore",Undisclosed,https://entrackr.com/news/ola-electric-board-approves-plan-to-raise-up-to-rs-1500-cr-10593506
 2025-10-25,entrackr,Grapevine,Rs 33.86 crore,Series A,https://entrackr.com/exclusive/exclusive-grapevine-set-to-raise-series-a-led-by-kae-capital-10591745
-2025-10-24,vccircle,hyphen,,Undisclosed,https://www.vccircle.com/warehousetech-startup-hyphen-in-talks-to-raise-fresh-capital
 2025-10-24,entrackr,Statiq,,Undisclosed,https://entrackr.com/exclusive/exclusive-ev-charging-startup-statiq-in-talks-to-raise-15-18-mn-10588796
+2025-10-24,vccircle,hyphen,,Undisclosed,https://www.vccircle.com/warehousetech-startup-hyphen-in-talks-to-raise-fresh-capital
 2025-10-23,vccircle,heads up for tails,,Undisclosed,https://www.vccircle.com/peakxv-backed-heads-up-for-tails-in-advanced-talks-to-raise-funding
 2025-10-18,entrackr,Meesho files updated DRHP;,,Undisclosed,https://entrackr.com/exclusive/exclusive-meesho-files-updated-drhp-aims-to-raise-700800-mn-in-ipo-10576100
 2025-10-17,et,dayone,$ 1 billion,Undisclosed,https://economictimes.indiatimes.com/tech/funding/data-centre-operator-dayone-aims-to-raise-over-1-billion/articleshow/124620642.cms
@@ -320,12 +325,12 @@ published_date,source,company_raw,amount_text,stage,url
 2025-09-26,vccircle,stonepeakaims,$ 4 billion,Undisclosed,https://www.vccircle.com/stonepeakaims-to-raise-4-bn-for-second-asia-infrastructure-fund
 2025-09-23,et,indian startups,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/uks-natwest-to-invest-in-indian-startups-to-boost-talent-footprint/articleshow/124055624.cms
 2025-09-23,entrackr,Purple Style Labs,Rs 660 crore,Undisclosed,https://entrackr.com/news/purple-style-labs-files-drhp-to-raise-rs-660-cr-via-ipo-10492434
-2025-09-18,entrackr,Trifecta Capital,$25 million,Debt,https://entrackr.com/snippets/ifc-is-set-to-invest-25-mn-in-trifecta-capitals-fund-iv-10474983
-2025-09-18,et,debt fund,$ 25 million,Debt,https://economictimes.indiatimes.com/tech/funding/ifc-to-invest-25-million-in-trifecta-capitals-fourth-venture-debt-fund/articleshow/123951112.cms
 2025-09-18,entrackr,Wow! Momo,Rs 75 crore,Series D,https://entrackr.com/news/exclusive-wow-momo-set-to-raise-85-mn-in-ongoing-round-10476345
 2025-09-18,entrackr,Infra.Market,Rs 731.5 crore,Series G,https://entrackr.com/news/inframarket-to-raise-rs-731-cr-led-by-promoters-at-flat-valuation-10475661
-2025-09-15,entrackr,Wondrlab,Rs 40.8 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-wondrlab-to-raise-fresh-funds-at-90-mn-valuation-10465734
+2025-09-18,entrackr,Trifecta Capital,$25 million,Debt,https://entrackr.com/snippets/ifc-is-set-to-invest-25-mn-in-trifecta-capitals-fund-iv-10474983
+2025-09-18,et,debt fund,$ 25 million,Debt,https://economictimes.indiatimes.com/tech/funding/ifc-to-invest-25-million-in-trifecta-capitals-fourth-venture-debt-fund/articleshow/123951112.cms
 2025-09-15,entrackr,Finnable,Rs 250 crore,Pre-Series C,https://entrackr.com/exclusive/exclusive-finnable-to-raise-rs-250-cr-in-new-round-10465514
+2025-09-15,entrackr,Wondrlab,Rs 40.8 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-wondrlab-to-raise-fresh-funds-at-90-mn-valuation-10465734
 2025-09-15,entrackr,Incred,"Rs 1,500 crore",Undisclosed,https://entrackr.com/exclusive/exclusive-incred-to-raise-rs-1500-cr-via-fresh-issue-in-ipo-10466024
 2025-09-11,vccircle,vcbacked olyv in black for second straight year,,Undisclosed,https://www.vccircle.com/vcbacked-olyv-in-black-for-second-straight-year-may-raise-fresh-funding
 2025-09-11,entrackr,GrowXCD,Rs 200 crore,Series B,https://entrackr.com/exclusive/exclusive-fintech-startup-growxcd-to-raise-rs-200-cr-in-series-b-10243885
@@ -358,9 +363,9 @@ published_date,source,company_raw,amount_text,stage,url
 2025-08-14,entrackr,Altum Credo,Rs 70 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-bii-to-invest-rs-70-cr-for-additional-3-stake-in-altum-credo-9660176
 2025-08-14,entrackr,WROGN and Bewakoof backer TMRW,Rs 437 crore,Undisclosed,https://entrackr.com/snippets/wrogn-and-bewakoof-backer-tmrw-to-raise-50-mn-from-servicenow-ventures-9658749
 2025-08-14,et,,Rs 100 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/healthtech-platform-livlong-365-to-invest-rs-100-crore-from-internal-accruals/articleshow/123296651.cms
+2025-08-13,vccircle,sfotechnologies,,Undisclosed,https://www.vccircle.com/sfotechnologies-set-to-raise-pe-funding-again-after-over-a-decade
 2025-08-13,et,aditya birla groups tmrw,Rs 437 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/aditya-birla-groups-tmrw-to-raise-rs-437-crore-from-servicenow-ventures/articleshow/123285043.cms
 2025-08-13,entrackr,Dozee,$10 million,Debt,https://entrackr.com/exclusive/exclusive-healthtech-startup-dozee-to-raise-10-mn-in-debt-9656670
-2025-08-13,vccircle,sfotechnologies,,Undisclosed,https://www.vccircle.com/sfotechnologies-set-to-raise-pe-funding-again-after-over-a-decade
 2025-08-12,et,logistics startups,,Undisclosed,https://economictimes.indiatimes.com/tech/startups/all-in-capitals-torqlabs-to-invest-in-supply-chain-and-logistics-startups/articleshow/123254199.cms
 2025-08-12,et,nykaa,Rs 15 lakh,Undisclosed,https://economictimes.indiatimes.com/tech/startups/nykaa-to-bag-balance-40-stake-in-nudge-wellness-for-rs-15-lakh/articleshow/123259274.cms
 2025-08-11,vccircle,graasai neuralzome eyestem,,Undisclosed,https://www.vccircle.com/graasai-neuralzome-eyestem-bag-funding
@@ -413,8 +418,8 @@ published_date,source,company_raw,amount_text,stage,url
 2025-06-30,et,india ratings downgrades infra market company,Rs 2500 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/india-ratings-downgrades-infra-market-company-plans-to-raise-rs-2500-crore-via-ipo/articleshow/122145522.cms
 2025-06-29,entrackr,Curefoods files DRHP,Rs 800 crore,Undisclosed,https://entrackr.com/news/curefoods-files-drhp-to-raise-rs-800-cr-in-fresh-issue-founder-ankit-nagori-to-skip-ofs-9448193
 2025-06-29,et,curefoods files ipo papers,Rs 800 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/curefoods-files-ipo-papers-to-raise-rs-800-crore/articleshow/122143496.cms
-2025-06-27,entrackr,Wakefit files DRHP,Rs 468 Cr,Undisclosed,https://entrackr.com/news/wakefit-files-drhp-to-raise-rs-468-cr-via-fresh-issue-9441554
 2025-06-27,entrackr,Eggoz,Rs 125 crore,Series C,https://entrackr.com/exclusive/exclusive-eggoz-to-raise-rs-125-cr-led-by-gaja-capital-9441823
+2025-06-27,entrackr,Wakefit files DRHP,Rs 468 Cr,Undisclosed,https://entrackr.com/news/wakefit-files-drhp-to-raise-rs-468-cr-via-fresh-issue-9441554
 2025-06-23,entrackr,PhonePe targets,$1.5 billion,Undisclosed,https://entrackr.com/snippets/phonepe-targets-to-raise-15-bn-via-ipo-report-9393833
 2025-06-19,entrackr,Capillary Technologies files DRHP;,Rs 430 Cr,Undisclosed,https://entrackr.com/news/capillary-technologies-files-drhp-to-raise-rs-430-cr-via-fresh-issue-9377310
 2025-06-17,entrackr,MakeMyTrip,$2.5 billion,Undisclosed,https://entrackr.com/news/makemytrip-to-raise-25-bn-to-halve-chinese-investor-tripcoms-stake-9370727
@@ -425,16 +430,16 @@ published_date,source,company_raw,amount_text,stage,url
 2025-06-12,entrackr,Durlabh Darshan,$2 million,Undisclosed,https://entrackr.com/exclusive/exclusive-durlabh-darshan-set-to-raise-2-mn-led-by-prime-vp-9357098
 2025-06-11,entrackr,GIVA,Rs 450 crore,Series C,https://entrackr.com/news/giva-to-raise-53-mn-led-by-creaegis-at-465-mn-valuation-9354093
 2025-06-11,entrackr,Snapmint,$40 million,Undisclosed,https://entrackr.com/exclusive/exclusive-snapmint-set-to-raise-40-mn-led-by-general-atlantic-9354045
-2025-06-10,vccircle,stake,,Series B,https://www.vccircle.com/mubadalabacked-proptech-firm-stake-to-raise-series-b-round-to-fuel-expansion
 2025-06-10,entrackr,Rumik.ai,$5 Mn,Undisclosed,https://entrackr.com/exclusive/exclusive-elevation-capital-to-lead-5-mn-round-in-rumikai-9350266
+2025-06-10,vccircle,stake,,Series B,https://www.vccircle.com/mubadalabacked-proptech-firm-stake-to-raise-series-b-round-to-fuel-expansion
 2025-06-09,et,rapido ahead of food delivery launch,Rs 125 crore,Undisclosed,https://economictimes.indiatimes.com/tech/startups/nexus-venture-to-invest-rs-125-crore-in-rapido-ahead-of-food-delivery-launch/articleshow/121729750.cms
+2025-06-09,entrackr,Rapido,Rs 125 crore,Series E,https://entrackr.com/news/rapido-to-raise-rs-125-cr-from-nexus-ventures-9349389
 2025-06-09,entrackr,Kazam,Rs 51 crore,Series B,https://entrackr.com/exclusive/exclusive-electric-mobility-platform-kazam-to-raise-6-mn-in-series-b-9347550
 2025-06-09,vccircle,felix pharma,$ 175 million,Undisclosed,https://www.vccircle.com/adventinternational-to-invest-175-mn-in-felix-pharma
-2025-06-09,entrackr,Rapido,Rs 125 crore,Series E,https://entrackr.com/news/rapido-to-raise-rs-125-cr-from-nexus-ventures-9349389
 2025-06-06,entrackr,Vecmocon,Rs 74 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-vecmocon-to-raise-87-mn-tessellate-ventures-exits-with-10x-return-9340323
-2025-06-06,entrackr,Scaler,$40 million,Series B,https://entrackr.com/exclusive/exclusive-scaler-to-raise-40-mn-at-reduced-valuation-9339652
 2025-06-06,entrackr,Bloom Hotels,Rs 77.7 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-bloom-hotels-to-raise-9-mn-in-new-round-9339603
 2025-06-06,vccircle,tpgbacked fibe,,Undisclosed,https://www.vccircle.com/tpgbacked-fibe-set-to-bag-a-cheque-from-new-investor
+2025-06-06,entrackr,Scaler,$40 million,Series B,https://entrackr.com/exclusive/exclusive-scaler-to-raise-40-mn-at-reduced-valuation-9339652
 2025-06-05,entrackr,Decentro,Rs 26.3 crore,Series B,https://entrackr.com/exclusive/exclusive-decentro-to-kick-off-series-b-round-led-by-info-edge-9338103
 2025-06-04,entrackr,Handpickd,Rs 21.7 crore,Seed,https://entrackr.com/exclusive/exclusive-anant-goels-handpickd-raises-fresh-funds-9334697
 2025-06-03,vccircle,grapevineindusind tenet diagnostics pepperfry plush,,Undisclosed,https://www.vccircle.com/grapevineindusind-tenet-diagnostics-pepperfry-plush-look-to-raise-capital
@@ -455,23 +460,23 @@ published_date,source,company_raw,amount_text,stage,url
 2025-05-14,entrackr,Cricbuzz and Willow TV,$50 million,Undisclosed,https://entrackr.com/news/dream-sports-to-invest-50-mn-in-cricbuzz-and-willow-tv-9066677
 2025-05-14,et,tata 1mg plans more offline forays as it,$ 300 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/tata-1mg-plans-more-offline-forays-as-it-looks-to-raise-300-million/articleshow/121145540.cms
 2025-05-14,vccircle,dubaiholding,$ 487 million,Undisclosed,https://www.vccircle.com/dubaiholding-aims-to-raise-up-to-487-mn-from-ipo-of-residential-reit
-2025-05-14,vccircle,cricbuzz willow tv,$ 50 million,Undisclosed,https://www.vccircle.com/dreamsports-to-invest-50-mn-in-cricbuzz-willow-tv
 2025-05-14,vccircle,vcbacked scimplify,,Series B,https://www.vccircle.com/vcbacked-scimplify-looks-to-raise-more-capital-after-netting-series-b
+2025-05-14,vccircle,cricbuzz willow tv,$ 50 million,Undisclosed,https://www.vccircle.com/dreamsports-to-invest-50-mn-in-cricbuzz-willow-tv
 2025-05-13,vccircle,saudiairline flynas launches ipo,$ 1.1 billion,Undisclosed,https://www.vccircle.com/saudiairline-flynas-launches-ipo-to-raise-up-to-1-1-bn
 2025-05-09,entrackr,Vetic,Rs 224 crore,Series C,https://entrackr.com/exclusive/exclusive-petcare-startup-vetic-to-raise-26-mn-led-by-bessemer-9050595
+2025-05-08,entrackr,MakeO,Rs 54.7 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-toothsi-parent-makeo-set-to-raise-funds-at-50-valuation-cut-9048004
 2025-05-08,vccircle,behindw health ventures find and fund strategy as it,,Undisclosed,https://www.vccircle.com/behindw-health-ventures-find-and-fund-strategy-as-it-prepares-to-raise-new-fund
 2025-05-08,vccircle,venture,,Undisclosed,https://www.vccircle.com/generalcatalyst-to-invest-in-policybazaar-parent-s-new-hospital-venture
 2025-05-08,entrackr,Propelld,Rs 260 crore,Series D,https://entrackr.com/exclusive/exclusive-propelld-to-raise-30-mn-from-westbridge-and-stellaris-9048514
-2025-05-08,entrackr,MakeO,Rs 54.7 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-toothsi-parent-makeo-set-to-raise-funds-at-50-valuation-cut-9048004
 2025-05-02,entrackr,Ultraviolette,Rs 32.6 crore,Series E,https://entrackr.com/snippets/exclusive-electric-bike-startup-ultraviolette-to-secure-fresh-funds-in-ongoing-round-9024580
 2025-05-01,vccircle,azura,,Undisclosed,https://www.vccircle.com/chimeraowned-lunate-to-invest-in-wealth-management-firm-azura
 2025-04-29,et,petjio world,$ 1.5 million,Seed,https://economictimes.indiatimes.com/tech/startups/pet-care-startup-petjio-world-in-talks-to-raise-1-5-million-seed-funding/articleshow/120717971.cms
 2025-04-29,entrackr,Bellatrix Aerospace,Rs 26 crore,Pre-Series B,https://entrackr.com/snippets/exclusive-bellatrix-aerospace-to-secure-fresh-funds-at-flat-valuation-9014392
-2025-04-28,et,ultrahuman in talks with westbridge,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ultrahuman-in-talks-with-westbridge-to-raise-100-120-million-after-softbank-deal-falls-through/articleshow/120691700.cms
 2025-04-28,entrackr,Urban Company DRHP,"Rs 1,900 Cr",Undisclosed,https://entrackr.com/news/urban-company-drhp-to-raise-rs-1900-cr-via-primary-issue-and-ofs-9012100
 2025-04-28,entrackr,Ultrahuman,$120 million,Series B,https://entrackr.com/snippets/ultrahuman-in-talks-to-raise-120-mn-report-9009646
-2025-04-25,entrackr,Peak XV,,Undisclosed,https://entrackr.com/news/peak-xv-to-raise-1214-bn-for-new-fund-report-8999564
+2025-04-28,et,ultrahuman in talks with westbridge,,Undisclosed,https://economictimes.indiatimes.com/tech/funding/ultrahuman-in-talks-with-westbridge-to-raise-100-120-million-after-softbank-deal-falls-through/articleshow/120691700.cms
 2025-04-25,entrackr,PB Healthcare,"Rs 1,461 crore",Seed,https://entrackr.com/news/pb-healthcare-to-raise-rs-1461-cr-in-seed-round-no-longer-subsidiary-of-pb-fintech-8999406
+2025-04-25,entrackr,Peak XV,,Undisclosed,https://entrackr.com/news/peak-xv-to-raise-1214-bn-for-new-fund-report-8999564
 2025-04-25,entrackr,ELIVAAS,$5 million,Series A,https://entrackr.com/exclusive/exclusive-elivaas-in-talks-to-raise-rs-100-cr-in-new-round-9001442
 2025-04-24,entrackr,Captain Fresh,Rs 30 crore,Debt,https://entrackr.com/snippets/ipo-bound-captain-fresh-to-secure-debt-from-trifecta-8996462
 2025-04-22,et,yulu eyes 80 million,$ 80 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/mobility-startup-yulu-eyes-80-million-raise-riding-on-quickcomm-buzz/articleshow/120493942.cms
@@ -491,46 +496,46 @@ published_date,source,company_raw,amount_text,stage,url
 2025-04-02,entrackr,Freakins,Rs 25 crore,Series A,https://entrackr.com/exclusive/exclusive-matrix-and-blume-invest-in-d2c-fashion-brand-freakins-8917142
 2025-04-01,vccircle,haldiram s,,Undisclosed,https://www.vccircle.com/alphawave-abu-dhabi-s-ihc-join-temasek-to-invest-in-haldiram-s
 2025-04-01,vccircle,kapiva,,Series D,https://www.vccircle.com/pebacked-wellness-brand-kapiva-looks-to-raise-series-d-funding
-2025-03-29,entrackr,PayMate,Rs 261 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-paymate-to-raise-30-mn-from-crimson-ventures-8903070
 2025-03-29,entrackr,Koparo,Rs 14.5 crore,Pre-Series A,https://entrackr.com/snippets/shark-tank-india-backed-koparo-raises-17-mn-8903341
+2025-03-29,entrackr,PayMate,Rs 261 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-paymate-to-raise-30-mn-from-crimson-ventures-8903070
 2025-03-28,vccircle,,$ 58 million,Undisclosed,https://www.vccircle.com/grapevinevip-revives-stake-sale-talks-beams-fintech-fund-to-invest-58-mn
 2025-03-28,vccircle,sangocapital,,Undisclosed,https://www.vccircle.com/sangocapital-looks-to-raise-hybrid-fund-iv-targeting-consumer-food-value-chains
 2025-03-28,entrackr,Pluckk,Rs 85 crore,Series A,https://entrackr.com/exclusive/exclusive-kareena-kapoor-backed-pluckk-to-raise-10-mn-in-series-a-8898308
 2025-03-27,vccircle,bpcl ongc refineries,,Undisclosed,https://www.vccircle.com/saudiaramco-looks-to-invest-in-bpcl-ongc-refineries
 2025-03-27,et,,$ 40 billion,Undisclosed,https://economictimes.indiatimes.com/tech/funding/openai-close-to-finalizing-its-40-billion-softbank-led-funding/articleshow/119569279.cms
 2025-03-27,entrackr,30 Indian startups,,Undisclosed,https://entrackr.com/snippets/2am-vc-launches-fund-ii-to-invest-in-30-indian-startups-8895538
+2025-03-26,entrackr,Groww,$200 million,Pre-IPO,https://entrackr.com/news/groww-in-talks-to-raise-200-mn-in-pre-ipo-round-report-8891191
 2025-03-26,vccircle,impactinvestor asha ventures,,Undisclosed,https://www.vccircle.com/impactinvestor-asha-ventures-to-get-offshore-lp-for-debut-fund
 2025-03-26,vccircle,manufacturing firm,,Undisclosed,https://www.vccircle.com/kotakalternate-asset-looks-to-invest-in-south-india-based-manufacturing-firm
 2025-03-26,entrackr,Country Delight,Rs 212.5 crore,Series E,https://entrackr.com/exclusive/exclusive-country-delight-to-raise-25-mn-from-temasek-8891843
-2025-03-26,entrackr,Groww,$200 million,Pre-IPO,https://entrackr.com/news/groww-in-talks-to-raise-200-mn-in-pre-ipo-round-report-8891191
 2025-03-25,vccircle,consumer brand,,Undisclosed,https://www.vccircle.com/jmfinancial-pe-in-talks-to-invest-in-namita-thapar-backed-consumer-brand
-2025-03-24,entrackr,Curefoods,Rs 56.4 crore,Debt,https://entrackr.com/exclusive/exclusive-curefoods-to-raise-debt-from-blacksoil-and-binny-bansal-8884808
 2025-03-24,vccircle,listed debt securities,,Debt,https://www.vccircle.com/sebiallows-pe-funds-stressed-assets-funds-to-invest-in-listed-debt-securities
+2025-03-24,entrackr,Curefoods,Rs 56.4 crore,Debt,https://entrackr.com/exclusive/exclusive-curefoods-to-raise-debt-from-blacksoil-and-binny-bansal-8884808
 2025-03-24,vccircle,adityabirla finance,$ 150 million,Undisclosed,https://www.vccircle.com/adityabirla-finance-to-raise-150-mn-in-funding
 2025-03-21,vccircle,euler motors,$ 60 million,Undisclosed,https://www.vccircle.com/heromotocorp-to-invest-60-mn-in-bii-blume-backed-euler-motors
-2025-03-20,entrackr,Slikk,$10 Mn,Seed,https://entrackr.com/exclusive/exclusive-60-min-fashion-delivery-startup-slikk-to-raise-10-mn-led-by-nexus-8871716
-2025-03-20,et,investor all in capital launches second fund,Rs 200 crore,Pre-Seed,https://economictimes.indiatimes.com/tech/startups/pre-seed-venture-investor-all-in-capital-launches-second-fund-aims-to-raise-rs-200-crore/articleshow/119246295.cms
-2025-03-20,vccircle,data centre energy projects,$ 25 billion,Undisclosed,https://www.vccircle.com/abudhabi-s-adq-ties-up-with-ecp-to-invest-over-25-bn-in-data-centre-energy-projects
 2025-03-20,vccircle,qoruzin talks,,Undisclosed,https://www.vccircle.com/qoruzin-talks-to-raise-funds-at-150-200-cr-valuation-report
+2025-03-20,et,investor all in capital launches second fund,Rs 200 crore,Pre-Seed,https://economictimes.indiatimes.com/tech/startups/pre-seed-venture-investor-all-in-capital-launches-second-fund-aims-to-raise-rs-200-crore/articleshow/119246295.cms
+2025-03-20,entrackr,Slikk,$10 Mn,Seed,https://entrackr.com/exclusive/exclusive-60-min-fashion-delivery-startup-slikk-to-raise-10-mn-led-by-nexus-8871716
+2025-03-20,vccircle,data centre energy projects,$ 25 billion,Undisclosed,https://www.vccircle.com/abudhabi-s-adq-ties-up-with-ecp-to-invest-over-25-bn-in-data-centre-energy-projects
 2025-03-19,entrackr,Icertis,$50 million,Undisclosed,https://entrackr.com/news/saas-unicorn-icertis-to-raise-50-mn-8869219
 2025-03-18,vccircle,india southeast asia,,Undisclosed,https://www.vccircle.com/venturipartners-rolls-out-second-fund-to-invest-in-india-southeast-asia
-2025-03-17,entrackr,GoodScore parent,,Undisclosed,https://entrackr.com/exclusive/exclusive-peak-xv-to-lead-new-round-in-goodscore-parent-8862289
 2025-03-17,entrackr,A91 Partners' third fund,,Undisclosed,https://entrackr.com/snippets/ifc-to-invest-in-a91-partners-third-fund-8860807
+2025-03-17,entrackr,GoodScore parent,,Undisclosed,https://entrackr.com/exclusive/exclusive-peak-xv-to-lead-new-round-in-goodscore-parent-8862289
 2025-03-17,entrackr,Ayana Renewable,Rs 150 crore,Debt,https://entrackr.com/exclusive/exclusive-ayana-renewable-to-raise-rs-150-cr-from-ilfs-mutual-fund-8860504
 2025-03-13,vccircle,hocco,,Undisclosed,https://www.vccircle.com/havmorfounding-family-s-new-ice-cream-brand-hocco-to-raise-fresh-funding
 2025-03-13,entrackr,Droom India,Rs 25 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-droom-india-raises-funds-at-360-mn-valuation-8850595
-2025-03-12,vccircle,haldiram s,,Undisclosed,https://www.vccircle.com/temasekinks-deal-to-invest-in-haldiram-s-at-valuation-of-10-bn
 2025-03-12,vccircle,zevoin talks,,Series A,https://www.vccircle.com/zevoin-talks-to-raise-series-a-funding-to-expand-ev-fleet-fulfillment-centres
-2025-03-11,et,,$ 5 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/change-engine-to-invest-5-million-in-early-stage-indian-ai-startups-over-next-five-years/articleshow/118886908.cms
+2025-03-12,vccircle,haldiram s,,Undisclosed,https://www.vccircle.com/temasekinks-deal-to-invest-in-haldiram-s-at-valuation-of-10-bn
 2025-03-11,entrackr,Change Engine,$5 million,Undisclosed,https://entrackr.com/snippets/change-engine-accelerator-program-to-invest-5-mn-in-early-stage-ai-startups-8842812
-2025-03-10,vccircle,electronics manufacturer,,Undisclosed,https://www.vccircle.com/chryscapitalemerges-as-frontrunner-to-invest-in-electronics-manufacturer
+2025-03-11,et,,$ 5 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/change-engine-to-invest-5-million-in-early-stage-indian-ai-startups-over-next-five-years/articleshow/118886908.cms
 2025-03-10,entrackr,Rusk Media,Rs 74 crore,Series B,https://entrackr.com/exclusive/exclusive-rusk-media-to-raise-85-mn-in-series-b-8838537
 2025-03-10,entrackr,12-15 companies,$20 million,Undisclosed,https://entrackr.com/snippets/playbook-partners-to-invest-20-mn-in-12-15-companies-8838355
+2025-03-10,vccircle,electronics manufacturer,,Undisclosed,https://www.vccircle.com/chryscapitalemerges-as-frontrunner-to-invest-in-electronics-manufacturer
 2025-03-09,et,12 15 companies over 2 years,$ 20 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/playbook-partners-to-invest-20-million-each-in-12-15-companies-over-2-years/articleshow/118818693.cms
-2025-03-06,entrackr,Punch,Rs 26 crore,Seed,https://entrackr.com/exclusive/exclusive-kunal-shah-backed-punch-to-raise-fresh-funds-8827002
-2025-03-06,entrackr,Truemeds,Rs 375.2 crore,Series C,https://entrackr.com/exclusive/exclusive-truemeds-to-raise-44-mn-led-by-accel-india-8823054
 2025-03-06,vccircle,healthcare firm,,Undisclosed,https://www.vccircle.com/kotakalternate-asset-set-to-invest-in-pe-backed-healthcare-firm
 2025-03-06,et,smallest ai,$ 10.15 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/smallest-ai-in-talks-to-raise-10-15-million-at-50-60-million-valuation/articleshow/118761841.cms
+2025-03-06,entrackr,Punch,Rs 26 crore,Seed,https://entrackr.com/exclusive/exclusive-kunal-shah-backed-punch-to-raise-fresh-funds-8827002
+2025-03-06,entrackr,Truemeds,Rs 375.2 crore,Series C,https://entrackr.com/exclusive/exclusive-truemeds-to-raise-44-mn-led-by-accel-india-8823054
 2025-03-04,vccircle,ventures platform,,Undisclosed,https://www.vccircle.com/nigerianvc-firm-ventures-platform-to-get-returning-lp-for-new-fund
 2025-03-04,vccircle,hyfunfrozen foods,,Undisclosed,https://www.vccircle.com/hyfunfrozen-foods-looks-to-raise-funds-for-expansion-and-growth
 2025-03-04,entrackr,XYXX,Rs 30 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-xyxx-raises-fresh-funds-led-by-niveshaay-sambhav-fund-8776540
@@ -539,13 +544,13 @@ published_date,source,company_raw,amount_text,stage,url
 2025-03-03,vccircle,nextbharat ventures to invest in 13 startups arva health,$ 1 million,Undisclosed,https://www.vccircle.com/nextbharat-ventures-to-invest-in-13-startups-arva-health-bags-1-mn-in-funding
 2025-03-03,entrackr,Rupifi,,Undisclosed,https://entrackr.com/exclusive/exclusive-rupifi-to-raise-rs-1215-cr-via-right-issue-8772839
 2025-03-03,entrackr,91Trucks,,Undisclosed,https://entrackr.com/exclusive/exclusive-91trucks-set-to-raise-new-round-led-by-arkam-ventures-8772725
-2025-02-28,vccircle,,,Undisclosed,https://www.vccircle.com/morelps-looking-to-co-invest-with-pe-vc-funds-panelists-at-vccircle-summit
 2025-02-28,entrackr,InMobi’s Glance,Rs 200 crore,Series D,https://entrackr.com/exclusive/exclusive-inmobis-glance-set-to-raise-rs-200-cr-debt-8763169
+2025-02-28,vccircle,,,Undisclosed,https://www.vccircle.com/morelps-looking-to-co-invest-with-pe-vc-funds-panelists-at-vccircle-summit
 2025-02-27,vccircle,startups,$ 200 million,Undisclosed,https://www.vccircle.com/wiprocommits-200-mn-more-to-vc-arm-to-invest-in-tech-startups
-2025-02-21,et,subsidiary,$ 115 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/indias-swiggy-to-invest-up-to-115-million-in-supply-chain-subsidiary/articleshow/118454760.cms
 2025-02-21,entrackr,Scootsy,"Rs 1,000 crore",Undisclosed,https://entrackr.com/news/swiggy-to-invest-rs-1000-cr-in-subsidiary-scootsy-for-biz-expansion-8744342
-2025-02-19,entrackr,Waterfield Advisors,Rs 123 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-waterfield-advisors-raises-rs-123-cr-at-rs-723-cr-valuation-8735322
+2025-02-21,et,subsidiary,$ 115 million,Undisclosed,https://economictimes.indiatimes.com/tech/funding/indias-swiggy-to-invest-up-to-115-million-in-supply-chain-subsidiary/articleshow/118454760.cms
 2025-02-19,vccircle,dpiowned solevo,,Undisclosed,https://www.vccircle.com/dpiowned-solevo-set-to-get-funding-from-another-offshore-investor
+2025-02-19,entrackr,Waterfield Advisors,Rs 123 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-waterfield-advisors-raises-rs-123-cr-at-rs-723-cr-valuation-8735322
 2025-02-17,et,karnataka,Rs 150 crore,Undisclosed,https://economictimes.indiatimes.com/tech/funding/paschim-renewables-to-invest-rs-150-crore-in-karnataka-for-30-mw-solar-project/articleshow/118333839.cms
 2025-02-12,entrackr,Rapido,Rs 250 crore,Series E,https://entrackr.com/news/rapido-raises-rs-250-cr-from-prosus-as-part-of-series-e-round-8713477
 2025-02-11,vccircle,sbfcfinance taps offshore investor,,Undisclosed,https://www.vccircle.com/sbfcfinance-taps-offshore-investor-to-raise-capital
@@ -557,11 +562,11 @@ published_date,source,company_raw,amount_text,stage,url
 2025-02-04,entrackr,UK,Rs 536.95 crore,Undisclosed,https://entrackr.com/news/oyo-to-invest-over-rs-530-cr-in-uks-premium-properties-8688777
 2025-01-31,entrackr,Scentials,Rs 34.6 crore,Undisclosed,https://entrackr.com/exclusive/exclusive-mahesh-bhupathi-backed-scentials-to-raise-fresh-funds-from-existing-investors-8677371
 2025-01-30,vccircle,metals mining,$ 1.2 billion,Undisclosed,https://www.vccircle.com/abudhabi-wealth-fund-adq-orion-team-up-to-invest-1-2-bn-in-metals-mining
-2025-01-28,vccircle,nuhospitals revives,,Undisclosed,https://www.vccircle.com/nuhospitals-revives-plan-to-raise-pe-funding-hires-new-banker
-2025-01-28,entrackr,Tanglin Ventures,$250 million,Undisclosed,https://entrackr.com/news/tanglin-ventures-to-raise-250-mn-for-third-fund-8660986
 2025-01-28,entrackr,Data Sutram,,Undisclosed,https://entrackr.com/exclusive/exclusive-data-sutram-to-raise-10-12-mn-led-by-lightspeed-and-b-capital-8660266
-2025-01-27,entrackr,InsuranceDekho,$100 million,Undisclosed,https://entrackr.com/news/insurancedekho-to-raise-up-to-100-mn-with-banks-participation-8658120
+2025-01-28,entrackr,Tanglin Ventures,$250 million,Undisclosed,https://entrackr.com/news/tanglin-ventures-to-raise-250-mn-for-third-fund-8660986
+2025-01-28,vccircle,nuhospitals revives,,Undisclosed,https://www.vccircle.com/nuhospitals-revives-plan-to-raise-pe-funding-hires-new-banker
 2025-01-27,et,slice bank,$ 250 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/slice-bank-in-talks-to-raise-250-million-to-expand-its-digital-banking-operations/articleshow/117583329.cms
+2025-01-27,entrackr,InsuranceDekho,$100 million,Undisclosed,https://entrackr.com/news/insurancedekho-to-raise-up-to-100-mn-with-banks-participation-8658120
 2025-01-24,vccircle,maharashtra over 3 5 years,$ 11 billion,Undisclosed,https://www.vccircle.com/blackstonein-mou-to-invest-11-bn-in-maharashtra-over-3-5-years
 2025-01-24,et,zepto,$ 800 million,Undisclosed,https://economictimes.indiatimes.com/tech/startups/quick-commerce-startup-zepto-in-talks-to-raise-ipo-size-to-800-million-1-billion-sources/articleshow/117435776.cms
 2025-01-24,entrackr,CapGrid,Rs 29.16 crore,Series A,https://entrackr.com/exclusive/exclusive-capgrid-to-raise-fresh-funds-from-anicut-nexus-and-axilor-8649298

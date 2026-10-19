@@ -1,19 +1,19 @@
 check_id,category,check,rule,severity,rounds_checked,rounds_flagged,share_flagged
-C01,Nulls,Company name missing,company is blank,error,2179,0,0.0
-C02,Nulls,Announcement date missing,announced_date is blank or not a date,error,2179,0,0.0
-C03,Nulls,Amount undisclosed,no source reports an amount,info,2179,165,0.0757
-C04,Nulls,Stage undisclosed,no source names the round stage,info,2179,527,0.2419
-C05,Nulls,No investor named,no source names an investor,info,2179,124,0.0569
-C06,Nulls,Sector unclassified,no sector label in a source table and no keyword match,warning,2179,137,0.0629
-C07,Nulls,City unknown,no report says where the company is based,info,2179,951,0.4364
-C08,Duplicates,Duplicate report,one article URL appears more than once in the source records,error,2179,0,0.0
-C09,Duplicates,Possible duplicate round,same company has another round within 45 days,warning,2179,29,0.0133
-C10,Validity,Date outside tracking window,announced_date before 2025-01-01 or in the future,error,2179,0,0.0
-C11,Outliers,Amount outlier for its stage,log10(amount) beyond 1.5 x IQR for the stage (stages with at least 10 amounts),warning,2179,26,0.0119
-C12,Outliers,Implausible amount,amount below $0.01 Mn or above $2000 Mn,warning,2179,0,0.0
-C13,Units,INR/USD mismatch,a report's rupee and dollar figures imply a rate more than 10% from the reference rate,warning,2179,8,0.0037
-C14,Units,Lakh/crore or million/billion mismatch,"reports of one round differ by a factor of about 10, 100 or 1,000",error,2179,1,0.0005
-C15,Cross-source,Amount disagreement,highest and lowest reported amount differ by more than 10%,warning,2179,68,0.0312
-C16,Cross-source,Date disagreement,reports of one round are more than 7 days apart,info,2179,23,0.0106
-C17,Cross-source,Lead investor disagreement,two detailed sources each name a lead investor and have none in common,warning,2179,43,0.0197
-C18,Cross-source,Stage disagreement,two detailed sources state different stages,warning,2179,31,0.0142
+C01,Nulls,Company name missing,company is blank,error,2212,0,0.0
+C02,Nulls,Announcement date missing,announced_date is blank or not a date,error,2212,0,0.0
+C03,Nulls,Amount undisclosed,no source reports an amount,info,2212,166,0.075
+C04,Nulls,Stage undisclosed,no source names the round stage,info,2212,536,0.2423
+C05,Nulls,No investor named,no source names an investor,info,2212,126,0.057
+C06,Nulls,Sector unclassified,no sector label in a source table and no keyword match,warning,2212,139,0.0628
+C07,Nulls,City unknown,no report says where the company is based,info,2212,968,0.4376
+C08,Duplicates,Duplicate report,one article URL appears more than once in the source records,error,2212,0,0.0
+C09,Duplicates,Possible duplicate round,same company has another round within 45 days,warning,2212,29,0.0131
+C10,Validity,Date outside tracking window,announced_date before 2025-01-01 or in the future,error,2212,0,0.0
+C11,Outliers,Amount outlier for its stage,log10(amount) beyond 1.5 x IQR for the stage (stages with at least 10 amounts),warning,2212,25,0.0113
+C12,Outliers,Implausible amount,amount below $0.01 Mn or above $2000 Mn,warning,2212,0,0.0
+C13,Units,INR/USD mismatch,a report's rupee and dollar figures imply a rate more than 10% from the reference rate,warning,2212,8,0.0036
+C14,Units,Lakh/crore or million/billion mismatch,"reports of one round differ by a factor of about 10, 100 or 1,000",error,2212,1,0.0005
+C15,Cross-source,Amount disagreement,highest and lowest reported amount differ by more than 10%,warning,2212,68,0.0307
+C16,Cross-source,Date disagreement,reports of one round are more than 7 days apart,info,2212,23,0.0104
+C17,Cross-source,Lead investor disagreement,two detailed sources each name a lead investor and have none in common,warning,2212,44,0.0199
+C18,Cross-source,Stage disagreement,two detailed sources state different stages,warning,2212,31,0.014

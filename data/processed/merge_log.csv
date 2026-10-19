@@ -2265,6 +2265,7 @@ R261007-bytexl,ET-134757491,et,ByteXL,identical name,100.0
 R261007-bytexl,INC-20261010-07,inc42,byteXL,identical name,100.0
 R261007-credfix,INC-20261010-12,inc42,Credfix,identical name,100.0
 R261007-desibleai,INC-20261010-11,inc42,Desible.ai,identical name,100.0
+R261007-garudaaerospac,VCC-9011b7a833,vccircle,garudaaerospace,spacing or punctuation variant,100.0
 R261007-ionage,INC-20261010-14,inc42,IONAGE,identical name,100.0
 R261007-quanfluence,ET-134746276,et,Quanfluence,identical name,100.0
 R261007-quanfluence,INC-20261010-05,inc42,Quanfluence,identical name,100.0
@@ -2282,3 +2283,37 @@ R261009-neogrowth,VCC-63af03f668,vccircle,leapfrogbacked neogrowth,name found in
 R261010-nathabit,VCC-80753347e7,vccircle,nat habit,identical name,100.0
 R261011-tessolvesemico,ET-134868349,et,Tessolve,longer and shorter form of the name,95.0
 R261011-tessolvesemico,VCC-a7d45b9f16,vccircle,tpgbacked tessolve,name found inside the headline,100.0
+R261012-boldfit,INC-20261017-01,inc42,Boldfit,identical name,100.0
+R261013-clueso,ET-134914882,et,Clueso,identical name,100.0
+R261013-clueso,INC-20261017-09,inc42,Clueso,identical name,100.0
+R261013-greencellmobil,VCC-20cda12c96,vccircle,eversourcebacked greencell mobility,name found inside the headline,100.0
+R261013-makeo,ET-134913828,et,MakeO,identical name,100.0
+R261013-makeo,INC-20261017-10,inc42,MakeO,identical name,100.0
+R261013-makeo,VCC-041505a857,vccircle,makeo,identical name,100.0
+R261013-mesaschoolofbu,ET-134898078,et,Mesa School of Business,identical name,100.0
+R261013-mesaschoolofbu,INC-20261017-07,inc42,MESA School,longer and shorter form of the name,95.0
+R261013-nusynth,ET-134907930,et,NuSynth Technologies,generic word added or dropped,100.0
+R261013-nusynth,INC-20261017-13,inc42,NuSynth,identical name,100.0
+R261013-thinkmetal,INC-20261017-14,inc42,ThinkMetal,identical name,100.0
+R261013-wudhomes,INC-20261017-24,inc42,wudhomes,identical name,100.0
+R261014-oxgspace,INC-20261017-18,inc42,OXG Space,identical name,100.0
+R261014-parallelloop,INC-20261017-11,inc42,Parallel Loop,identical name,100.0
+R261014-revragai,INC-20261017-16,inc42,RevRag.AI,identical name,100.0
+R261014-rocketpay,INC-20261017-21,inc42,RocketPay,identical name,100.0
+R261014-scimplify,ET-134942868,et,Scimplify,identical name,100.0
+R261014-scimplify,INC-20261017-04,inc42,Scimplify,identical name,100.0
+R261014-scimplify,VCC-89a3aa3eb0,vccircle,accelbacked scimplify,name found inside the headline,100.0
+R261014-spillgames,ET-134921020,et,Spill Games,identical name,100.0
+R261014-spillgames,INC-20261017-08,inc42,Spill Games,identical name,100.0
+R261014-thestack,INC-20261017-17,inc42,The Stack,identical name,100.0
+R261015-confidohealth,ET-134947006,et,Confido Health,identical name,100.0
+R261015-confidohealth,INC-20261017-06,inc42,Confido Health,identical name,100.0
+R261015-cosmochute,INC-20261017-19,inc42,Cosmochute,identical name,100.0
+R261015-origin,ET-134971183,et,Origin,identical name,100.0
+R261015-origin,INC-20261017-05,inc42,Origin,identical name,100.0
+R261015-shamrockai,INC-20261017-12,inc42,Shamrock AI,identical name,100.0
+R261016-rapidcanvas,ET-134985150,et,RapidCanvas,identical name,100.0
+R261016-rapidcanvas,INC-20261017-03,inc42,RapidCanvas,identical name,100.0
+R261016-rapidcanvas,VCC-f211eef617,vccircle,rapidcanvas,identical name,100.0
+R261019-thepantproject,ET-135032313,et,The Pant Project,identical name,100.0
+R261019-thepantproject,VCC-025b240239,vccircle,the pant project,identical name,100.0
