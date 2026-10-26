@@ -8,22 +8,22 @@ same way. So every round keeps each figure that was reported for it, a written r
 is shown, and 18 automated checks decide which rounds a person should look at.
 
 <!-- stats:start -->
-_Numbers below are rewritten by every run. Last run: 19 October 2026._
+_Numbers below are rewritten by every run. Last run: 26 October 2026._
 
 | | |
 | --- | ---: |
-| Funding rounds tracked | **2,212** |
-| Period covered | 02 Jan 2025 to 19 Oct 2026 |
-| Source reports matched to a round | 4,531 |
-| Duplicate reports merged | 2,319 |
-| ...of which the company name differed between reports | 235 |
-| Rounds confirmed by two or more sources | 1,539 (70%) |
-| Disclosed funding | USD 29.49 bn across 2,046 rounds |
-| Median disclosed round | USD 3.50 mn |
+| Funding rounds tracked | **2,229** |
+| Period covered | 02 Jan 2025 to 26 Oct 2026 |
+| Source reports matched to a round | 4,564 |
+| Duplicate reports merged | 2,335 |
+| ...of which the company name differed between reports | 238 |
+| Rounds confirmed by two or more sources | 1,550 (70%) |
+| Disclosed funding | USD 29.77 bn across 2,062 rounds |
+| Median disclosed round | USD 3.52 mn |
 | Automated checks | 18 |
 | Rounds where sources disagree on the amount by more than 10% | 68 |
 | Rounds with a lakh/crore or million/billion mismatch | 1 |
-| Funding headlines not yet matched to a round (review list) | 316 |
+| Funding headlines not yet matched to a round (review list) | 318 |
 <!-- stats:end -->
 
 ![The Excel dashboard](docs/dashboard.png)

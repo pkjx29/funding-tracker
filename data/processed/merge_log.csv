@@ -2315,5 +2315,21 @@ R261015-shamrockai,INC-20261017-12,inc42,Shamrock AI,identical name,100.0
 R261016-rapidcanvas,ET-134985150,et,RapidCanvas,identical name,100.0
 R261016-rapidcanvas,INC-20261017-03,inc42,RapidCanvas,identical name,100.0
 R261016-rapidcanvas,VCC-f211eef617,vccircle,rapidcanvas,identical name,100.0
+R261019-evenhealthcare,ET-135043450,et,Even Healthcare,identical name,100.0
+R261019-evenhealthcare,INC-20261024-01,inc42,Even Health,longer and shorter form of the name,95.0
+R261019-sofacet,INC-20261024-13,inc42,So/Facet,identical name,100.0
 R261019-thepantproject,ET-135032313,et,The Pant Project,identical name,100.0
+R261019-thepantproject,INC-20261024-05,inc42,The Pant Project,identical name,100.0
 R261019-thepantproject,VCC-025b240239,vccircle,the pant project,identical name,100.0
+R261021-auxoai,INC-20261024-03,inc42,AuxoAI,identical name,100.0
+R261021-onto,INC-20261024-14,inc42,Onto,identical name,100.0
+R261021-vectorial,INC-20261024-11,inc42,Vectorial,identical name,100.0
+R261022-chapterhome,ET-135108287,et,Chapter Home,identical name,100.0
+R261022-chapterhome,INC-20261024-07,inc42,Chapter Homes,spelling variant (fuzzy match),95.7
+R261022-curebay,ET-135095724,et,Curebay,identical name,100.0
+R261022-curebay,INC-20261024-06,inc42,CureBay,identical name,100.0
+R261022-harajukutokyoc,ENT-12740658,entrackr,Harajuku Tokyo Café,identical name,100.0
+R261022-kartaai,INC-20261024-12,inc42,Karta AI,identical name,100.0
+R261023-paarautonomy,ENT-12751873,entrackr,Paar Autonomy,identical name,100.0
+R261023-paarautonomy,INC-20261024-15,inc42,Paar Autonomy,identical name,100.0
+R261026-bucketlisttcom,ET-135202005,et,Bucketlistt,longer and shorter form of the name,95.0
