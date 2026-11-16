@@ -170,6 +170,9 @@ C03,Amount undisclosed,info,R261026-chosen,CHOSEN,2026-10-26,amount not disclose
 C03,Amount undisclosed,info,R261026-glance,Glance,2026-10-26,amount not disclosed by any source
 C03,Amount undisclosed,info,R261026-logixair,LogiXair,2026-10-26,amount not disclosed by any source
 C03,Amount undisclosed,info,R261103-metasportsinte,Metasports Interactive,2026-11-03,amount not disclosed by any source
+C03,Amount undisclosed,info,R261112-playblue,PlayBlue,2026-11-12,amount not disclosed by any source
+C03,Amount undisclosed,info,R261112-qbmen,QB Men,2026-11-12,amount not disclosed by any source
+C03,Amount undisclosed,info,R261112-recykal,Recykal,2026-11-12,amount not disclosed by any source
 C04,Stage undisclosed,info,R250104-oyo,OYO,2025-01-04,no source names the stage
 C04,Stage undisclosed,info,R250107-bodmastechnolo,Bodmas Technologies,2025-01-07,no source names the stage
 C04,Stage undisclosed,info,R250107-pratilipi,Pratilipi,2025-01-07,no source names the stage
@@ -516,7 +519,7 @@ C04,Stage undisclosed,info,R260304-moneyboxxfinan,Moneyboxx Finance,2026-03-04,n
 C04,Stage undisclosed,info,R260305-peping,Peping,2026-03-05,no source names the stage
 C04,Stage undisclosed,info,R260309-latentai,Latent AI,2026-03-09,no source names the stage
 C04,Stage undisclosed,info,R260309-strideone,StrideOne,2026-03-09,no source names the stage
-C04,Stage undisclosed,info,R260312-mosaicwellness,Mosiac Wellness,2026-03-10,no source names the stage
+C04,Stage undisclosed,info,R260312-mosaicwellness,Mosaic Wellness,2026-03-10,no source names the stage
 C04,Stage undisclosed,info,R260311-adititoys,Aditi Toys,2026-03-11,no source names the stage
 C04,Stage undisclosed,info,R260311-bobabhai,Boba Bhai,2026-03-11,no source names the stage
 C04,Stage undisclosed,info,R260311-drinkprime,DrinkPrime,2026-03-11,no source names the stage
@@ -725,6 +728,12 @@ C04,Stage undisclosed,info,R261103-powerupmoney,PowerUp Money,2026-11-03,no sour
 C04,Stage undisclosed,info,R261103-thecroffleguys,The Croffle Guys,2026-11-03,no source names the stage
 C04,Stage undisclosed,info,R261104-cellegantenerg,Cellegant Energy,2026-11-04,no source names the stage
 C04,Stage undisclosed,info,R261104-onestack,OneStack,2026-11-04,no source names the stage
+C04,Stage undisclosed,info,R261110-froncortai,Froncort.AI,2026-11-10,no source names the stage
+C04,Stage undisclosed,info,R261112-desibleai,Desible.ai,2026-11-12,no source names the stage
+C04,Stage undisclosed,info,R261112-hundopizza,Hundo Pizza,2026-11-12,no source names the stage
+C04,Stage undisclosed,info,R261112-playblue,PlayBlue,2026-11-12,no source names the stage
+C04,Stage undisclosed,info,R261112-recykal,Recykal,2026-11-12,no source names the stage
+C04,Stage undisclosed,info,R261113-kutlerriai,Kutlerri.ai,2026-11-13,no source names the stage
 C05,No investor named,info,R250113-weworkindia,WeWork India,2025-01-13,no investor named
 C05,No investor named,info,R250115-eulermotors,Euler Motors,2025-01-15,no investor named
 C05,No investor named,info,R250116-houseofchikank,House of Chikankari,2025-01-16,no investor named
@@ -1668,7 +1677,6 @@ C07,City unknown,info,R260310-mozark,Mozark,2026-03-10,no report states where th
 C07,City unknown,info,R260310-newtrace,Newtrace,2026-03-10,no report states where the company is based
 C07,City unknown,info,R260310-skyeair,Skye Air,2026-03-10,no report states where the company is based
 C07,City unknown,info,R260310-verdantimpact,Verdant Impact,2026-03-10,no report states where the company is based
-C07,City unknown,info,R260312-mosaicwellness,Mosiac Wellness,2026-03-10,no report states where the company is based
 C07,City unknown,info,R260311-adititoys,Aditi Toys,2026-03-11,no report states where the company is based
 C07,City unknown,info,R260311-bonkerscorner,Bonkers Corner,2026-03-11,no report states where the company is based
 C07,City unknown,info,R260311-opencfo,OpenCFO,2026-03-11,no report states where the company is based
@@ -1873,7 +1881,6 @@ C07,City unknown,info,R260818-neogeo,NeoGeo,2026-08-18,no report states where th
 C07,City unknown,info,R260819-bookmyshow,BookMyShow,2026-08-19,no report states where the company is based
 C07,City unknown,info,R260819-ctrls,CtrlS DataCenters,2026-08-19,no report states where the company is based
 C07,City unknown,info,R260819-firstcoffee,First Coffee,2026-08-19,no report states where the company is based
-C07,City unknown,info,R260821-greenjoules,Greenjoules,2026-08-21,no report states where the company is based
 C07,City unknown,info,R260822-atomberg,Atomberg,2026-08-22,no report states where the company is based
 C07,City unknown,info,R260825-echovane,Echovane,2026-08-25,no report states where the company is based
 C07,City unknown,info,R260825-nexedgecapital,Nexedge Capital,2026-08-25,no report states where the company is based
@@ -1992,6 +1999,9 @@ C07,City unknown,info,R261103-metasportsinte,Metasports Interactive,2026-11-03,n
 C07,City unknown,info,R261103-unifyfoodworks,Unify Foodworks,2026-11-03,no report states where the company is based
 C07,City unknown,info,R261104-cellegantenerg,Cellegant Energy,2026-11-04,no report states where the company is based
 C07,City unknown,info,R261104-ottonomy,Ottonomy,2026-11-04,no report states where the company is based
+C07,City unknown,info,R261110-ecopath,ECOPATH,2026-11-10,no report states where the company is based
+C07,City unknown,info,R261110-froncortai,Froncort.AI,2026-11-10,no report states where the company is based
+C07,City unknown,info,R261112-playblue,PlayBlue,2026-11-12,no report states where the company is based
 C09,Possible duplicate round,warning,R250127-emiza,Emiza,2025-01-27,"11 days after R250116-emiza ($5.775 Mn then, $11.586 Mn now)"
 C09,Possible duplicate round,warning,R250131-captainfresh,Captain Fresh,2025-01-31,"14 days after R250117-captainfresh ($2.3 Mn then, $28.872 Mn now)"
 C09,Possible duplicate round,warning,R250207-bobabhai,Boba Bhai,2025-02-07,"25 days after R250113-bobabhai ($3.46 Mn then, $0.103 Mn now)"
@@ -2021,31 +2031,32 @@ C09,Possible duplicate round,warning,R260829-omegaseikimobi,Omega Seiki Mobility
 C09,Possible duplicate round,warning,R260901-kepleraerospac,Kepler Aerospace,2026-09-01,"31 days after R260801-kepleraerospac ($8 Mn then, $8 Mn now)"
 C09,Possible duplicate round,warning,R260917-yulu,Yulu,2026-09-17,"36 days after R260812-yulu ($93 Mn then, $93 Mn now)"
 C09,Possible duplicate round,warning,R261008-zinara,Zinara,2026-10-08,"20 days after R260918-zinara ($nan Mn then, $0.373 Mn now)"
-C11,Amount outlier for its stage,warning,R250121-joyspoon,JoySpoon,2025-01-21,$0.065 Mn is outside the usual Seed range ($0.10-25.8 Mn)
+C09,Possible duplicate round,warning,R261112-desibleai,Desible.ai,2026-11-12,"36 days after R261007-desibleai ($3.308 Mn then, $3.403 Mn now)"
+C11,Amount outlier for its stage,warning,R250121-joyspoon,JoySpoon,2025-01-21,$0.065 Mn is outside the usual Seed range ($0.10-25.9 Mn)
 C11,Amount outlier for its stage,warning,R250205-fitspire,Fitspire,2025-02-05,$1 Mn is outside the usual Series A range ($1.11-53.2 Mn)
-C11,Amount outlier for its stage,warning,R250311-zolve,Zolve,2025-03-11,$251 Mn is outside the usual Series B range ($2.02-151.6 Mn)
-C11,Amount outlier for its stage,warning,R250508-pbhealthcare,PB Healthcare,2025-05-08,$218 Mn is outside the usual Seed range ($0.10-25.8 Mn)
+C11,Amount outlier for its stage,warning,R250311-zolve,Zolve,2025-03-11,$251 Mn is outside the usual Series B range ($2.06-149.5 Mn)
+C11,Amount outlier for its stage,warning,R250508-pbhealthcare,PB Healthcare,2025-05-08,$218 Mn is outside the usual Seed range ($0.10-25.9 Mn)
 C11,Amount outlier for its stage,warning,R250528-saarathifinanc,Saarathi Finance,2025-05-28,$55.627 Mn is outside the usual Series A range ($1.11-53.2 Mn)
 C11,Amount outlier for its stage,warning,R250611-piston,Piston,2025-06-11,$7.5 Mn is outside the usual Pre-Seed range ($0.04-7.1 Mn)
-C11,Amount outlier for its stage,warning,R250903-pbhealthcare,PB Healthcare,2025-09-03,$218 Mn is outside the usual Seed range ($0.10-25.8 Mn)
-C11,Amount outlier for its stage,warning,R250916-pharmeasy,PharmEasy,2025-09-16,$193.072 Mn is outside the usual Debt range ($0.59-190.3 Mn)
+C11,Amount outlier for its stage,warning,R250903-pbhealthcare,PB Healthcare,2025-09-03,$218 Mn is outside the usual Seed range ($0.10-25.9 Mn)
+C11,Amount outlier for its stage,warning,R250916-pharmeasy,PharmEasy,2025-09-16,$193.072 Mn is outside the usual Debt range ($0.62-176.3 Mn)
 C11,Amount outlier for its stage,warning,R251006-decortwist,DecorTwist,2025-10-06,$0.2 Mn is outside the usual Pre-Series A range ($0.21-17.9 Mn)
 C11,Amount outlier for its stage,warning,R251104-blyp,Blyp,2025-11-04,$0.056 Mn is outside the usual Pre-Series A range ($0.21-17.9 Mn)
 C11,Amount outlier for its stage,warning,R251106-giga,Giga,2025-11-06,$61 Mn is outside the usual Series A range ($1.11-53.2 Mn)
 C11,Amount outlier for its stage,warning,R251113-parallelwebsys,Parallel Web Systems,2025-11-13,$100 Mn is outside the usual Series A range ($1.11-53.2 Mn)
 C11,Amount outlier for its stage,warning,R260105-mylapay,Mylapay,2026-01-05,$1 Mn is outside the usual Series A range ($1.11-53.2 Mn)
-C11,Amount outlier for its stage,warning,R260202-dreamflyinnova,Dreamfly Innovations,2026-02-02,$0.328 Mn is outside the usual Debt range ($0.59-190.3 Mn)
-C11,Amount outlier for its stage,warning,R260210-slurrpfarm,Slurrp Farm,2026-02-10,$3.313 Mn is outside the usual Series C range ($5.40-262.4 Mn)
-C11,Amount outlier for its stage,warning,R260227-temple,Temple,2026-02-27,$54 Mn is outside the usual Seed range ($0.10-25.8 Mn)
+C11,Amount outlier for its stage,warning,R260202-dreamflyinnova,Dreamfly Innovations,2026-02-02,$0.328 Mn is outside the usual Debt range ($0.62-176.3 Mn)
+C11,Amount outlier for its stage,warning,R260210-slurrpfarm,Slurrp Farm,2026-02-10,$3.313 Mn is outside the usual Series C range ($4.62-285.0 Mn)
+C11,Amount outlier for its stage,warning,R260227-temple,Temple,2026-02-27,$54 Mn is outside the usual Seed range ($0.10-25.9 Mn)
 C11,Amount outlier for its stage,warning,R260609-bazaarnow,BazaarNow,2026-06-09,$7.551 Mn is outside the usual Pre-Seed range ($0.04-7.1 Mn)
-C11,Amount outlier for its stage,warning,R260615-sarvam,Sarvam,2026-06-15,$234 Mn is outside the usual Series B range ($2.02-151.6 Mn)
-C11,Amount outlier for its stage,warning,R260617-pramaanalabs,Pramaana Labs,2026-06-17,$27 Mn is outside the usual Seed range ($0.10-25.8 Mn)
-C11,Amount outlier for its stage,warning,R260624-vishalsikka,Vishal Sikka,2026-06-24,$32 Mn is outside the usual Seed range ($0.10-25.8 Mn)
-C11,Amount outlier for its stage,warning,R260625-hangtensystems,Hang Ten Systems,2026-06-24,$32 Mn is outside the usual Seed range ($0.10-25.8 Mn)
+C11,Amount outlier for its stage,warning,R260615-sarvam,Sarvam,2026-06-15,$234 Mn is outside the usual Series B range ($2.06-149.5 Mn)
+C11,Amount outlier for its stage,warning,R260617-pramaanalabs,Pramaana Labs,2026-06-17,$27 Mn is outside the usual Seed range ($0.10-25.9 Mn)
+C11,Amount outlier for its stage,warning,R260624-vishalsikka,Vishal Sikka,2026-06-24,$32 Mn is outside the usual Seed range ($0.10-25.9 Mn)
+C11,Amount outlier for its stage,warning,R260625-hangtensystems,Hang Ten Systems,2026-06-24,$32 Mn is outside the usual Seed range ($0.10-25.9 Mn)
 C11,Amount outlier for its stage,warning,R260707-stylework,Stylework,2026-07-07,$1 Mn is outside the usual Pre-Series B range ($1.32-41.5 Mn)
-C11,Amount outlier for its stage,warning,R260818-wisprflow,Wispr Flow,2026-08-17,$280 Mn is outside the usual Series B range ($2.02-151.6 Mn)
+C11,Amount outlier for its stage,warning,R260818-wisprflow,Wispr Flow,2026-08-17,$280 Mn is outside the usual Series B range ($2.06-149.5 Mn)
 C11,Amount outlier for its stage,warning,R260827-oorjaa,OORJAA,2026-08-27,$1.015 Mn is outside the usual Series A range ($1.11-53.2 Mn)
-C11,Amount outlier for its stage,warning,R261022-different,Different,2026-10-22,$48 Mn is outside the usual Seed range ($0.10-25.8 Mn)
+C11,Amount outlier for its stage,warning,R261022-different,Different,2026-10-22,$48 Mn is outside the usual Seed range ($0.10-25.9 Mn)
 C13,INR/USD mismatch,warning,R251029-jupiter,Jupiter,2025-10-29,"ENT-10606028: Rs 115 Cr and $15 Mn imply 76.7 INR/USD, reference rate was 88.7"
 C13,INR/USD mismatch,warning,R251029-jupiter,Jupiter,2025-10-29,"ET-124908900: Rs 115 Cr and $15 Mn imply 76.7 INR/USD, reference rate was 88.2"
 C13,INR/USD mismatch,warning,R260121-cuminco,Cumin Co.,2026-01-21,"ENT-11017896: Rs 41 Cr and $5 Mn imply 82.0 INR/USD, reference rate was 91.6"
@@ -2229,3 +2240,4 @@ C18,Stage disagreement,warning,R260630-kapturecx,Kapture CX,2026-06-30,entrackr:
 C18,Stage disagreement,warning,R260723-businessnext,BUSINESSNEXT,2026-07-23,entrackr: Series B; inc42: Series C
 C18,Stage disagreement,warning,R260818-rezolv,Rezolv,2026-08-18,entrackr: Series A; et: Debt; inc42: Series A
 C18,Stage disagreement,warning,R261019-evenhealthcare,Even Healthcare,2026-10-19,entrackr: Series B; et: Series A; inc42: Series B
+C18,Stage disagreement,warning,R261116-bharatsemi,Bharat Semi,2026-11-16,entrackr: Seed; et: Bridge

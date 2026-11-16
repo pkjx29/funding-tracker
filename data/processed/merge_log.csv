@@ -1583,7 +1583,7 @@ R260311-drinkprime,INC-20260321-15,inc42,DrinkPrime,identical name,100.0
 R260311-nprep,ET-129438376,et,Nprep,identical name,100.0
 R260311-nprep,INC-20260314-20,inc42,NPrep,identical name,100.0
 R260311-opencfo,INC-20260314-17,inc42,OpenCFO,identical name,100.0
-R260312-mosaicwellness,INC-20260314-04,inc42,Mosiac Wellness,spelling variant (fuzzy match),92.9
+R260312-mosaicwellness,INC-20260314-04,inc42,Mosaic Wellness,identical name,100.0
 R260312-mosaicwellness,VCC-89ccda2203,vccircle,vcbacked mosaic wellness,name found inside the headline,100.0
 R260312-mosaicwellness,VCC-b4192485d4,vccircle,mosaic wellness,identical name,100.0
 R260313-waycool,INC-20260314-03,inc42,Waycool,identical name,100.0
@@ -2394,3 +2394,10 @@ R261105-altm,INC-20261107-05,inc42,altM,identical name,100.0
 R261105-cosmoservespac,ET-135573736,et,Cosmoserve Space,identical name,100.0
 R261105-cosmoservespac,INC-20261107-08,inc42,Cosmoserve,generic word added or dropped,100.0
 R261105-venomicsai,INC-20261107-10,inc42,Venomics AI,identical name,100.0
+R261111-greenjoules,INC-20261114-01,inc42,Greenjoules,identical name,100.0
+R261112-desibleai,ENT-12805523,entrackr,Desible.ai,identical name,100.0
+R261112-hundopizza,INC-20261114-05,inc42,Hundo Pizza,identical name,100.0
+R261112-misteo,INC-20261114-04,inc42,mistEO,identical name,100.0
+R261112-qbmen,INC-20261114-07,inc42,QB Men,identical name,100.0
+R261113-kutlerriai,INC-20261114-02,inc42,Kutlerri.ai,identical name,100.0
+R261116-bharatsemi,ET-135859852,et,Bharat Semi,identical name,100.0
